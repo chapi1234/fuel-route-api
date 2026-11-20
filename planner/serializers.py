@@ -13,6 +13,16 @@ class TripRequestSerializer(serializers.Serializer):
         max_value=50.0,
         help_text="How far off the route a station may be, in miles.",
     )
+    stop_cost = serializers.FloatField(
+        required=False,
+        default=5.0,
+        min_value=0.0,
+        max_value=100.0,
+        help_text=(
+            "Dollars each stop is worth avoiding. 0 gives the lowest possible fuel bill, "
+            "even if it means stopping for a few gallons to save cents."
+        ),
+    )
 
 
 class PlaceSerializer(serializers.Serializer):
@@ -65,15 +75,19 @@ class VehicleSerializer(serializers.Serializer):
     max_range_miles = serializers.FloatField()
     mpg = serializers.FloatField()
     tank_gallons = serializers.FloatField()
+    starts_with_full_tank = serializers.BooleanField()
 
 
 class SummarySerializer(serializers.Serializer):
-    total_fuel_cost = serializers.FloatField()
-    total_gallons = serializers.FloatField()
+    total_fuel_cost = serializers.FloatField(help_text="USD spent at the fuel stops.")
+    gallons_purchased = serializers.FloatField()
     number_of_stops = serializers.IntegerField()
     average_price_per_gallon = serializers.FloatField(allow_null=True)
+    trip_gallons = serializers.FloatField(help_text="Fuel burned over the whole trip.")
+    starting_tank_gallons_used = serializers.FloatField()
     stations_within_corridor = serializers.IntegerField()
     corridor_miles = serializers.FloatField()
+    stop_cost = serializers.FloatField()
 
 
 class TripPlanSerializer(serializers.Serializer):

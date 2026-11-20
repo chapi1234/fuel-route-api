@@ -30,6 +30,7 @@ class TripRequest:
     max_range_miles: float = 500.0
     mpg: float = 10.0
     corridor_miles: float = 10.0
+    stop_cost: float = 5.0  # USD weighed against each stop; see planner/optimizer.py
 
     @property
     def tank_gallons(self) -> float:
@@ -81,7 +82,11 @@ def plan_trip(request: TripRequest, router: Router | None = None) -> dict:
     )
     candidates = [Candidate(s.mile, s.price) for s in corridor]
     fuel_plan = plan_fuel_stops(
-        candidates, route.miles, tank_gallons=request.tank_gallons, mpg=request.mpg
+        candidates,
+        route.miles,
+        tank_gallons=request.tank_gallons,
+        mpg=request.mpg,
+        stop_cost=request.stop_cost,
     )
     chosen = [corridor[p.index] for p in fuel_plan.purchases]
     stations = FuelStation.objects.in_bulk([s.station_id for s in chosen])
@@ -132,17 +137,21 @@ def plan_trip(request: TripRequest, router: Router | None = None) -> dict:
             "max_range_miles": request.max_range_miles,
             "mpg": request.mpg,
             "tank_gallons": round(request.tank_gallons, 2),
+            "starts_with_full_tank": True,
         },
         "fuel_stops": stops,
         "summary": {
             "total_fuel_cost": round(total_cost, 2),
-            "total_gallons": round(total_gallons, 2),
+            "gallons_purchased": round(total_gallons, 2),
             "number_of_stops": len(stops),
             "average_price_per_gallon": round(total_cost / total_gallons, 3)
             if total_gallons
             else None,
+            "trip_gallons": round(fuel_plan.trip_gallons, 2),
+            "starting_tank_gallons_used": round(fuel_plan.starting_gallons, 2),
             "stations_within_corridor": len(corridor),
             "corridor_miles": request.corridor_miles,
+            "stop_cost": request.stop_cost,
         },
         "meta": {
             "external_api_calls": {"routing": calls.routing, "geocoding": calls.geocoding},

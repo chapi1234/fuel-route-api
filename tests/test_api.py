@@ -69,8 +69,11 @@ def test_plans_a_trip_with_one_routing_call(client, router):
     body = response.json()
     assert router.calls == 1
     assert body["meta"]["external_api_calls"] == {"routing": 1, "geocoding": 0}
-    assert [s["station"]["name"] for s in body["fuel_stops"]] == ["WEST STOP", "MIDDLE STOP"]
-    assert body["summary"]["total_gallons"] == pytest.approx(53.0)
+    # Starts full (500 mi of fuel); the 530 mi trip needs 3 more gallons, bought at the
+    # cheapest station on the road.
+    assert [s["station"]["name"] for s in body["fuel_stops"]] == ["MIDDLE STOP"]
+    assert body["summary"]["gallons_purchased"] == pytest.approx(3.0, abs=0.05)
+    assert body["summary"]["trip_gallons"] == pytest.approx(53.0)
     expected = sum(s["gallons"] * s["price_per_gallon"] for s in body["fuel_stops"])
     assert body["summary"]["total_fuel_cost"] == pytest.approx(expected, abs=0.02)
     assert body["route"]["geometry"]["type"] == "LineString"
@@ -83,6 +86,11 @@ def test_repeated_trip_uses_the_cached_route(client, router):
     assert router.calls == 1
     assert body["meta"]["route_from_cache"] is True
     assert body["meta"]["external_api_calls"]["routing"] == 0
+
+
+def test_stop_cost_is_validated_and_echoed(client, router):
+    assert plan(client, stop_cost=-1).status_code == 400
+    assert plan(client, stop_cost=0).json()["summary"]["stop_cost"] == 0
 
 
 def test_saved_plan_and_map_can_be_fetched(client, router):

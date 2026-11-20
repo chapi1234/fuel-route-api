@@ -39,7 +39,7 @@
   </div>
   <div class="totals">
     <div><span class="muted">Fuel cost</span><b>${{ result.summary.total_fuel_cost|floatformat:2 }}</b></div>
-    <div><span class="muted">Gallons</span><b>{{ result.summary.total_gallons|floatformat:1 }}</b></div>
+    <div><span class="muted">Gallons bought</span><b>{{ result.summary.gallons_purchased|floatformat:1 }}</b></div>
     <div><span class="muted">Stops</span><b>{{ result.summary.number_of_stops }}</b></div>
   </div>
   <ol id="stops">
@@ -54,7 +54,8 @@
     </li>
     {% endfor %}
   </ol>
-  <p class="muted">Station positions are their town's location; prices from the provided price list.
+  {% if not result.fuel_stops %}<p>No fuel stop needed: the full starting tank covers the trip.</p>{% endif %}
+  <p class="muted">Starts with a full tank ({{ result.vehicle.tank_gallons|floatformat:0 }} gal). Station positions are their town's location; prices from the provided price list.
     Route: {{ result.route.provider }} ({{ result.route.profile }}).</p>
 </aside>
 {{ result|json_script:"plan" }}

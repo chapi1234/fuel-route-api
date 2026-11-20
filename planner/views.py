@@ -54,7 +54,10 @@ class TripPlanCreateView(APIView):
             return error("invalid_request", serializer.errors, status.HTTP_400_BAD_REQUEST)
         data = serializer.validated_data
         trip = TripRequest(
-            start=data["start"], finish=data["finish"], corridor_miles=data["corridor_miles"]
+            start=data["start"],
+            finish=data["finish"],
+            corridor_miles=data["corridor_miles"],
+            stop_cost=data["stop_cost"],
         )
         try:
             result = plan_trip(trip)
