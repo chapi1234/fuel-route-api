@@ -138,7 +138,9 @@ def main() -> None:
     with (DATA / "us_places.csv").open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle, lineterminator="\n")
         writer.writerow(["state", "name", "lat", "lon"])
-        for row in places:
+        # Larger places first, so a name shared by two places in a state resolves to the
+        # bigger one (the request-time lookup keeps the first match).
+        for row in sorted(places, key=lambda r: (r["USPS"], -float(r["ALAND"]))):
             if row["USPS"] in US_STATES:
                 plain = gazetteer_name_variants(row["NAME"])[-1]
                 writer.writerow(
