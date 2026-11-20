@@ -12,6 +12,8 @@ coordinates. This script locates every station's city once, offline:
 Outputs (committed to the repo):
     data/station_cities.csv  every (state, city) in the fuel file with coordinates
     data/us_places.csv       Census places, for resolving "City, ST" request inputs
+    data/us_boundary.json    the US border (Census cartographic boundary, 1:20M), used
+                             to reject start/finish points outside the USA
 
 Usage:
     uv run python scripts/build_geodata.py [--gazetteer-dir DIR] [--offline]
@@ -21,6 +23,7 @@ import argparse
 import csv
 import io
 import json
+import struct
 import sys
 import time
 import zipfile
@@ -39,6 +42,7 @@ GAZETTEER_URL = (
 )
 PLACES = "2024_Gaz_place_national"
 COUNTY_SUBDIVISIONS = "2024_Gaz_cousubs_national"
+NATION_URL = "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_nation_20m.zip"
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 USER_AGENT = "fuel-route-api-data-build/1.0 (github.com/chapi1234/fuel-route-api)"
 
@@ -75,6 +79,42 @@ def build_index(
                 if key not in best or score > best[key][0]:
                     best[key] = (score, lat, lon, row["NAME"])
     return {key: (lat, lon, name) for key, (_, lat, lon, name) in best.items()}
+
+
+def read_boundary_rings(directory: Path | None) -> list[list[list[float]]]:
+    """Polygon rings of the US border from the Census shapefile (parsed directly; the
+    .shp polygon format is simple enough not to need a GIS library)."""
+    name = "cb_2024_us_nation_20m.shp"
+    if directory and (directory / name).is_file():
+        data = (directory / name).read_bytes()
+    else:
+        print("Downloading the US boundary ...")
+        response = httpx.get(NATION_URL, timeout=120, follow_redirects=True)
+        response.raise_for_status()
+        with zipfile.ZipFile(io.BytesIO(response.content)) as archive:
+            data = archive.read(name)
+    rings: list[list[list[float]]] = []
+    offset = 100  # file header
+    while offset < len(data):
+        _, length = struct.unpack(">ii", data[offset : offset + 8])
+        record = data[offset + 8 : offset + 8 + 2 * length]
+        offset += 8 + 2 * length
+        if struct.unpack("<i", record[:4])[0] != 5:  # 5 = polygon
+            continue
+        num_parts, num_points = struct.unpack("<ii", record[36:44])
+        parts = list(struct.unpack(f"<{num_parts}i", record[44 : 44 + 4 * num_parts]))
+        start = 44 + 4 * num_parts
+        points = struct.unpack(f"<{2 * num_points}d", record[start : start + 16 * num_points])
+        coords = [[round(points[i], 4), round(points[i + 1], 4)] for i in range(0, len(points), 2)]
+        for a, b in zip(parts, [*parts[1:], num_points], strict=True):
+            ring = coords[a:b]
+            lons = [p[0] for p in ring]
+            lats = [p[1] for p in ring]
+            # Keep the 50 states and DC; drop Puerto Rico and the island territories.
+            is_territory = max(lats) < 19 and min(lons) > -68 or min(lons) > 0 and max(lats) < 25
+            if len(ring) >= 4 and not is_territory:
+                rings.append(ring)
+    return rings
 
 
 def nominatim(city: str, state: str, client: httpx.Client) -> tuple[float, float] | None:
@@ -151,6 +191,13 @@ def main() -> None:
                         f"{float(row['INTPTLONG']):.5f}",
                     ]
                 )
+
+    rings = read_boundary_rings(args.gazetteer_dir)
+    (DATA / "us_boundary.json").write_text(
+        json.dumps({"source": NATION_URL, "rings": rings}, separators=(",", ":")) + "\n",
+        encoding="utf-8",
+    )
+    print(f"US boundary: {len(rings)} rings, {sum(len(r) for r in rings)} points")
 
     sources = {source: sum(1 for r in rows if r[5] == source) for source in ("census", "nominatim")}
     print(f"{len(cities)} station cities: {sources}, unresolved {len(unresolved)}")

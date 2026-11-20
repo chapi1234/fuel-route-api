@@ -2,7 +2,7 @@ import httpx
 import pytest
 import respx
 
-from geo.places import OutsideUSA, PlaceNotFound, geocode, resolve_offline
+from geo.places import OutsideUSA, PlaceNotFound, geocode, in_usa, resolve_offline
 
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
 
@@ -30,9 +30,36 @@ def test_coordinates_are_used_as_given():
     assert (place.lat, place.lon, place.source) == (39.7392, -104.9903, "coordinates")
 
 
-def test_coordinates_outside_the_usa_are_rejected():
+@pytest.mark.parametrize(
+    "point",
+    [
+        "51.5072,-0.1276",  # London
+        "43.6532,-79.3832",  # Toronto: inside the old rough US bounding box
+        "45.5019,-73.5674",  # Montreal
+        "49.2827,-123.1207",  # Vancouver
+        "42.9849,-81.2453",  # London, Ontario, between Detroit and Buffalo
+        "32.5149,-117.0382",  # Tijuana
+        "18.4655,-66.1057",  # San Juan, Puerto Rico: a territory, not a state
+    ],
+)
+def test_coordinates_outside_the_usa_are_rejected(point):
     with pytest.raises(OutsideUSA):
-        resolve_offline("51.5072,-0.1276")  # London
+        resolve_offline(point)
+
+
+@pytest.mark.parametrize(
+    ("lat", "lon"),
+    [
+        (42.3314, -83.0458),  # Detroit
+        (48.9989, -122.7500),  # Blaine, WA, on the Canadian border
+        (25.7617, -80.1918),  # Miami
+        (61.2181, -149.9003),  # Anchorage
+        (21.3069, -157.8583),  # Honolulu
+        (24.5551, -81.7800),  # Key West
+    ],
+)
+def test_us_points_are_accepted(lat, lon):
+    assert in_usa(lat, lon)
 
 
 @pytest.mark.parametrize("query", ["1600 Pennsylvania Ave NW Washington", "Nowhereville, ZZ"])

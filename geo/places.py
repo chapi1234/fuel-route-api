@@ -10,12 +10,14 @@ Accepted inputs, in the order they are tried:
 """
 
 import csv
+import json
 import re
 from dataclasses import dataclass
 from functools import lru_cache
 from pathlib import Path
 
 import httpx
+import numpy as np
 from django.conf import settings
 
 from geo.names import US_STATES, place_key
@@ -34,13 +36,6 @@ STATE_NAMES = {
     "texas": "TX", "utah": "UT", "vermont": "VT", "virginia": "VA", "washington": "WA",
     "west virginia": "WV", "wisconsin": "WI", "wyoming": "WY",
 }  # fmt: skip
-
-# Rough boxes for the 48 contiguous states, Alaska and Hawaii.
-US_BOUNDS = [
-    (24.3, 49.5, -125.0, -66.8),
-    (51.0, 71.5, -180.0, -129.9),
-    (18.8, 22.4, -160.5, -154.7),
-]
 
 _COORDINATES = re.compile(r"^\s*(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)\s*$")
 
@@ -62,8 +57,33 @@ class Place:
     source: str  # "coordinates", "places" or "geocoder"
 
 
+@lru_cache(maxsize=1)
+def _us_rings() -> list[tuple[np.ndarray, tuple[float, float, float, float]]]:
+    """US border rings (Census 1:20M cartographic boundary) with their bounding boxes."""
+    path = Path(settings.DATA_DIR) / "us_boundary.json"
+    rings = json.loads(path.read_text(encoding="utf-8"))["rings"]
+    result = []
+    for ring in rings:
+        coords = np.asarray(ring, dtype=float)
+        box = (coords[:, 0].min(), coords[:, 0].max(), coords[:, 1].min(), coords[:, 1].max())
+        result.append((coords, box))
+    return result
+
+
 def in_usa(lat: float, lon: float) -> bool:
-    return any(s <= lat <= n and w <= lon <= e for s, n, w, e in US_BOUNDS)
+    """Point-in-polygon test against the US border (even-odd rule over all rings)."""
+    inside = False
+    for coords, (west, east, south, north) in _us_rings():
+        if not (west <= lon <= east and south <= lat <= north):
+            continue
+        x1, y1 = coords[:-1, 0], coords[:-1, 1]
+        x2, y2 = coords[1:, 0], coords[1:, 1]
+        crosses = (y1 > lat) != (y2 > lat)
+        with np.errstate(divide="ignore", invalid="ignore"):
+            x_at = x1 + (lat - y1) * (x2 - x1) / (y2 - y1)
+        if np.count_nonzero(crosses & (lon < x_at)) % 2:
+            inside = not inside
+    return inside
 
 
 @lru_cache(maxsize=1)
