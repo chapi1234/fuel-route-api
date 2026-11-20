@@ -1,0 +1,3814 @@
+state,city_key,city,lat,lon,source
+AL,abbeville,Abbeville,31.564706,-85.259121,census
+AL,alabaster,Alabaster,33.214355,-86.823080,census
+AL,altoona,Altoona,34.040014,-86.305179,census
+AL,andalusia,Andalusia,31.309436,-86.478031,census
+AL,ashford,Ashford,31.185284,-85.236236,census
+AL,atmore,Atmore,31.124067,-87.457798,census
+AL,bessemer,Bessemer,33.370858,-86.971522,census
+AL,birmingham,Birmingham,33.527174,-86.797036,census
+AL,boaz,Boaz,34.199020,-86.155151,census
+AL,brent,Brent,32.944893,-87.172088,census
+AL,brewton,Brewton,31.109175,-87.076583,census
+AL,brundidge,Brundidge,31.717639,-85.817550,census
+AL,calera,Calera,33.122319,-86.745644,census
+AL,centre,Centre,34.153059,-85.671683,census
+AL,childersburg,Childersburg,33.292558,-86.340864,census
+AL,clanton,Clanton,32.845572,-86.619494,census
+AL,cottondale,Cottondale,33.193047,-87.454861,census
+AL,courtland,Courtland,34.669946,-87.327892,census
+AL,creola,Creola,30.874249,-88.009536,census
+AL,cullman,Cullman,34.176870,-86.840656,census
+AL,cusseta,Cusseta,32.787637,-85.305769,census
+AL,daleville,Daleville,31.291534,-85.711711,census
+AL,decatur,Decatur,34.572995,-86.989901,census
+AL,demopolis,Demopolis,32.499744,-87.826678,census
+AL,dothan,Dothan,31.233698,-85.406823,census
+AL,eastaboga,Eastaboga,33.605937,-86.021359,nominatim
+AL,enterprise,Enterprise,31.325529,-85.846071,census
+AL,eutaw,Eutaw,32.846247,-87.900332,census
+AL,evergreen,Evergreen,31.433216,-86.976081,census
+AL,fackler,Fackler,34.792583,-85.909977,nominatim
+AL,falkville,Falkville,34.377019,-86.909547,census
+AL,foley,Foley,30.397068,-87.668460,census
+AL,fortpayne,Fort Payne,34.457329,-85.689447,census
+AL,gadsden,Gadsden,34.006597,-86.016078,census
+AL,gordon,Gordon,31.143606,-85.092504,census
+AL,grandbay,Grand Bay,30.472082,-88.344401,census
+AL,grovehill,Grove Hill,31.698670,-87.772868,census
+AL,hamilton,Hamilton,34.138713,-87.970833,census
+AL,hanceville,Hanceville,34.064010,-86.764436,census
+AL,hartford,Hartford,31.105348,-85.691225,census
+AL,headland,Headland,31.354974,-85.357031,census
+AL,heflin,Heflin,33.647400,-85.569339,census
+AL,hopehull,Hope Hull,32.269863,-86.357192,nominatim
+AL,huntsville,Huntsville,34.697720,-86.676670,census
+AL,irvington,Irvington,30.506862,-88.233892,nominatim
+AL,jackson,Jackson,31.532321,-87.891183,census
+AL,jasper,Jasper,33.851110,-87.268348,census
+AL,jemison,Jemison,32.970705,-86.733070,census
+AL,knoxville,Knoxville,33.591772,-85.897188,nominatim
+AL,lincoln,Lincoln,33.580169,-86.127876,census
+AL,lineville,Lineville,33.312832,-85.752278,census
+AL,livingston,Livingston,32.595549,-88.186929,census
+AL,loxley,Loxley,30.684588,-87.739213,census
+AL,lynn,Lynn,34.057591,-87.548643,census
+AL,madison,Madison,34.710533,-86.762280,census
+AL,maplesville,Maplesville,32.784391,-86.879694,census
+AL,mccalla,Mc Calla,33.303112,-87.026660,census
+AL,millbrook,Millbrook,32.501474,-86.373914,census
+AL,mobile,Mobile,30.668246,-88.107853,census
+AL,monroeville,Monroeville,31.516223,-87.327714,census
+AL,montgomery,Montgomery,32.348503,-86.267307,census
+AL,moody,Moody,33.603429,-86.493786,census
+AL,moulton,Moulton,34.488302,-87.282707,census
+AL,mountvernon,Mount Vernon,31.087727,-88.013166,census
+AL,northport,Northport,33.257565,-87.596396,census
+AL,opelika,Opelika,32.660739,-85.378890,census
+AL,oxford,Oxford,33.596410,-85.868219,census
+AL,ozark,Ozark,31.451615,-85.645035,census
+AL,pelham,Pelham,33.321830,-86.742197,census
+AL,pellcity,Pell City,33.560312,-86.263634,census
+AL,pennington,Pennington,32.200612,-88.037572,census
+AL,phenixcity,Phenix City,32.453709,-85.031019,census
+AL,prattville,Prattville,32.449041,-86.449401,census
+AL,robertsdale,Robertsdale,30.557139,-87.704723,census
+AL,samson,SAMSON,31.112417,-86.046735,census
+AL,saraland,Saraland,30.854573,-88.109844,census
+AL,satsuma,Satsuma,30.857874,-88.063383,census
+AL,scottsboro,Scottsboro,34.644620,-86.048155,census
+AL,selma,Selma,32.416983,-87.035702,census
+AL,shorter,Shorter,32.411501,-85.972808,census
+AL,smithsstation,Smiths Station,32.522852,-85.099425,census
+AL,steele,Steele,33.941378,-86.192107,census
+AL,sylacauga,Sylacauga,33.188670,-86.274799,census
+AL,theodore,Theodore,30.538686,-88.187573,census
+AL,thomasville,Thomasville,31.915011,-87.737204,census
+AL,troy,Troy,31.801960,-85.967130,census
+AL,tuscaloosa,Tuscaloosa,33.234404,-87.528300,census
+AL,tuscumbia,Tuscumbia,34.718502,-87.702586,census
+AL,tuskegee,Tuskegee,32.418723,-85.682509,census
+AL,valley,Valley,32.801427,-85.204438,census
+AL,vance,Vance,33.173992,-87.226627,census
+AL,warrior,Warrior,33.814858,-86.815650,census
+AL,wetumpka,Wetumpka,32.540376,-86.206999,census
+AL,winfield,Winfield,33.934717,-87.791310,census
+AR,alma,Alma,35.492375,-94.213947,census
+AR,arkadelphia,Arkadelphia,34.127380,-93.070851,census
+AR,ashdown,Ashdown,33.674529,-94.126627,census
+AR,atkins,Atkins,35.240863,-92.949643,census
+AR,baldknob,Bald Knob,35.312539,-91.571253,census
+AR,batesville,Batesville,35.768572,-91.622652,census
+AR,beebe,Beebe,35.072433,-91.901059,census
+AR,benton,Benton,34.577424,-92.572583,census
+AR,blackrock,Black Rock,36.106237,-91.107480,census
+AR,blytheville,Blytheville,35.934066,-89.905133,census
+AR,boles,Boles,34.788119,-94.049397,census
+AR,brinkley,Brinkley,34.889781,-91.189819,census
+AR,bryant,Bryant,34.615059,-92.491338,census
+AR,cabot,Cabot,34.975106,-92.028288,census
+AR,carlisle,Carlisle,34.795425,-91.740494,census
+AR,cavecity,Cave City,35.947801,-91.546977,census
+AR,clarksville,Clarksville,35.453918,-93.481558,census
+AR,clinton,Clinton,35.578981,-92.455735,census
+AR,conway,Conway,35.074404,-92.467004,census
+AR,corning,Corning,36.413682,-90.583609,census
+AR,dumas,Dumas,33.883372,-91.485632,census
+AR,earle,Earle,35.273379,-90.464304,census
+AR,eldorado,El Dorado,33.218982,-92.664071,census
+AR,fayetteville,Fayetteville,36.071455,-94.166564,census
+AR,forrestcity,Forrest City,35.013599,-90.793207,census
+AR,fortsmith,Fort Smith,35.349276,-94.370883,census
+AR,gassville,Gassville,36.284949,-92.486830,census
+AR,greenbrier,Greenbrier,35.228811,-92.383563,census
+AR,gurdon,Gurdon,33.916032,-93.153910,census
+AR,hardy,Hardy,36.319645,-91.481503,census
+AR,harrison,Harrison,36.242592,-93.117650,census
+AR,hazen,Hazen,34.781368,-91.558058,census
+AR,hensley,Hensley,34.510410,-92.209517,census
+AR,hotspringsnationalpark,Hot Springs National Park,34.503700,-93.055200,nominatim
+AR,huntsville,Huntsville,36.098656,-93.733244,census
+AR,jacksonville,Jacksonville,34.880512,-92.130590,census
+AR,jonesboro,Jonesboro,35.819755,-90.679033,census
+AR,lakecity,Lake City,35.819370,-90.453905,census
+AR,lakevillage,Lake Village,33.329180,-91.284794,census
+AR,littlerock,Little Rock,34.725393,-92.358556,census
+AR,lonoke,Lonoke,34.790501,-91.907362,census
+AR,lowell,Lowell,36.255855,-94.153356,census
+AR,magnolia,Magnolia,33.276698,-93.226247,census
+AR,malvern,Malvern,34.373579,-92.821250,census
+AR,mansfield,Mansfield,35.063915,-94.234269,census
+AR,marion,Marion,35.204246,-90.206715,census
+AR,maumelle,Maumelle,34.852344,-92.399995,census
+AR,mccrory,Mc Crory,35.257326,-91.197276,census
+AR,morrilton,Morrilton,35.155456,-92.738932,census
+AR,mulberry,Mulberry,35.508500,-94.074753,census
+AR,newport,Newport,35.623772,-91.231682,census
+AR,northlittlerock,North Little Rock,34.781752,-92.235057,census
+AR,osceola,Osceola,35.690217,-89.988295,census
+AR,ozark,Ozark,35.501858,-93.848378,census
+AR,palestine,Palestine,34.970307,-90.908225,census
+AR,pinebluff,Pine Bluff,34.211591,-92.017555,census
+AR,pocahontas,Pocahontas,36.263366,-90.971224,census
+AR,portia,Portia,36.084865,-91.071044,census
+AR,prescott,Prescott,33.804320,-93.391207,census
+AR,rogers,Rogers,36.318085,-94.152287,census
+AR,russellville,Russellville,35.276328,-93.138743,census
+AR,searcy,Searcy,35.241134,-91.735223,census
+AR,sheridan,Sheridan,34.321575,-92.443067,census
+AR,springdale,Springdale,36.191438,-94.155062,census
+AR,stuttgart,Stuttgart,34.495233,-91.548638,census
+AR,texarkana,Texarkana,33.436339,-93.987118,census
+AR,trumann,Trumann,35.676980,-90.526094,census
+AR,turrell,Turrell,35.374609,-90.270384,census
+AR,warren,Warren,33.611829,-92.067718,census
+AR,westhelena,West Helena,34.544012,-90.642619,nominatim
+AR,westmemphis,West Memphis,35.149554,-90.199266,census
+AR,wheatley,Wheatley,34.921186,-91.106255,census
+AR,whitehall,White Hall,34.275179,-92.100649,census
+AR,widener,Widener,35.023498,-90.681934,census
+AZ,apachejunction,Apache Junction,33.382766,-111.540509,census
+AZ,ashfork,Ash Fork,35.217187,-112.491300,census
+AZ,avondale,Avondale,33.313236,-112.328928,census
+AZ,bellemont,Bellemont,35.242489,-111.813789,census
+AZ,benson,Benson,31.914497,-110.328552,census
+AZ,bowie,Bowie,32.324880,-109.484456,census
+AZ,buckeye,Buckeye,33.431573,-112.641626,census
+AZ,chandler,Chandler,33.282765,-111.851819,census
+AZ,claypool,Claypool,33.406101,-110.841873,census
+AZ,dewey,Dewey,34.517396,-112.249650,census
+AZ,ehrenberg,Ehrenberg,33.614208,-114.483007,census
+AZ,eloy,Eloy,32.741255,-111.594015,census
+AZ,flagstaff,Flagstaff,35.185212,-111.620698,census
+AZ,gilabend,Gila Bend,32.966242,-112.715465,census
+AZ,glendale,Glendale,33.533111,-112.189901,census
+AZ,globe,Globe,33.393642,-110.741106,census
+AZ,holbrook,Holbrook,34.904624,-110.167210,census
+AZ,josephcity,Joseph City,34.963693,-110.329039,census
+AZ,kingman,Kingman,35.216992,-114.010529,census
+AZ,lakehavasucity,Lake Havasu City,34.499809,-114.310943,census
+AZ,litchfieldpark,Litchfield Park,33.501761,-112.359470,census
+AZ,littlefield,Littlefield,36.865925,-113.935976,census
+AZ,lupton,Lupton,35.354743,-109.052817,census
+AZ,marana,Marana,32.465939,-111.135401,census
+AZ,mayer,Mayer,34.423271,-112.240747,census
+AZ,mesa,Mesa,33.400626,-111.716487,census
+AZ,nogales,Nogales,31.361928,-110.934820,census
+AZ,page,Page,36.941815,-111.513283,census
+AZ,payson,Payson,34.243841,-111.318964,census
+AZ,phoenix,Phoenix,33.572154,-112.090132,census
+AZ,prescott,Prescott,34.592241,-112.446733,census
+AZ,quartzsite,Quartzsite,33.667507,-114.217041,census
+AZ,riorico,Rio Rico,31.498168,-110.987798,census
+AZ,safford,Safford,32.833298,-109.697418,census
+AZ,salome,Salome,33.777771,-113.606047,census
+AZ,sansimon,San Simon,32.268169,-109.230200,census
+AZ,showlow,Show Low,34.265053,-110.038321,census
+AZ,sierravista,Sierra Vista,31.565410,-110.314508,census
+AZ,springerville,Springerville,34.171921,-109.306892,census
+AZ,surprise,Surprise,33.670801,-112.452546,census
+AZ,tacna,Tacna,32.700435,-113.961785,census
+AZ,tolleson,Tolleson,33.448370,-112.256012,census
+AZ,tonopah,Tonopah,33.487986,-112.930811,census
+AZ,tucson,Tucson,32.153036,-110.870773,census
+AZ,wikieup,Wikieup,34.693034,-113.599504,census
+AZ,willcox,Willcox,32.251804,-109.835698,census
+AZ,williams,Williams,35.246640,-112.183296,census
+AZ,willowbeach,Willow Beach,35.869780,-114.660065,nominatim
+AZ,winslow,Winslow,35.024236,-110.709331,census
+AZ,wittmann,Wittmann,33.774957,-112.525091,census
+AZ,yucca,Yucca,34.862993,-114.146145,census
+AZ,yuma,Yuma,32.516286,-114.521782,census
+CA,brawley,Brawley,32.978454,-115.528569,census
+CA,calexico,Calexico,32.684859,-115.494738,census
+CA,coachella,Coachella,33.690380,-116.143128,census
+CA,elcentro,El Centro,32.786351,-115.560206,census
+CA,jacumba,Jacumba,32.636478,-116.190706,census
+CA,thermal,Thermal,33.626195,-116.130834,census
+CA,westmorland,Westmorland,33.038996,-115.622441,census
+CO,alamosa,Alamosa,37.474528,-105.876956,census
+CO,atwood,Atwood,40.550477,-103.274598,census
+CO,aurora,Aurora,39.709537,-104.720509,census
+CO,bennett,Bennett,39.741727,-104.428719,census
+CO,berthoud,Berthoud,40.284675,-104.965515,census
+CO,brighton,Brighton,39.965699,-104.794170,census
+CO,brush,Brush,40.259263,-103.636334,census
+CO,burlington,Burlington,39.304169,-102.271412,census
+CO,canoncity,Canon City,38.442251,-105.234880,nominatim
+CO,coloradocity,Colorado City,37.939379,-104.843082,census
+CO,coloradosprings,Colorado Springs,38.867255,-104.760749,census
+CO,commercecity,Commerce City,39.882792,-104.794908,census
+CO,cortez,Cortez,37.349783,-108.576687,census
+CO,craig,Craig,40.517060,-107.555396,census
+CO,crook,Crook,40.858779,-102.801383,census
+CO,debeque,De Beque,39.309989,-108.204999,census
+CO,denver,Denver,39.761850,-104.881105,census
+CO,dumont,Dumont,39.764689,-105.600337,nominatim
+CO,durango,Durango,37.264534,-107.874124,census
+CO,eads,Eads,38.481648,-102.779823,census
+CO,eaton,Eaton,40.525685,-104.712987,census
+CO,erie,Erie,40.040287,-105.038310,census
+CO,evans,Evans,40.350165,-104.748355,census
+CO,fortcollins,Fort Collins,40.548216,-105.064833,census
+CO,fortmorgan,Fort Morgan,40.253003,-103.788652,census
+CO,fountain,Fountain,38.689020,-104.680559,census
+CO,fruita,Fruita,39.155567,-108.729584,census
+CO,golden,Golden,39.742483,-105.210561,census
+CO,grandjunction,Grand Junction,39.089062,-108.567452,census
+CO,greeley,Greeley,40.416576,-104.773280,census
+CO,hudson,Hudson,40.091746,-104.593741,census
+CO,johnstown,Johnstown,40.307248,-104.911205,census
+CO,keenesburg,Keenesburg,40.155173,-104.563420,census
+CO,kersey,Kersey,40.395585,-104.578334,census
+CO,kremmling,Kremmling,40.056542,-106.378216,census
+CO,lamar,Lamar,38.075971,-102.614723,census
+CO,limon,Limon,39.265074,-103.685911,census
+CO,longmont,Longmont,40.168199,-105.100522,census
+CO,mead,Mead,40.227002,-104.988320,census
+CO,meeker,Meeker,40.049953,-107.894584,census
+CO,montrose,Montrose,38.468893,-107.858983,census
+CO,monument,Monument,39.074406,-104.844221,census
+CO,palisade,Palisade,39.107931,-108.357330,census
+CO,parachute,Parachute,39.446788,-108.052083,census
+CO,pueblo,Pueblo,38.269228,-104.610816,census
+CO,rifle,Rifle,39.537565,-107.770344,census
+CO,seibert,Seibert,39.297967,-102.869524,census
+CO,silt,Silt,39.547978,-107.652736,census
+CO,sterling,Sterling,40.620487,-103.192582,census
+CO,towaoc,Towaoc,37.212599,-108.726461,census
+CO,trinidad,Trinidad,37.173157,-104.490326,census
+CO,walsenburg,Walsenburg,37.630598,-104.781719,census
+CO,watkins,Watkins,39.698399,-104.577223,census
+CO,wellington,Wellington,40.700703,-105.005699,census
+CO,wheatridge,Wheat Ridge,39.772675,-105.104801,census
+CO,wiggins,Wiggins,40.228425,-104.072134,census
+CO,windsor,Windsor,40.478273,-104.915053,census
+CO,wray,Wray,40.079920,-102.228597,census
+CO,yuma,Yuma,40.122511,-102.715636,census
+CT,branford,Branford,41.279949,-72.785950,census
+CT,bridgeport,Bridgeport,41.187393,-73.195757,census
+CT,danbury,Danbury,41.398741,-73.478103,census
+CT,darien,Darien,41.052150,-73.479714,census
+CT,eastgranby,East Granby,41.929719,-72.745378,census
+CT,eastlyme,East Lyme,41.356068,-72.229841,census
+CT,eastwindsor,East Windsor,41.904009,-72.564473,census
+CT,hartford,Hartford,41.765933,-72.681579,census
+CT,madison,Madison,41.344479,-72.624543,census
+CT,milford,Milford,41.223644,-73.064556,census
+CT,milldale,Milldale,41.566137,-72.899967,nominatim
+CT,newhaven,New Haven,41.310809,-72.924953,census
+CT,northhaven,North Haven,41.381465,-72.856371,census
+CT,northstonington,North Stonington,41.470969,-71.872525,census
+CT,plainfield,Plainfield,41.693613,-71.900776,census
+CT,southwindsor,South Windsor,41.838090,-72.577836,census
+CT,waterbury,Waterbury,41.558500,-73.036685,census
+CT,westhaven,West Haven,41.272121,-72.967497,census
+CT,willington,Willington,41.897267,-72.251848,census
+DE,bridgeville,Bridgeville,38.725150,-75.602811,census
+DE,felton,Felton,39.012645,-75.576588,census
+DE,greenwood,Greenwood,38.807163,-75.589996,census
+DE,laurel,Laurel,38.571457,-75.571134,census
+DE,middletown,Middletown,39.443394,-75.717504,census
+DE,newcastle,New Castle,39.670017,-75.566519,census
+DE,newark,Newark,39.677649,-75.757479,census
+DE,seaford,Seaford,38.657254,-75.613378,census
+FL,baker,Baker,30.797225,-86.681691,nominatim
+FL,bartow,Bartow,27.886803,-81.821758,census
+FL,blountstown,Blountstown,30.442850,-85.045401,census
+FL,bonitasprings,Bonita Springs,26.355011,-81.784234,census
+FL,boyntonbeach,Boynton Beach,26.528334,-80.080722,census
+FL,bradenton,Bradenton,27.489798,-82.576804,census
+FL,branford,Branford,29.962250,-82.924284,census
+FL,brooksville,Brooksville,28.516578,-82.404665,census
+FL,bushnell,Bushnell,28.686946,-82.114406,census
+FL,callahan,Callahan,30.565441,-81.831911,census
+FL,chiefland,Chiefland,29.492246,-82.866334,census
+FL,clearwater,Clearwater,27.979419,-82.771256,census
+FL,cocoa,Cocoa,28.376643,-80.763306,census
+FL,cottondale,Cottondale,30.789730,-85.366039,census
+FL,dadecity,Dade City,28.352630,-82.194158,census
+FL,davenport,Davenport,28.161193,-81.610839,census
+FL,defuniaksprings,Defuniak Springs,30.706132,-86.118570,census
+FL,ellenton,Ellenton,27.526580,-82.526683,census
+FL,fortlauderdale,Fort Lauderdale,26.141227,-80.146731,census
+FL,fortmyers,Fort Myers,26.619820,-81.831673,census
+FL,fortpierce,Fort Pierce,27.426112,-80.342488,census
+FL,gainesville,Gainesville,29.679537,-82.346793,census
+FL,grandridge,Grand Ridge,30.704110,-85.022609,census
+FL,hainescity,Haines City,28.112817,-81.616537,census
+FL,hastings,Hastings,29.714390,-81.499154,census
+FL,hawthorne,Hawthorne,29.593677,-82.094467,census
+FL,hialeah,Hialeah,25.869941,-80.302865,census
+FL,homestead,Homestead,25.466694,-80.444342,census
+FL,hosford,Hosford,30.403387,-84.808087,census
+FL,hudson,Hudson,28.359232,-82.689659,census
+FL,immokalee,Immokalee,26.424012,-81.421556,census
+FL,jacksonville,Jacksonville,30.336864,-81.661603,census
+FL,jasper,Jasper,30.455935,-82.934214,census
+FL,jennings,Jennings,30.596821,-83.106994,census
+FL,jupiter,Jupiter,26.918551,-80.116940,census
+FL,kissimmee,Kissimmee,28.302780,-81.417831,census
+FL,labelle,Labelle,26.720952,-81.452477,census
+FL,lakebutler,Lake Butler,28.498283,-81.548243,census
+FL,lakecity,Lake City,30.188638,-82.642246,census
+FL,lakepanasoffkee,Lake Panasoffkee,28.784289,-82.123072,census
+FL,lakeplacid,Lake Placid,27.302605,-81.371476,census
+FL,lakewales,Lake Wales,27.920697,-81.599505,census
+FL,lakeland,Lakeland,28.055496,-81.954772,census
+FL,lamont,Lamont,30.379675,-83.813376,census
+FL,landolakes,Land O Lakes,28.208307,-82.445842,census
+FL,lawtey,Lawtey,30.048440,-82.072478,census
+FL,lecanto,Lecanto,28.825092,-82.499791,census
+FL,lee,Lee,30.413101,-83.304142,census
+FL,leesburg,Leesburg,28.717206,-81.903089,census
+FL,liveoak,Live Oak,30.295650,-82.985117,census
+FL,macclenny,Macclenny,30.281052,-82.125906,census
+FL,madison,Madison,30.471487,-83.413453,census
+FL,marathon,Marathon,24.732338,-81.025122,census
+FL,marianna,Marianna,30.761445,-85.256258,census
+FL,mascotte,Mascotte,28.604341,-81.905549,census
+FL,mcalpin,Mc Alpin,30.194189,-82.917342,census
+FL,miami,Miami,25.775163,-80.208615,census
+FL,middleburg,Middleburg,30.050226,-81.901075,census
+FL,midway,Midway,30.405055,-87.009612,census
+FL,milton,Milton,30.629636,-87.051407,census
+FL,mims,Mims,28.691319,-80.843999,census
+FL,moorehaven,Moore Haven,26.833752,-81.098451,census
+FL,nokomis,Nokomis,27.123799,-82.435785,census
+FL,northfortmyers,North Fort Myers,26.717956,-81.845811,census
+FL,ocala,Ocala,29.177510,-82.151025,census
+FL,okeechobee,Okeechobee,27.241608,-80.829311,census
+FL,opalocka,Opa Locka,25.899998,-80.255219,census
+FL,orlando,Orlando,28.408650,-81.254805,census
+FL,ormondbeach,Ormond Beach,29.293276,-81.101447,census
+FL,palatka,Palatka,29.644871,-81.676737,census
+FL,palmbay,Palm Bay,27.954802,-80.664962,census
+FL,palmetto,Palmetto,27.525050,-82.574964,census
+FL,panamacity,Panama City,30.166271,-85.670191,census
+FL,pensacola,Pensacola,30.440989,-87.191242,census
+FL,perry,Perry,30.109053,-83.582275,census
+FL,pierson,Pierson,29.241647,-81.456640,census
+FL,plantcity,Plant City,28.015355,-82.117805,census
+FL,polkcity,Polk City,28.180471,-81.830032,census
+FL,pompanobeach,Pompano Beach,26.241622,-80.133851,census
+FL,puntagorda,Punta Gorda,26.897754,-82.065812,census
+FL,reddick,Reddick,29.368698,-82.197561,census
+FL,saintaugustine,Saint Augustine,29.896152,-81.311128,census
+FL,saintjohns,Saint Johns,30.081700,-81.547600,nominatim
+FL,sanantonio,San Antonio,28.339858,-82.278605,census
+FL,sebring,Sebring,27.471396,-81.451568,census
+FL,seffner,Seffner,28.001639,-82.274077,census
+FL,southbay,South Bay,26.688379,-80.735526,census
+FL,summerfield,Summerfield,29.008592,-82.034809,nominatim
+FL,tallahassee,Tallahassee,30.453529,-84.252272,census
+FL,tampa,Tampa,27.970086,-82.479673,census
+FL,verobeach,Vero Beach,27.647220,-80.393136,census
+FL,waldo,Waldo,29.792038,-82.166931,census
+FL,webster,Webster,28.612509,-82.050094,census
+FL,westpalmbeach,West Palm Beach,26.745114,-80.127038,census
+FL,wildwood,Wildwood,28.805813,-82.007324,census
+FL,wintergarden,Winter Garden,28.541217,-81.597043,census
+FL,youngstown,Youngstown,30.364363,-85.438257,nominatim
+FL,yulee,Yulee,30.635418,-81.569584,census
+FL,zellwood,Zellwood,28.721898,-81.573234,census
+GA,albany,ALBANY,31.578117,-84.176224,census
+GA,acworth,Acworth,34.061991,-84.681121,census
+GA,adairsville,Adairsville,34.370846,-84.921192,census
+GA,adel,Adel,31.124800,-83.425485,census
+GA,albany,Albany,31.578117,-84.176224,census
+GA,alma,Alma,31.543326,-82.475577,census
+GA,alpharetta,Alpharetta,34.070866,-84.272650,census
+GA,americus,Americus,32.074377,-84.222829,census
+GA,athens,Athens,33.949597,-83.370088,census
+GA,atlanta,Atlanta,33.762909,-84.422675,census
+GA,attapulgus,Attapulgus,30.749490,-84.483886,census
+GA,augusta,Augusta,33.365531,-82.073422,census
+GA,bainbridge,Bainbridge,30.906213,-84.572652,census
+GA,baxley,Baxley,31.764753,-82.349254,census
+GA,bethlehem,Bethlehem,33.937948,-83.709982,census
+GA,blackshear,Blackshear,31.290828,-82.252927,census
+GA,bloomingdale,Bloomingdale,32.124998,-81.308387,census
+GA,blythe,Blythe,33.303066,-82.207357,census
+GA,braselton,Braselton,34.107616,-83.812908,census
+GA,bremen,Bremen,33.710765,-85.151897,census
+GA,brunswick,Brunswick,31.136149,-81.466936,census
+GA,buenavista,Buena Vista,32.318481,-84.517564,census
+GA,byron,Byron,32.649497,-83.747954,census
+GA,cairo,Cairo,30.879229,-84.205505,census
+GA,calhoun,Calhoun,34.499792,-84.933058,census
+GA,camilla,Camilla,31.234057,-84.209563,census
+GA,carnesville,Carnesville,34.376763,-83.234483,census
+GA,cartersville,Cartersville,34.164579,-84.801704,census
+GA,chatsworth,Chatsworth,34.781091,-84.782472,census
+GA,clarkesville,Clarkesville,34.609289,-83.527470,census
+GA,columbus,Columbus,32.510191,-84.874946,census
+GA,commerce,Commerce,34.214298,-83.475713,census
+GA,conley,Conley,33.642273,-84.334334,census
+GA,cordele,Cordele,31.956090,-83.770077,census
+GA,crawfordville,Crawfordville,33.554641,-82.896695,census
+GA,cusseta,Cusseta,32.347445,-84.788021,census
+GA,cuthbert,Cuthbert,31.770686,-84.793575,census
+GA,dacula,Dacula,33.981967,-83.901080,census
+GA,dalton,Dalton,34.767898,-84.972812,census
+GA,darien,Darien,31.343489,-81.424103,census
+GA,dawson,Dawson,31.771864,-84.443499,census
+GA,dawsonville,Dawsonville,34.433651,-84.124449,census
+GA,donalsonville,Donalsonville,31.039691,-84.878424,census
+GA,douglas,Douglas,31.506114,-82.854335,census
+GA,dublin,Dublin,32.535471,-82.928807,census
+GA,dudley,Dudley,32.533480,-83.083619,census
+GA,eastdublin,East Dublin,32.546925,-82.866967,census
+GA,eatonton,Eatonton,33.325821,-83.388862,census
+GA,elberton,Elberton,34.104921,-82.872760,census
+GA,ellabell,Ellabell,32.123537,-81.485667,nominatim
+GA,ellenwood,Ellenwood,33.610110,-84.287978,nominatim
+GA,emerson,Emerson,34.131182,-84.745362,census
+GA,fairburn,Fairburn,33.547798,-84.587265,census
+GA,folkston,Folkston,30.839068,-82.007342,census
+GA,forestpark,Forest Park,33.620543,-84.358181,census
+GA,forsyth,Forsyth,33.039361,-83.934443,census
+GA,fortvalley,Fort Valley,32.551114,-83.879939,census
+GA,fortson,Fortson,33.377891,-84.288812,nominatim
+GA,gainesville,Gainesville,34.290100,-83.829106,census
+GA,gordon,Gordon,32.886187,-83.333588,census
+GA,greensboro,Greensboro,33.563569,-83.189093,census
+GA,griffin,Griffin,33.243188,-84.271861,census
+GA,grovetown,Grovetown,33.449769,-82.207966,census
+GA,guyton,Guyton,32.332270,-81.390385,census
+GA,hahira,Hahira,30.992155,-83.377258,census
+GA,hampton,Hampton,33.377704,-84.298974,census
+GA,harlem,Harlem,33.435349,-82.316065,census
+GA,hawkinsville,Hawkinsville,32.301182,-83.478856,census
+GA,hazlehurst,Hazlehurst,31.864128,-82.599276,census
+GA,hephzibah,Hephzibah,33.292300,-82.095732,census
+GA,hogansville,Hogansville,33.166986,-84.902788,census
+GA,homerville,Homerville,31.038226,-82.742081,census
+GA,jackson,Jackson,33.292359,-83.967846,census
+GA,jasper,Jasper,34.466199,-84.435863,census
+GA,jefferson,Jefferson,34.136239,-83.602157,census
+GA,jeffersonville,Jeffersonville,32.686289,-83.342676,census
+GA,jesup,Jesup,31.594574,-81.895699,census
+GA,kingsland,Kingsland,30.846097,-81.790911,census
+GA,lagrange,Lagrange,33.026980,-85.038261,census
+GA,lakepark,Lake Park,30.685560,-83.187704,census
+GA,leesburg,Leesburg,31.732058,-84.168546,census
+GA,lithiasprings,Lithia Springs,33.782487,-84.648488,census
+GA,lithonia,Lithonia,33.712954,-84.106200,census
+GA,louisville,Louisville,32.992865,-82.397188,census
+GA,lula,Lula,34.398088,-83.661905,census
+GA,lumbercity,Lumber City,31.933052,-82.683197,census
+GA,macon,Macon,32.808990,-83.694060,census
+GA,madison,Madison,33.579038,-83.475971,census
+GA,marietta,Marietta,33.953561,-84.542463,census
+GA,mcdonough,Mcdonough,33.442222,-84.150963,census
+GA,metter,Metter,32.394510,-82.062432,census
+GA,midland,Midland,32.574861,-84.827152,nominatim
+GA,midway,Midway,31.801003,-81.416664,census
+GA,millen,Millen,32.806892,-81.942039,census
+GA,monroe,Monroe,33.797481,-83.718728,census
+GA,moultrie,Moultrie,31.179430,-83.790786,census
+GA,newnan,Newnan,33.375833,-84.777324,census
+GA,ocilla,Ocilla,31.598633,-83.249809,census
+GA,palmetto,Palmetto,33.536038,-84.673791,census
+GA,pelham,Pelham,31.126639,-84.151459,census
+GA,perry,Perry,32.473708,-83.727809,census
+GA,pinehurst,Pinehurst,32.196212,-83.759519,census
+GA,pooler,Pooler,32.105635,-81.256032,census
+GA,portwentworth,Port Wentworth,32.192015,-81.205725,census
+GA,pulaski,Pulaski,32.390651,-81.953437,census
+GA,rabungap,Rabun Gap,34.957214,-83.386454,nominatim
+GA,register,Register,32.364530,-81.880493,census
+GA,resaca,Resaca,34.579365,-84.943824,census
+GA,richland,Richland,32.088762,-84.662001,census
+GA,richmondhill,Richmond Hill,31.900191,-81.310077,census
+GA,rincon,Rincon,32.294690,-81.235348,census
+GA,ringgold,Ringgold,34.913661,-85.121510,census
+GA,risingfawn,Rising Fawn,34.760079,-85.531076,nominatim
+GA,rockmart,Rockmart,34.008306,-85.044978,census
+GA,rome,Rome,34.266133,-85.186052,census
+GA,saintmarys,Saint Marys,30.756672,-81.578449,census
+GA,savannah,Savannah,32.018043,-81.196492,census
+GA,soperton,Soperton,32.378268,-82.594019,census
+GA,statesboro,Statesboro,32.437726,-81.775637,census
+GA,stonemountain,Stone Mountain,33.804187,-84.171420,census
+GA,surrency,Surrency,31.721916,-82.197823,census
+GA,sycamore,Sycamore,31.671652,-83.635525,census
+GA,sylvania,Sylvania,32.747226,-81.640693,census
+GA,tallapoosa,Tallapoosa,33.736656,-85.287358,census
+GA,taylorsville,Taylorsville,34.085129,-84.985629,census
+GA,temple,Temple,33.733245,-85.027295,census
+GA,tennille,Tennille,32.936618,-82.812071,census
+GA,thomasville,Thomasville,30.839422,-83.978781,census
+GA,thomson,Thomson,33.469270,-82.495116,census
+GA,tifton,Tifton,31.462099,-83.520499,census
+GA,twincity,Twin City,32.582227,-82.159379,census
+GA,unionpoint,Union Point,33.618816,-83.075036,census
+GA,valdosta,Valdosta,30.850126,-83.278833,census
+GA,vidalia,Vidalia,32.212079,-82.402187,census
+GA,vienna,Vienna,32.092747,-83.786839,census
+GA,villarica,Villa Rica,33.728365,-84.916662,census
+GA,waco,Waco,33.702600,-85.189244,census
+GA,wadley,Wadley,32.864790,-82.402802,census
+GA,warrenton,Warrenton,33.407657,-82.665124,census
+GA,waycross,Waycross,31.211006,-82.357658,census
+GA,waynesboro,Waynesboro,33.091279,-82.014290,census
+GA,westpoint,West Point,32.898518,-85.141499,census
+GA,whitesburg,Whitesburg,33.492068,-84.914300,census
+GA,wildwood,Wildwood,34.966937,-85.421501,census
+GA,willacoochee,Willacoochee,31.335094,-83.044003,census
+GA,woodbine,Woodbine,30.959855,-81.718098,census
+GA,wrens,Wrens,33.207434,-82.387583,census
+GA,wrightsville,Wrightsville,32.726812,-82.719072,census
+GA,zebulon,Zebulon,33.090996,-84.339467,census
+IA,ainsworth,Ainsworth,41.290050,-91.554266,census
+IA,algona,Algona,43.076345,-94.231746,census
+IA,altoona,Altoona,41.650639,-93.480018,census
+IA,ames,Ames,42.026327,-93.621264,census
+IA,anamosa,Anamosa,42.108825,-91.275205,census
+IA,ankeny,Ankeny,41.730164,-93.601083,census
+IA,atalissa,Atalissa,41.571687,-91.166454,census
+IA,audubon,Audubon,41.718019,-94.928372,census
+IA,avoca,Avoca,41.482816,-95.337261,census
+IA,batavia,Batavia,40.994954,-92.167346,census
+IA,bettendorf,Bettendorf,41.566836,-90.476879,census
+IA,bevington,Bevington,41.359945,-93.784239,census
+IA,bondurant,Bondurant,41.696987,-93.451486,census
+IA,brooklyn,Brooklyn,41.732052,-92.444981,census
+IA,calmar,Calmar,43.181104,-91.867965,census
+IA,carroll,Carroll,42.070321,-94.864597,census
+IA,cedarfalls,Cedar Falls,42.519070,-92.454009,census
+IA,cedarrapids,Cedar Rapids,41.964190,-91.679170,census
+IA,centerpoint,Center Point,42.183811,-91.780478,census
+IA,centerville,Centerville,40.729839,-92.872033,census
+IA,chariton,Chariton,41.017447,-93.309629,census
+IA,charlescity,Charles City,43.064760,-92.674457,census
+IA,clarence,Clarence,41.885751,-91.057925,census
+IA,clearlake,Clear Lake,43.135090,-93.373651,census
+IA,clinton,Clinton,41.842365,-90.242816,census
+IA,clive,Clive,41.613243,-93.797871,census
+IA,colfax,Colfax,41.679794,-93.236280,census
+IA,coralville,Coralville,41.698795,-91.596800,census
+IA,correctionville,Correctionville,42.477592,-95.783158,census
+IA,councilbluffs,Council Bluffs,41.235987,-95.853163,census
+IA,cresco,Cresco,43.371746,-92.116287,census
+IA,creston,Creston,41.060314,-94.364727,census
+IA,davenport,Davenport,41.556820,-90.603948,census
+IA,desoto,De Soto,41.537777,-94.009953,census
+IA,dewitt,De Witt,41.822712,-90.544087,census
+IA,decorah,Decorah,43.301618,-91.784750,census
+IA,delaware,Delaware,42.472106,-91.338269,census
+IA,denison,Denison,42.015886,-95.352404,census
+IA,denver,Denver,42.668220,-92.333942,census
+IA,desmoines,Des Moines,41.572590,-93.610243,census
+IA,dows,Dows,42.658364,-93.502041,census
+IA,dubuque,Dubuque,42.498901,-90.707258,census
+IA,duncombe,Duncombe,42.469788,-93.996792,census
+IA,early,Early,42.461098,-95.152411,census
+IA,eddyville,Eddyville,41.159335,-92.630333,census
+IA,ellsworth,Ellsworth,42.310239,-93.581877,census
+IA,emmetsburg,Emmetsburg,43.114798,-94.679579,census
+IA,estherville,Estherville,43.399735,-94.834216,census
+IA,evansdale,Evansdale,42.465698,-92.269402,census
+IA,floyd,Floyd,43.128185,-92.739944,census
+IA,forestcity,Forest City,43.257083,-93.636556,census
+IA,fortdodge,Fort Dodge,42.509863,-94.175675,census
+IA,fortmadison,Fort Madison,40.621463,-91.346257,census
+IA,garner,Garner,43.099971,-93.603118,census
+IA,greene,Greene,42.896506,-92.803538,census
+IA,grinnell,Grinnell,41.735236,-92.724902,census
+IA,guttenberg,Guttenberg,42.788556,-91.108775,census
+IA,hampton,Hampton,42.741989,-93.204992,census
+IA,hinton,Hinton,42.622790,-96.298150,census
+IA,holland,Holland,42.400127,-92.798835,census
+IA,holstein,Holstein,42.487149,-95.542877,census
+IA,huxley,Huxley,41.896045,-93.592499,census
+IA,independence,Independence,42.462193,-91.903152,census
+IA,iowacity,Iowa City,41.655661,-91.530859,census
+IA,iowafalls,Iowa Falls,42.519169,-93.266050,census
+IA,janesville,Janesville,42.645805,-92.462397,census
+IA,jefferson,Jefferson,42.017743,-94.379422,census
+IA,latimer,Latimer,42.762921,-93.365518,census
+IA,lemars,Le Mars,42.781514,-96.173311,census
+IA,limesprings,Lime Springs,43.449899,-92.284064,census
+IA,manchester,Manchester,42.485339,-91.456086,census
+IA,manning,Manning,41.909630,-95.064442,census
+IA,manson,Manson,42.528638,-94.540064,census
+IA,maquoketa,Maquoketa,42.060530,-90.663862,census
+IA,marcus,Marcus,42.822401,-95.806842,census
+IA,marion,Marion,42.044596,-91.586160,census
+IA,marshalltown,Marshalltown,42.034300,-92.906266,census
+IA,masoncity,Mason City,43.147762,-93.200403,census
+IA,mediapolis,Mediapolis,41.007867,-91.163720,census
+IA,milford,Milford,43.341717,-95.145709,census
+IA,minden,Minden,41.469409,-95.543198,census
+IA,missourivalley,Missouri Valley,41.559319,-95.902635,census
+IA,monona,Monona,43.049843,-91.391056,census
+IA,monroe,Monroe,41.518945,-93.103739,census
+IA,monticello,Monticello,42.230425,-91.185925,census
+IA,mountayr,Mount Ayr,40.714071,-94.237225,census
+IA,mountpleasant,Mount Pleasant,40.962205,-91.547162,census
+IA,muscatine,Muscatine,41.419058,-91.067946,census
+IA,neola,Neola,41.451904,-95.618914,census
+IA,nevada,Nevada,42.017490,-93.469674,census
+IA,newhampton,New Hampton,43.056219,-92.314725,census
+IA,newvirginia,New Virginia,41.181764,-93.731070,census
+IA,newton,Newton,41.696337,-93.040512,census
+IA,northliberty,North Liberty,41.743617,-91.611218,census
+IA,northwood,Northwood,43.444091,-93.215969,census
+IA,odebolt,Odebolt,42.311842,-95.254378,census
+IA,oelwein,Oelwein,42.671581,-91.912787,census
+IA,onawa,Onawa,42.026476,-96.090917,census
+IA,osceola,Osceola,41.034955,-93.786603,census
+IA,ottumwa,Ottumwa,41.022251,-92.423263,census
+IA,pacificjunction,Pacific Junction,41.017975,-95.799453,census
+IA,parkersburg,Parkersburg,42.573851,-92.778450,census
+IA,pella,Pella,41.404715,-92.917412,census
+IA,peosta,Peosta,42.447214,-90.841426,census
+IA,percival,Percival,40.751269,-95.813266,census
+IA,perry,Perry,41.837907,-94.093255,census
+IA,polkcity,Polk City,41.781886,-93.722758,census
+IA,postville,Postville,43.084388,-91.567795,census
+IA,redoak,Red Oak,41.014130,-95.224371,census
+IA,riverside,Riverside,41.483235,-91.572195,census
+IA,rockrapids,Rock Rapids,43.426699,-96.166393,census
+IA,rockwellcity,Rockwell City,42.979972,-93.187180,census
+IA,sheffield,Sheffield,42.888763,-93.207143,census
+IA,shelby,Shelby,41.505574,-95.449363,census
+IA,sheldon,Sheldon,43.179654,-95.843353,census
+IA,sibley,Sibley,43.401476,-95.743031,census
+IA,sigourney,Sigourney,41.333974,-92.204448,census
+IA,siouxcenter,Sioux Center,43.074846,-96.170651,census
+IA,siouxcity,Sioux City,42.495380,-96.389495,census
+IA,sloan,Sloan,42.233062,-96.224830,census
+IA,spencer,Spencer,43.147025,-95.152691,census
+IA,spiritlake,Spirit Lake,43.416659,-95.113071,census
+IA,stormlake,Storm Lake,42.642951,-95.196463,census
+IA,storycity,Story City,42.185743,-93.586885,census
+IA,stuart,Stuart,41.500464,-94.318105,census
+IA,tama,Tama,41.965123,-92.573799,census
+IA,tiffin,Tiffin,41.705183,-91.653593,census
+IA,tipton,Tipton,41.770121,-91.128281,census
+IA,toledo,Toledo,41.990174,-92.580342,census
+IA,underwood,Underwood,41.380243,-95.682510,census
+IA,urbana,Urbana,42.229835,-91.885511,census
+IA,urbandale,Urbandale,41.636656,-93.779889,census
+IA,vinton,Vinton,42.163106,-92.026206,census
+IA,walcott,Walcott,41.587319,-90.780518,census
+IA,walnut,Walnut,41.489453,-95.219669,census
+IA,wapello,Wapello,41.177222,-91.188991,census
+IA,washington,Washington,41.297913,-91.693671,census
+IA,waterloo,Waterloo,42.492327,-92.351947,census
+IA,webstercity,Webster City,41.438464,-92.171718,census
+IA,welton,Welton,41.905503,-90.595614,census
+IA,westburlington,West Burlington,40.821628,-91.175475,census
+IA,westliberty,West Liberty,41.572995,-91.262639,census
+IA,wever,Wever,40.705655,-91.228102,census
+IA,williams,Williams,42.489193,-93.541245,census
+IA,williamsburg,Williamsburg,41.668884,-92.013249,census
+ID,americanfalls,American Falls,42.782846,-112.854211,census
+ID,blackfoot,Blackfoot,43.194595,-112.346811,census
+ID,bliss,Bliss,42.924284,-114.947516,census
+ID,boise,Boise,43.616616,-116.200886,nominatim
+ID,bonnersferry,Bonners Ferry,48.693374,-116.318360,census
+ID,caldwell,Caldwell,43.645880,-116.659336,census
+ID,council,Council,44.733195,-116.436837,census
+ID,downey,Downey,42.428917,-112.123320,census
+ID,dubois,Dubois,44.171161,-112.228278,census
+ID,eden,Eden,42.605309,-114.209087,census
+ID,forthall,Fort Hall,43.014547,-112.457870,census
+ID,franklin,Franklin,42.009503,-111.802183,census
+ID,fruitland,Fruitland,44.016796,-116.920703,census
+ID,grangeville,Grangeville,45.925826,-116.121916,census
+ID,heyburn,Heyburn,42.559982,-113.762067,census
+ID,idahofalls,Idaho Falls,43.489616,-112.035340,census
+ID,jerome,Jerome,42.718095,-114.515791,census
+ID,lewiston,Lewiston,46.393130,-116.993472,census
+ID,maladcity,Malad City,42.189909,-112.249688,census
+ID,marsing,Marsing,43.546360,-116.810422,census
+ID,mccammon,Mccammon,42.648236,-112.189394,census
+ID,montpelier,Montpelier,42.325992,-111.298826,census
+ID,mountainhome,Mountain Home,43.131833,-115.696716,census
+ID,nampa,Nampa,43.584972,-116.562935,census
+ID,pocatello,Pocatello,42.872748,-112.463836,census
+ID,postfalls,Post Falls,47.725559,-116.944167,census
+ID,twinfalls,Twin Falls,42.563807,-114.460597,census
+ID,wilder,Wilder,43.677492,-116.907579,census
+IL,addison,Addison,41.930782,-88.008987,census
+IL,alsip,Alsip,41.670270,-87.737085,census
+IL,altamont,Altamont,39.056115,-88.746922,census
+IL,annawan,Annawan,41.396382,-89.890567,census
+IL,atkinson,Atkinson,41.413245,-90.005345,census
+IL,atlanta,Atlanta,40.263574,-89.230845,census
+IL,barry,Barry,39.698310,-91.039918,census
+IL,batavia,Batavia,41.847692,-88.311047,census
+IL,bedfordpark,Bedford Park,41.767773,-87.772556,census
+IL,bellwood,Bellwood,41.882901,-87.876170,census
+IL,belvidere,Belvidere,42.265448,-88.887758,census
+IL,bensenville,Bensenville,41.958011,-87.943825,census
+IL,benton,Benton,38.013187,-88.917281,census
+IL,berwyn,Berwyn,41.843333,-87.790926,census
+IL,bloomingdale,Bloomingdale,41.951525,-88.089118,census
+IL,bloomington,Bloomington,40.475777,-88.969912,census
+IL,bolingbrook,Bolingbrook,41.687466,-88.106215,census
+IL,bourbonnais,Bourbonnais,41.182994,-87.878473,census
+IL,bridgeview,Bridgeview,41.740280,-87.806682,census
+IL,brighton,Brighton,39.040863,-90.140041,census
+IL,burbank,Burbank,41.744410,-87.768568,census
+IL,carolstream,Carol Stream,41.920346,-88.133223,census
+IL,carrollton,Carrollton,39.294493,-90.406894,census
+IL,casey,Casey,39.305420,-87.985307,census
+IL,champaign,Champaign,40.114099,-88.274619,census
+IL,channahon,Channahon,41.422789,-88.262954,census
+IL,cherryvalley,Cherry Valley,42.235178,-88.975113,census
+IL,chicago,Chicago,41.837045,-87.684939,census
+IL,chicagoheights,Chicago Heights,41.510684,-87.634069,census
+IL,cicero,Cicero,41.844537,-87.759290,census
+IL,cresthill,Crest Hill,41.574360,-88.113261,census
+IL,crete,Crete,41.440524,-87.624471,census
+IL,crystallake,Crystal Lake,42.233209,-88.334360,census
+IL,decatur,Decatur,39.855983,-88.933746,census
+IL,dekalb,Dekalb,41.928186,-88.747585,census
+IL,desplaines,Des Plaines,42.034398,-87.901136,census
+IL,divernon,Divernon,39.570431,-89.653638,census
+IL,dixon,Dixon,41.843288,-89.477547,census
+IL,downs,Downs,40.398775,-88.889199,census
+IL,dundee,Dundee,42.110435,-88.301351,census
+IL,dwight,Dwight,41.098705,-88.422077,census
+IL,eastsaintlouis,East Saint Louis,38.616361,-90.130528,census
+IL,edwards,Edwards,40.745870,-89.744270,nominatim
+IL,effingham,Effingham,39.120662,-88.550859,census
+IL,elpaso,El Paso,40.740492,-89.018250,census
+IL,elgin,Elgin,42.038963,-88.325671,census
+IL,elkgrovevillage,Elk Grove Village,42.005778,-87.993034,census
+IL,elwood,Elwood,41.418139,-88.117170,census
+IL,fairfield,Fairfield,38.380632,-88.372524,census
+IL,farina,Farina,38.829766,-88.780930,census
+IL,farmercity,Farmer City,40.248118,-88.641811,census
+IL,farmersville,Farmersville,39.440651,-89.652508,census
+IL,flora,Flora,38.665617,-88.473844,census
+IL,frankfort,Frankfort,41.507025,-87.870966,census
+IL,franklinpark,Franklin Park,41.935983,-87.879197,census
+IL,galatia,Galatia,37.841977,-88.616482,census
+IL,galesburg,Galesburg,40.950217,-90.376564,census
+IL,geneseo,Geneseo,41.451252,-90.154844,census
+IL,gilberts,Gilberts,42.109981,-88.371882,census
+IL,gilman,Gilman,40.760378,-88.001196,census
+IL,goodfield,Goodfield,40.630589,-89.258084,census
+IL,granitecity,Granite City,38.729283,-90.125472,census
+IL,grantpark,Grant Park,41.242747,-87.635847,census
+IL,grayville,Grayville,38.255135,-87.996927,census
+IL,greenup,Greenup,39.247946,-88.160025,census
+IL,greenville,Greenville,38.886602,-89.389425,census
+IL,gurnee,Gurnee,42.370085,-87.936805,census
+IL,hickoryhills,HICKORY HILLS,41.724778,-87.828005,census
+IL,homerglen,HOMER GLEN,41.605179,-87.952373,census
+IL,hamel,Hamel,38.892463,-89.838728,census
+IL,hampshire,Hampshire,42.115607,-88.505165,census
+IL,hanoverpark,Hanover Park,41.982485,-88.142870,census
+IL,harrisburg,Harrisburg,37.737717,-88.545818,census
+IL,hartford,Hartford,38.813086,-90.092073,census
+IL,havana,Havana,40.295109,-90.057810,census
+IL,henry,Henry,41.117367,-89.357282,census
+IL,heyworth,Heyworth,40.314356,-88.992276,census
+IL,hillsdale,Hillsdale,41.606929,-90.172822,census
+IL,hinsdale,Hinsdale,41.800683,-87.928172,census
+IL,homerglen,Homer Glen,41.605179,-87.952373,census
+IL,hoopeston,Hoopeston,40.460824,-87.663572,census
+IL,ina,Ina,38.149899,-88.904019,census
+IL,itasca,Itasca,41.976616,-88.018775,census
+IL,jacksonville,Jacksonville,39.729151,-90.232201,census
+IL,joliet,Joliet,41.516866,-88.147963,census
+IL,kankakee,Kankakee,41.101654,-87.863690,census
+IL,knoxville,Knoxville,40.906931,-90.285697,census
+IL,lagrange,La Grange,41.807213,-87.874148,census
+IL,lasalle,La Salle,41.335176,-89.097245,census
+IL,lakezurich,Lake Zurich,42.195009,-88.087729,census
+IL,lansing,Lansing,41.565004,-87.546004,census
+IL,leroy,Le Roy,40.339371,-88.761098,census
+IL,lemont,Lemont,41.667328,-87.984411,census
+IL,lexington,Lexington,40.646951,-88.784141,census
+IL,libertyville,Libertyville,42.284667,-87.966503,census
+IL,lincoln,Lincoln,40.150678,-89.370273,census
+IL,litchfield,Litchfield,39.175963,-89.665482,census
+IL,lockport,Lockport,41.591001,-88.029697,census
+IL,lombard,Lombard,41.873844,-88.015491,census
+IL,lovespark,Loves Park,42.337843,-88.998649,census
+IL,macomb,Macomb,40.470149,-90.683114,census
+IL,mahomet,Mahomet,40.190133,-88.389515,census
+IL,manteno,Manteno,41.247850,-87.844308,census
+IL,marion,Marion,37.734445,-88.941164,census
+IL,marshall,Marshall,39.399532,-87.691168,census
+IL,martinsville,Martinsville,39.338421,-87.880862,census
+IL,mascoutah,Mascoutah,38.518115,-89.800041,census
+IL,mattoon,Mattoon,39.477833,-88.362225,census
+IL,mclean,Mc Lean,40.313579,-89.168606,census
+IL,mchenry,Mchenry,42.336204,-88.291651,census
+IL,melrosepark,Melrose Park,41.902995,-87.863648,census
+IL,mendota,Mendota,41.556655,-89.100507,census
+IL,metropolis,Metropolis,37.149639,-88.687354,census
+IL,midlothian,Midlothian,41.625428,-87.724233,census
+IL,minonk,Minonk,40.910368,-89.038153,census
+IL,minooka,Minooka,41.447612,-88.284155,census
+IL,mokena,Mokena,41.529863,-87.877710,census
+IL,monee,Monee,41.417833,-87.749894,census
+IL,monmouth,Monmouth,40.914233,-90.643075,census
+IL,monroecenter,Monroe Center,42.099934,-88.994399,census
+IL,montgomery,Montgomery,41.721025,-88.358110,census
+IL,morris,Morris,41.380229,-88.424332,census
+IL,morrisonville,Morrisonville,39.421668,-89.459007,census
+IL,morton,Morton,40.613730,-89.466800,census
+IL,mountvernon,Mount Vernon,38.314205,-88.917470,census
+IL,mulberrygrove,Mulberry Grove,38.925265,-89.261950,census
+IL,naperville,Naperville,41.749173,-88.162019,census
+IL,nashville,Nashville,38.353618,-89.377987,census
+IL,newbaden,New Baden,38.536765,-89.707193,census
+IL,newberlin,New Berlin,39.726059,-89.914353,census
+IL,newlenox,New Lenox,41.510022,-87.970002,census
+IL,normal,Normal,40.520140,-88.992234,census
+IL,northchicago,North Chicago,42.316696,-87.859201,census
+IL,oakwood,Oakwood,40.110126,-87.776925,census
+IL,oglesby,Oglesby,41.293210,-89.071036,census
+IL,okawville,Okawville,38.434417,-89.547978,census
+IL,olney,Olney,38.728108,-88.084219,census
+IL,oswego,Oswego,41.683220,-88.338849,census
+IL,ottawa,Ottawa,41.354046,-88.823408,census
+IL,palatine,Palatine,42.116467,-88.044361,census
+IL,pana,Pana,39.394604,-89.090809,census
+IL,pekin,Pekin,40.568757,-89.625115,census
+IL,peoria,Peoria,40.751641,-89.617198,census
+IL,peotone,Peotone,41.330733,-87.796345,census
+IL,peru,Peru,41.357929,-89.139390,census
+IL,plainfield,Plainfield,41.630301,-88.245282,census
+IL,plano,Plano,41.680353,-88.536308,census
+IL,poplargrove,Poplar Grove,42.351097,-88.843783,census
+IL,posen,Posen,41.629067,-87.685842,census
+IL,princeton,Princeton,41.380565,-89.464100,census
+IL,rantoul,Rantoul,40.302560,-88.154880,census
+IL,riverdale,Riverdale,41.642695,-87.635640,census
+IL,riverton,Riverton,39.846145,-89.536367,census
+IL,rochelle,Rochelle,41.919149,-89.063661,census
+IL,rockford,Rockford,42.259300,-89.063478,census
+IL,romeoville,Romeoville,41.627924,-88.101182,census
+IL,roscoe,Roscoe,42.425559,-89.009455,census
+IL,roundlake,Round Lake,42.343181,-88.102099,census
+IL,salem,Salem,38.627537,-88.959448,census
+IL,schillerpark,Schiller Park,41.958626,-87.869317,census
+IL,shannon,Shannon,42.152447,-89.740174,census
+IL,southbeloit,South Beloit,42.484842,-89.027433,census
+IL,southelgin,South Elgin,41.990254,-88.314285,census
+IL,southholland,South Holland,41.598372,-87.602736,census
+IL,southpekin,South Pekin,40.495497,-89.652382,census
+IL,springfield,Springfield,39.791063,-89.644572,census
+IL,stockton,Stockton,42.352519,-90.002019,census
+IL,sugargrove,Sugar Grove,41.768621,-88.448896,census
+IL,tilton,Tilton,40.094978,-87.642148,census
+IL,tinleypark,Tinley Park,41.568579,-87.804217,census
+IL,tonica,Tonica,41.215870,-89.069956,census
+IL,troy,Troy,38.726219,-89.893470,census
+IL,tuscola,Tuscola,39.795912,-88.275483,census
+IL,universitypark,University Park,41.446894,-87.712969,census
+IL,utica,Utica,41.345599,-88.986337,census
+IL,vandalia,Vandalia,38.974564,-89.110695,census
+IL,villapark,Villa Park,41.885612,-87.978235,census
+IL,virginia,Virginia,39.952942,-90.210446,census
+IL,wadsworth,Wadsworth,42.450687,-87.925147,census
+IL,warrenville,Warrenville,41.820977,-88.187454,census
+IL,waukegan,Waukegan,42.369447,-87.870898,census
+IL,wenona,Wenona,41.048655,-89.052258,census
+IL,westchicago,West Chicago,41.894469,-88.221121,census
+IL,westfrankfort,West Frankfort,37.899495,-88.930814,census
+IL,williamsville,Williamsville,39.956112,-89.543628,census
+IL,willowsprings,Willow Springs,41.734137,-87.884010,census
+IL,wilmington,Wilmington,41.319383,-88.160248,census
+IL,winnebago,Winnebago,42.267088,-89.233970,census
+IL,wooddale,Wood Dale,41.966306,-87.980851,census
+IL,woodhull,Woodhull,41.178433,-90.322179,census
+IL,yorkville,Yorkville,41.661736,-88.428596,census
+IN,angola,Angola,41.641090,-85.010973,census
+IN,ashley,Ashley,41.521494,-85.061398,census
+IN,austin,Austin,38.740285,-85.810319,census
+IN,bloomfield,Bloomfield,39.026134,-86.937364,census
+IN,bloomington,Bloomington,39.163700,-86.524264,census
+IN,bluffton,Bluffton,40.743479,-85.172111,census
+IN,bourbon,Bourbon,41.299394,-86.116852,census
+IN,brazil,Brazil,39.522449,-87.124479,census
+IN,bristol,Bristol,41.716587,-85.825139,census
+IN,butler,Butler,41.427148,-84.872266,census
+IN,cambridgecity,Cambridge City,39.812084,-85.170820,census
+IN,carlisle,Carlisle,38.960778,-87.401424,census
+IN,chesterton,Chesterton,41.599822,-87.054996,census
+IN,cicero,Cicero,40.121932,-86.034042,census
+IN,clayton,Clayton,39.688392,-86.521856,census
+IN,cloverdale,Cloverdale,39.521221,-86.798689,census
+IN,covington,Covington,40.141470,-87.390599,census
+IN,crawfordsville,Crawfordsville,40.041286,-86.897576,census
+IN,daleville,Daleville,40.118872,-85.556247,census
+IN,danville,Danville,39.758812,-86.495282,census
+IN,decatur,Decatur,40.828854,-84.927813,census
+IN,demotte,Demotte,41.199271,-87.195453,census
+IN,dyer,Dyer,41.497804,-87.509012,census
+IN,edinburgh,Edinburgh,39.351870,-85.963755,census
+IN,elkhart,Elkhart,41.691543,-85.962248,census
+IN,evansville,Evansville,37.987737,-87.534705,census
+IN,fortwayne,Fort Wayne,41.088193,-85.142791,census
+IN,fowler,Fowler,40.617228,-87.317929,census
+IN,frankfort,Frankfort,40.281025,-86.521254,census
+IN,fremont,Fremont,41.727622,-84.938855,census
+IN,gary,Gary,41.590740,-87.347113,census
+IN,gascity,Gas City,40.488650,-85.594335,census
+IN,gaston,Gaston,40.314005,-85.501005,census
+IN,geneva,Geneva,40.596721,-84.957252,census
+IN,georgetown,Georgetown,38.298796,-85.963055,census
+IN,goshen,Goshen,41.573884,-85.829986,census
+IN,greenfield,Greenfield,39.793283,-85.772548,census
+IN,greensburg,Greensburg,39.351019,-85.501189,census
+IN,greenwood,Greenwood,39.603372,-86.105227,census
+IN,grovertown,Grovertown,41.375043,-86.504734,nominatim
+IN,hammond,Hammond,41.618736,-87.494949,census
+IN,hanna,Hanna,41.412027,-86.779449,census
+IN,haubstadt,Haubstadt,38.203242,-87.574735,census
+IN,hebron,Hebron,41.325085,-87.201916,census
+IN,highland,Highland,41.546622,-87.457616,census
+IN,hobart,Hobart,41.513530,-87.276399,census
+IN,howe,Howe,41.722822,-85.425486,census
+IN,huntington,Huntington,40.880825,-85.505497,census
+IN,indianapolis,Indianapolis,39.776664,-86.145935,census
+IN,jasper,Jasper,38.393152,-86.940575,census
+IN,kendallville,Kendallville,41.443361,-85.258154,census
+IN,knightstown,Knightstown,39.795537,-85.530811,census
+IN,kokomo,Kokomo,40.464011,-86.127349,census
+IN,laporte,La Porte,41.606072,-86.713679,census
+IN,lafayette,Lafayette,40.399410,-86.862806,census
+IN,lakestation,Lake Station,41.576735,-87.252878,census
+IN,lakevillage,Lake Village,41.130830,-87.439024,census
+IN,lawrenceburg,Lawrenceburg,39.107385,-84.875770,census
+IN,leavenworth,Leavenworth,38.200084,-86.350105,census
+IN,lebanon,Lebanon,40.033106,-86.448155,census
+IN,logansport,Logansport,40.748067,-86.354722,census
+IN,madison,Madison,38.758829,-85.397135,census
+IN,marion,Marion,40.549986,-85.660420,census
+IN,martinsville,Martinsville,39.414711,-86.431699,census
+IN,medaryville,Medaryville,41.080356,-86.890549,census
+IN,memphis,Memphis,38.494822,-85.767036,census
+IN,merrillville,Merrillville,41.472687,-87.318070,census
+IN,michigancity,Michigan City,41.708776,-86.866875,census
+IN,middlebury,Middlebury,41.670559,-85.708679,census
+IN,mitchell,Mitchell,38.737092,-86.475220,census
+IN,monon,Monon,40.864228,-86.878624,census
+IN,mooresville,Mooresville,39.602494,-86.368715,census
+IN,muncie,Muncie,40.198826,-85.395059,census
+IN,newhaven,New Haven,41.067905,-85.016282,census
+IN,newparis,New Paris,41.501906,-85.825507,census
+IN,northvernon,North Vernon,39.014854,-85.630055,census
+IN,pendleton,Pendleton,40.008509,-85.760809,census
+IN,peru,Peru,40.758651,-86.070561,census
+IN,pierceton,Pierceton,41.199266,-85.703116,census
+IN,pittsboro,Pittsboro,39.871141,-86.465499,census
+IN,plainfield,Plainfield,39.693193,-86.371985,census
+IN,plymouth,Plymouth,41.348770,-86.319336,census
+IN,portage,Portage,41.591612,-87.178939,census
+IN,remington,Remington,40.769405,-87.129724,census
+IN,rensselaer,Rensselaer,40.950515,-87.153295,census
+IN,richmond,Richmond,39.832086,-84.890917,census
+IN,rochester,Rochester,41.060392,-86.198313,census
+IN,rockport,Rockport,37.889918,-87.054244,census
+IN,rollingprairie,Rolling Prairie,41.674467,-86.619898,census
+IN,southbend,SOUTH BEND,41.676643,-86.268809,census
+IN,saintcroix,Saint Croix,38.223953,-86.586339,nominatim
+IN,saintpaul,Saint Paul,39.428152,-85.628713,census
+IN,seymour,Seymour,38.946847,-85.889180,census
+IN,shelbyville,Shelbyville,39.545277,-85.779499,census
+IN,southbend,South Bend,41.676643,-86.268809,census
+IN,spiceland,Spiceland,39.843142,-85.426053,census
+IN,straughn,Straughn,39.808384,-85.290842,census
+IN,taylorsville,Taylorsville,39.296476,-85.950274,census
+IN,terrehaute,Terre Haute,39.464152,-87.376036,census
+IN,tipton,Tipton,40.282484,-86.043208,census
+IN,valparaiso,Valparaiso,41.479812,-87.052273,census
+IN,vincennes,Vincennes,38.676621,-87.509956,census
+IN,wanatah,Wanatah,41.430561,-86.892347,census
+IN,warren,Warren,40.687688,-85.424650,census
+IN,washington,Washington,38.658226,-87.160361,census
+IN,waterloo,Waterloo,41.437398,-85.051661,census
+IN,westlafayette,West Lafayette,40.443707,-86.923616,census
+IN,westville,Westville,41.537547,-86.904942,census
+IN,whiteland,Whiteland,39.555138,-86.074352,census
+IN,whitestown,Whitestown,39.971672,-86.371739,census
+IN,winamac,Winamac,41.053501,-86.603678,census
+IN,woodburn,Woodburn,41.128114,-84.850513,census
+IN,yorktown,Yorktown,40.181891,-85.508155,census
+KS,abilene,Abilene,38.924503,-97.228004,census
+KS,alma,Alma,39.015681,-96.287096,census
+KS,atchison,Atchison,39.562552,-95.136611,census
+KS,belleplaine,Belle Plaine,37.393428,-97.279548,census
+KS,belleville,Belleville,39.824337,-97.633855,census
+KS,beloit,Beloit,39.464698,-98.108340,census
+KS,bunkerhill,Bunker Hill,38.875298,-98.698938,census
+KS,chanute,Chanute,37.669661,-95.464162,census
+KS,cherryvale,Cherryvale,37.269148,-95.553354,census
+KS,claycenter,Clay Center,39.381182,-97.127372,census
+KS,coffeyville,Coffeyville,37.032717,-95.651580,census
+KS,colby,Colby,39.384564,-101.044978,census
+KS,concordia,Concordia,39.566865,-97.646767,census
+KS,cunningham,Cunningham,37.644623,-98.431130,census
+KS,dodgecity,Dodge City,37.760670,-100.017863,census
+KS,douglass,Douglass,37.516944,-97.010425,census
+KS,edgerton,Edgerton,38.769314,-94.965141,census
+KS,eldorado,El Dorado,37.821624,-96.862203,census
+KS,ellis,Ellis,38.934654,-99.556791,census
+KS,ellsworth,Ellsworth,38.732638,-98.228568,census
+KS,emporia,Emporia,38.401860,-96.191654,census
+KS,fairview,Fairview,39.839579,-95.728101,census
+KS,florence,Florence,38.243075,-96.929155,census
+KS,fortscott,Fort Scott,37.828000,-94.704141,census
+KS,fredonia,Fredonia,37.533095,-95.822348,census
+KS,gardencity,Garden City,37.975876,-100.850884,census
+KS,gardner,Gardner,38.808675,-94.922510,census
+KS,garnett,Garnett,38.285873,-95.241231,census
+KS,goodland,Goodland,39.348512,-101.713819,census
+KS,hanover,Hanover,39.893170,-96.875067,census
+KS,hays,Hays,38.882156,-99.321975,census
+KS,hesston,Hesston,38.140061,-97.427002,census
+KS,hiawatha,Hiawatha,39.851660,-95.537789,census
+KS,holcomb,Holcomb,37.985983,-100.993619,census
+KS,hugoton,Hugoton,37.174510,-101.344544,census
+KS,iola,Iola,37.927427,-95.400669,census
+KS,johnson,Johnson,38.341083,-100.138413,census
+KS,junctioncity,Junction City,39.027220,-96.852271,census
+KS,kansascity,Kansas City,39.122539,-94.741781,census
+KS,lakin,Lakin,37.940016,-101.258444,census
+KS,lawrence,Lawrence,38.959551,-95.265468,census
+KS,lebo,Lebo,38.416179,-95.862482,census
+KS,lenexa,Lenexa,38.965268,-94.803937,census
+KS,leon,Leon,37.689746,-96.783772,census
+KS,liberal,Liberal,37.046108,-100.927706,census
+KS,maplehill,Maple Hill,39.085423,-96.028015,census
+KS,marysville,Marysville,39.843690,-96.638878,census
+KS,matfieldgreen,Matfield Green,38.159651,-96.562014,census
+KS,mcpherson,Mcpherson,38.369881,-97.664518,census
+KS,meade,Meade,37.283612,-100.343022,census
+KS,medicinelodge,Medicine Lodge,37.285137,-98.581185,census
+KS,moran,Moran,37.916542,-95.171429,census
+KS,mullinville,Mullinville,37.588574,-99.475560,census
+KS,newton,Newton,38.037683,-97.345018,census
+KS,norton,Norton,39.836219,-99.891596,census
+KS,oakley,Oakley,39.123486,-100.845153,census
+KS,oberlin,Oberlin,39.823040,-100.530737,census
+KS,olathe,Olathe,38.882031,-94.820054,census
+KS,ottawa,Ottawa,38.600080,-95.262777,census
+KS,overbrook,Overbrook,38.779367,-95.556967,census
+KS,parsons,Parsons,37.334013,-95.264998,census
+KS,phillipsburg,Phillipsburg,39.751215,-99.320973,census
+KS,pleasanton,Pleasanton,38.177877,-94.705328,census
+KS,powhattan,Powhattan,39.761734,-95.634011,census
+KS,pratt,Pratt,37.698576,-98.765936,census
+KS,prescott,Prescott,38.063122,-94.692512,census
+KS,russell,Russell,38.887455,-98.851392,census
+KS,sabetha,Sabetha,39.910228,-95.792832,census
+KS,saintmarys,Saint Marys,39.194168,-96.064174,census
+KS,salina,Salina,38.813085,-97.614477,census
+KS,scottcity,Scott City,38.478872,-100.903053,census
+KS,seneca,Seneca,39.837998,-96.069608,census
+KS,severy,Severy,37.621955,-96.227525,census
+KS,smithcenter,Smith Center,39.773939,-98.783474,census
+KS,southhaven,South Haven,37.049495,-97.401264,census
+KS,southhutchinson,South Hutchinson,38.023082,-97.944845,census
+KS,spearville,Spearville,37.848067,-99.754714,census
+KS,strongcity,Strong City,38.395431,-96.536666,census
+KS,sublette,Sublette,37.482179,-100.846563,census
+KS,tecumseh,Tecumseh,39.034955,-95.579650,census
+KS,tonganoxie,Tonganoxie,39.107890,-95.079090,census
+KS,topeka,Topeka,39.034673,-95.696191,census
+KS,tribune,Tribune,38.472037,-101.754525,census
+KS,ulysses,Ulysses,37.577342,-101.354864,census
+KS,wakeeney,Wakeeney,39.023449,-99.881455,census
+KS,washington,Washington,39.815798,-97.048422,census
+KS,wathena,Wathena,39.761058,-94.927518,census
+KS,wellington,Wellington,37.278109,-97.406672,census
+KS,wellsville,Wellsville,38.717662,-95.077862,census
+KS,wichita,Wichita,37.690638,-97.345836,census
+KY,albany,Albany,36.690546,-85.135489,census
+KY,ashland,Ashland,38.459492,-82.645081,census
+KY,bardstown,Bardstown,37.817665,-85.455345,census
+KY,beaverdam,Beaver Dam,37.403758,-86.873606,census
+KY,benton,Benton,36.848003,-88.361650,census
+KY,berea,Berea,37.589296,-84.294502,census
+KY,bowlinggreen,Bowling Green,36.976832,-86.433661,census
+KY,calvertcity,Calvert City,37.046422,-88.395537,census
+KY,campbellsville,Campbellsville,37.343920,-85.352238,census
+KY,caneyville,Caneyville,37.422980,-86.499732,census
+KY,catlettsburg,Catlettsburg,38.417041,-82.603017,census
+KY,columbia,Columbia,37.103437,-85.307537,census
+KY,corbin,Corbin,36.931584,-84.100790,census
+KY,eastbernstadt,East Bernstadt,37.192677,-84.129211,census
+KY,elizabethtown,Elizabethtown,37.704002,-85.878881,census
+KY,florence,Florence,38.993405,-84.648186,census
+KY,frankfort,Frankfort,38.194966,-84.865877,census
+KY,franklin,Franklin,36.718029,-86.557576,census
+KY,georgetown,Georgetown,38.260181,-84.534921,census
+KY,glencoe,Glencoe,38.724990,-84.823276,census
+KY,glendale,Glendale,37.601728,-85.905519,nominatim
+KY,grayson,Grayson,38.333895,-82.935811,census
+KY,greenup,Greenup,38.566502,-82.823620,census
+KY,hanson,Hanson,37.418006,-87.478957,census
+KY,henderson,Henderson,37.838416,-87.580971,census
+KY,hopkinsville,Hopkinsville,36.839284,-87.473544,census
+KY,horsecave,Horse Cave,37.169892,-85.917188,census
+KY,isom,Isom,37.187876,-82.898772,nominatim
+KY,kuttawa,Kuttawa,37.060467,-88.114389,census
+KY,lebanonjunction,Lebanon Junction,37.835239,-85.722355,census
+KY,lewisport,Lewisport,37.930668,-86.902816,census
+KY,lexington,Lexington,38.040678,-84.458272,census
+KY,london,London,37.109952,-84.081679,census
+KY,louisville,Louisville,38.224728,-85.740614,census
+KY,madisonville,Madisonville,37.341036,-87.503475,census
+KY,mayfield,Mayfield,36.737459,-88.644491,census
+KY,maysville,Maysville,38.650015,-83.792961,census
+KY,middlesboro,Middlesboro,36.607297,-83.714332,nominatim
+KY,morehead,Morehead,38.190026,-83.449072,census
+KY,morgantown,Morgantown,37.217410,-86.700155,census
+KY,mortonsgap,Mortons Gap,37.242200,-87.467543,census
+KY,mountsterling,Mount Sterling,38.065465,-83.948822,census
+KY,mountvernon,Mount Vernon,37.357071,-84.332869,census
+KY,murray,Murray,36.614202,-88.322075,census
+KY,nicholasville,Nicholasville,37.892260,-84.565647,census
+KY,oakgrove,Oak Grove,36.673774,-87.422506,census
+KY,owensboro,Owensboro,37.757172,-87.117398,census
+KY,paducah,Paducah,37.070892,-88.644477,census
+KY,pendleton,Pendleton,38.462288,-85.303568,nominatim
+KY,richmond,Richmond,37.729145,-84.299364,census
+KY,russellsprings,Russell Springs,37.050696,-85.080481,census
+KY,russellville,Russellville,36.839518,-86.895579,census
+KY,sadieville,Sadieville,38.387768,-84.551346,census
+KY,scottsville,Scottsville,36.749261,-86.207621,census
+KY,shepherdsville,Shepherdsville,37.981425,-85.702007,census
+KY,simpsonville,Simpsonville,38.215248,-85.346854,census
+KY,smithsgrove,Smiths Grove,37.050205,-86.208076,census
+KY,somerset,Somerset,37.086473,-84.605350,census
+KY,sonora,Sonora,37.525398,-85.898315,census
+KY,sparta,Sparta,38.695435,-84.906136,census
+KY,tollesboro,Tollesboro,38.559520,-83.576026,nominatim
+KY,vanceburg,Vanceburg,38.594531,-83.323614,census
+KY,waddy,Waddy,38.137015,-85.074398,nominatim
+KY,walton,Walton,38.862427,-84.615043,census
+KY,williamsburg,Williamsburg,36.738714,-84.165651,census
+KY,willisburg,Willisburg,37.810316,-85.119581,census
+KY,winchester,Winchester,38.002364,-84.190586,census
+LA,alexandria,Alexandria,31.293449,-92.470189,census
+LA,amite,Amite,30.726575,-90.508982,nominatim
+LA,arcadia,Arcadia,32.550848,-92.921373,census
+LA,batonrouge,Baton Rouge,30.440443,-91.133166,census
+LA,bellechasse,Belle Chasse,29.858697,-90.003290,census
+LA,bellerose,Belle Rose,30.042205,-91.049721,census
+LA,berwick,Berwick,29.700548,-91.235184,census
+LA,bethany,Bethany,32.373768,-94.037965,nominatim
+LA,bossiercity,Bossier City,32.523674,-93.655426,census
+LA,boyce,Boyce,31.389895,-92.670374,census
+LA,breauxbridge,Breaux Bridge,30.283099,-91.905919,census
+LA,broussard,Broussard,30.137444,-91.955830,census
+LA,bunkie,Bunkie,30.953661,-92.188111,census
+LA,calhoun,Calhoun,32.515309,-92.353926,census
+LA,chalmette,Chalmette,29.944015,-89.966005,census
+LA,convent,Convent,30.015211,-90.820234,census
+LA,coushatta,Coushatta,32.025834,-93.340597,census
+LA,crowley,Crowley,30.217897,-92.374840,census
+LA,cutoff,Cut Off,29.516283,-90.329714,census
+LA,delcambre,Delcambre,29.951114,-91.991710,census
+LA,delhi,Delhi,32.452843,-91.489976,census
+LA,delta,Delta,32.322201,-90.958549,census
+LA,denhamsprings,Denham Springs,30.474329,-90.959027,census
+LA,duson,Duson,30.238360,-92.189070,census
+LA,egan,Egan,30.245515,-92.511594,census
+LA,eunice,Eunice,30.490429,-92.419064,census
+LA,farmerville,Farmerville,32.775105,-92.400519,census
+LA,franklin,Franklin,29.784946,-91.509567,census
+LA,frierson,Frierson,32.246949,-93.686859,census
+LA,galliano,Galliano,29.445857,-90.307745,census
+LA,garyville,Garyville,30.065727,-90.634729,census
+LA,gonzales,Gonzales,30.212739,-90.922402,census
+LA,gramercy,Gramercy,30.061913,-90.693634,census
+LA,grandcoteau,Grand Coteau,30.420237,-92.043790,census
+LA,gray,Gray,29.678003,-90.783138,census
+LA,greensburg,Greensburg,30.829640,-90.669859,census
+LA,greenwood,Greenwood,32.431470,-93.959889,census
+LA,grossetete,Grosse Tete,30.415418,-91.439400,census
+LA,hammond,Hammond,30.505650,-90.456493,census
+LA,haughton,Haughton,32.527609,-93.504172,census
+LA,hosston,Hosston,32.886080,-93.882689,census
+LA,houma,Houma,29.578681,-90.708023,census
+LA,ida,Ida,32.998902,-93.896379,census
+LA,iowa,Iowa,30.241367,-93.013028,census
+LA,jennings,Jennings,30.223978,-92.658295,census
+LA,jonesville,Jonesville,31.622318,-91.834430,census
+LA,kenner,Kenner,30.010227,-90.254820,census
+LA,kentwood,Kentwood,30.933755,-90.515162,census
+LA,laplace,La Place,30.072157,-90.477008,census
+LA,lafayette,Lafayette,30.205600,-92.028058,census
+LA,lakecharles,Lake Charles,30.199020,-93.210835,census
+LA,larose,Larose,29.565196,-90.376167,census
+LA,leesville,Leesville,31.141120,-93.284230,census
+LA,livingston,Livingston,30.495289,-90.746698,census
+LA,mansfield,Mansfield,32.035341,-93.699665,census
+LA,mansura,Mansura,31.067324,-92.052825,census
+LA,marrero,Marrero,29.885726,-90.113221,census
+LA,mathews,Mathews,29.682154,-90.555900,census
+LA,minden,Minden,32.619146,-93.272754,census
+LA,monroe,Monroe,32.518986,-92.077180,census
+LA,morgancity,Morgan City,29.710332,-91.191542,census
+LA,natchitoches,Natchitoches,31.734775,-93.100942,census
+LA,newiberia,New Iberia,30.005493,-91.820307,census
+LA,neworleans,New Orleans,30.053420,-89.934502,census
+LA,oakdale,Oakdale,30.816418,-92.655855,census
+LA,opelousas,Opelousas,30.524897,-92.081654,census
+LA,pearlriver,Pearl River,30.371353,-89.750359,census
+LA,plaquemine,Plaquemine,30.283156,-91.243812,census
+LA,portallen,Port Allen,30.443835,-91.207410,census
+LA,portbarre,Port Barre,30.555523,-91.955962,census
+LA,raceland,Raceland,29.723489,-90.629751,census
+LA,rayne,Rayne,30.240513,-92.267335,census
+LA,rayville,Rayville,32.470982,-91.757449,census
+LA,reserve,Reserve,30.072962,-90.555022,census
+LA,roanoke,Roanoke,30.235526,-92.748141,census
+LA,ruston,Ruston,32.532986,-92.635327,census
+LA,saintfrancisville,Saint Francisville,30.784234,-91.376417,census
+LA,saintgabriel,Saint Gabriel,30.255202,-91.100363,census
+LA,saintjames,Saint James,30.018643,-90.850881,census
+LA,saintmartinville,Saint Martinville,30.127002,-91.831118,census
+LA,saintrose,Saint Rose,29.963475,-90.307893,census
+LA,schriever,Schriever,29.728672,-90.835398,census
+LA,shreveport,Shreveport,32.466879,-93.792193,census
+LA,slidell,Slidell,30.288913,-89.782926,census
+LA,sorrento,Sorrento,30.183623,-90.866567,census
+LA,springhill,Springhill,33.001934,-93.461511,census
+LA,starks,Starks,30.310462,-93.666698,census
+LA,sulphur,Sulphur,30.229792,-93.356343,census
+LA,tallulah,Tallulah,32.406696,-91.191700,census
+LA,thibodaux,Thibodaux,29.794874,-90.814578,census
+LA,vidalia,Vidalia,31.566751,-91.440444,census
+LA,villeplatte,Ville Platte,30.689858,-92.274165,census
+LA,vinton,Vinton,30.195435,-93.582246,census
+LA,vivian,Vivian,32.871072,-93.986249,census
+LA,westmonroe,West Monroe,32.512340,-92.151070,census
+LA,westwego,Westwego,29.905363,-90.143545,census
+LA,winnfield,Winnfield,31.923969,-92.642475,census
+MA,adams,Adams,42.629085,-73.118747,census
+MA,ayer,Ayer,42.562221,-71.584844,census
+MA,berlin,Berlin,42.384929,-71.633889,census
+MA,blandford,Blandford,42.175006,-72.923862,census
+MA,boylston,Boylston,42.355049,-71.716157,census
+MA,bridgewater,Bridgewater,41.990221,-70.975443,nominatim
+MA,charlton,Charlton,42.133935,-71.968025,census
+MA,chicopee,Chicopee,42.177586,-72.570189,census
+MA,fallriver,Fall River,41.725351,-71.094162,census
+MA,framingham,Framingham,42.307905,-71.436196,census
+MA,lancaster,Lancaster,42.483569,-71.675585,census
+MA,lee,Lee,42.306836,-73.250736,census
+MA,leominster,Leominster,42.520876,-71.770611,census
+MA,lexington,Lexington,42.445222,-71.230015,census
+MA,ludlow,Ludlow,42.183577,-72.457812,census
+MA,methuen,Methuen,42.742641,-71.178651,census
+MA,millbury,Millbury,42.192246,-71.777649,census
+MA,natick,Natick,42.284822,-71.348811,census
+MA,newtonlowerfalls,Newton Lower Falls,42.325800,-71.256341,nominatim
+MA,northbillerica,North Billerica,42.585262,-71.287764,nominatim
+MA,northoxford,North Oxford,42.150095,-71.868405,nominatim
+MA,norwood,Norwood,42.187364,-71.195971,census
+MA,orange,Orange,42.605437,-72.292074,census
+MA,peabody,Peabody,42.534310,-70.969443,census
+MA,plymouth,Plymouth,41.958343,-70.663800,census
+MA,salisbury,Salisbury,42.831098,-70.847109,census
+MA,seekonk,Seekonk,41.839798,-71.318047,census
+MA,shrewsbury,Shrewsbury,42.284767,-71.714228,census
+MA,springfield,Springfield,42.115454,-72.539978,census
+MA,sturbridge,Sturbridge,42.097106,-72.054995,census
+MA,sutton,Sutton,42.132051,-71.750318,census
+MA,uxbridge,Uxbridge,42.061166,-71.643628,census
+MA,westborough,Westborough,42.267441,-71.617492,census
+MA,westminster,Westminster,42.554600,-71.905440,census
+MA,whately,Whately,42.430995,-72.642437,census
+MA,wrentham,Wrentham,42.052671,-71.356858,census
+MD,aberdeen,Aberdeen,39.516403,-76.174518,census
+MD,accident,Accident,39.625688,-79.319958,census
+MD,baltimore,Baltimore,39.300032,-76.610476,census
+MD,beltsville,Beltsville,39.039903,-76.920443,census
+MD,bigpool,Big Pool,39.625094,-78.016168,census
+MD,bladensburg,Bladensburg,38.942368,-76.925910,census
+MD,brandywine,Brandywine,38.682077,-76.885314,census
+MD,capitolheights,Capitol Heights,38.876687,-76.907569,census
+MD,centreville,Centreville,39.042265,-76.062538,census
+MD,clinton,Clinton,38.750917,-76.902669,census
+MD,cumberland,Cumberland,39.651310,-78.757959,census
+MD,curtisbay,Curtis Bay,39.225219,-76.590031,nominatim
+MD,denton,Denton,38.879421,-75.824452,census
+MD,dundalk,Dundalk,39.266824,-76.496531,census
+MD,edgewood,Edgewood,39.420290,-76.296846,census
+MD,elkridge,Elkridge,39.195483,-76.741082,census
+MD,elkton,Elkton,39.605776,-75.821686,census
+MD,emmitsburg,Emmitsburg,39.705192,-77.321301,census
+MD,frederick,Frederick,39.434089,-77.414539,census
+MD,gaithersburg,Gaithersburg,39.148601,-77.195131,census
+MD,glenburnie,Glen Burnie,39.156271,-76.606996,census
+MD,grantsville,Grantsville,39.696916,-79.152849,census
+MD,hagerstown,Hagerstown,39.640182,-77.722691,census
+MD,hancock,Hancock,39.704578,-78.163270,census
+MD,huntvalley,Hunt Valley,39.492261,-76.658953,nominatim
+MD,hurlock,Hurlock,38.625712,-75.867186,census
+MD,hyattsville,Hyattsville,38.961205,-76.954935,census
+MD,jessup,Jessup,39.149094,-76.776388,census
+MD,mardelasprings,Mardela Springs,38.457629,-75.755482,census
+MD,middleriver,Middle River,39.339519,-76.428702,census
+MD,millersville,Millersville,39.059554,-76.648022,nominatim
+MD,newburg,Newburg,38.377348,-76.953305,nominatim
+MD,northeast,North East,39.608037,-75.941655,census
+MD,nottingham,Nottingham,39.363996,-76.452184,nominatim
+MD,perryville,Perryville,39.572968,-76.064923,census
+MD,rockville,Rockville,39.083666,-77.155585,census
+MD,salisbury,Salisbury,38.375328,-75.585925,census
+MD,thurmont,Thurmont,39.619976,-77.407695,census
+MD,uppermarlboro,Upper Marlboro,38.816495,-76.753670,census
+MD,waldorf,Waldorf,38.609172,-76.919776,census
+MD,walkersville,Walkersville,39.474323,-77.363352,census
+MD,westover,Westover,38.124011,-75.706317,nominatim
+MD,whitemarsh,White Marsh,39.381546,-76.458420,census
+MD,williamsport,Williamsport,39.597345,-77.817972,census
+ME,auburn,Auburn,44.084537,-70.249649,census
+ME,augusta,Augusta,44.334904,-69.734199,census
+ME,baileyville,Baileyville,45.182325,-67.441681,census
+ME,bangor,Bangor,44.829625,-68.788767,census
+ME,biddeford,Biddeford,43.438733,-70.392943,census
+ME,brownville,Brownville,45.356518,-69.017524,census
+ME,canaan,Canaan,44.782176,-69.546316,census
+ME,corinna,Corinna,44.922741,-69.265852,census
+ME,corinth,Corinth,44.980473,-69.010748,census
+ME,doverfoxcroft,Dover Foxcroft,45.205071,-69.223215,census
+ME,fairfield,Fairfield,44.590339,-69.605215,census
+ME,farmington,Farmington,44.668373,-70.144039,census
+ME,greenville,Greenville,45.466113,-69.577856,census
+ME,holden,Holden,44.761837,-68.675967,census
+ME,houlton,Houlton,46.121447,-67.832210,census
+ME,kittery,Kittery,43.089985,-70.738321,census
+ME,liberty,Liberty,44.369093,-69.336000,census
+ME,lincoln,Lincoln,45.362677,-68.501730,census
+ME,medway,Medway,45.642403,-68.478671,census
+ME,newport,Newport,44.836429,-69.254846,census
+ME,portland,Portland,43.633157,-70.185305,census
+ME,princeton,Princeton,45.144593,-67.526972,census
+ME,richmond,Richmond,44.099038,-69.809567,census
+ME,scarborough,Scarborough,43.571203,-70.334170,census
+ME,sherman,Sherman,45.890013,-68.359345,census
+ME,skowhegan,Skowhegan,44.778149,-69.712196,census
+ME,turner,Turner,44.257811,-70.257865,census
+ME,warren,Warren,44.128010,-69.243885,census
+ME,westparis,West Paris,44.319278,-70.522647,census
+MI,adrian,Adrian,41.898780,-84.044829,census
+MI,albion,Albion,42.247855,-84.759191,census
+MI,alma,Alma,43.380336,-84.654445,census
+MI,battlecreek,Battle Creek,42.299176,-85.229267,census
+MI,baycity,Bay City,43.590062,-83.888421,census
+MI,belleville,Belleville,42.201917,-83.482812,census
+MI,bentonharbor,Benton Harbor,42.113495,-86.447250,census
+MI,bessemer,Bessemer,46.477579,-90.049836,census
+MI,bigrapids,Big Rapids,43.699671,-85.481250,census
+MI,bridgeport,Bridgeport,43.370815,-83.881964,census
+MI,bridgman,Bridgman,41.935169,-86.567110,census
+MI,burton,Burton,43.000745,-83.618151,census
+MI,byroncenter,Byron Center,42.809460,-85.726365,census
+MI,cadillac,Cadillac,44.245940,-85.431125,census
+MI,caledonia,Caledonia,42.794743,-85.517100,census
+MI,canton,Canton,42.307541,-83.485775,census
+MI,capac,Capac,43.003889,-82.922280,census
+MI,caro,Caro,43.489303,-83.401744,census
+MI,casco,Casco,42.459559,-86.198229,census
+MI,cedarsprings,Cedar Springs,43.220424,-85.554367,census
+MI,champion,Champion,46.633833,-87.839560,census
+MI,clare,Clare,43.826006,-84.761755,census
+MI,coopersville,Coopersville,43.065467,-85.933752,census
+MI,dearborn,Dearborn,42.313057,-83.211488,census
+MI,detroit,Detroit,42.383037,-83.102237,census
+MI,dewitt,Dewitt,42.838828,-84.583837,census
+MI,dexter,Dexter,42.332256,-83.881027,census
+MI,dundee,Dundee,41.966485,-83.669417,census
+MI,eagle,Eagle,42.809794,-84.790890,census
+MI,escanaba,Escanaba,45.746289,-87.083605,census
+MI,fenton,Fenton,42.800606,-83.717708,census
+MI,flint,Flint,43.024420,-83.691971,census
+MI,fowlerville,Fowlerville,42.659380,-84.073743,census
+MI,gaylord,Gaylord,45.018978,-84.680907,census
+MI,grandblanc,Grand Blanc,42.932537,-83.620491,census
+MI,grandhaven,Grand Haven,43.054969,-86.219349,census
+MI,grandledge,Grand Ledge,42.752927,-84.744901,census
+MI,grandrapids,Grand Rapids,42.961156,-85.655570,census
+MI,grayling,Grayling,44.657960,-84.711067,census
+MI,gwinn,Gwinn,46.285373,-87.441915,census
+MI,hart,Hart,43.696618,-86.367269,census
+MI,holland,Holland,42.767049,-86.098572,census
+MI,holly,Holly,42.798799,-83.622967,census
+MI,houghtonlake,Houghton Lake,44.301067,-84.749865,census
+MI,howardcity,Howard City,43.393266,-85.466107,census
+MI,hudsonville,Hudsonville,42.863370,-85.862205,census
+MI,imlaycity,Imlay City,43.017052,-83.077098,census
+MI,ionia,Ionia,42.976821,-85.074633,census
+MI,ironmountain,Iron Mountain,45.826888,-88.059435,census
+MI,ironwood,Ironwood,46.452209,-90.150432,census
+MI,ithaca,Ithaca,43.291094,-84.595673,census
+MI,jackson,Jackson,42.243441,-84.404858,census
+MI,kalamazoo,Kalamazoo,42.275163,-85.588501,census
+MI,lakeodessa,Lake Odessa,42.782920,-85.137538,census
+MI,lansing,Lansing,42.714341,-84.560889,census
+MI,lapeer,Lapeer,43.045127,-83.326746,census
+MI,lennon,Lennon,42.985440,-83.932530,census
+MI,lincolnpark,Lincoln Park,42.243291,-83.181258,census
+MI,livonia,Livonia,42.397183,-83.372319,census
+MI,lowell,Lowell,42.934600,-85.346219,census
+MI,lunapier,Luna Pier,41.803255,-83.442482,census
+MI,manistique,Manistique,45.959744,-86.250953,census
+MI,marlette,Marlette,43.326439,-83.080519,census
+MI,marquette,Marquette,46.550698,-87.395833,census
+MI,marshall,Marshall,42.262679,-84.967453,census
+MI,mattawan,Mattawan,42.215635,-85.795760,census
+MI,memphis,Memphis,42.895234,-82.768258,census
+MI,middleton,Middleton,43.183366,-84.708889,nominatim
+MI,milan,Milan,42.081347,-83.684793,census
+MI,monroe,Monroe,41.916586,-83.384324,census
+MI,mountmorris,Mount Morris,43.117664,-83.698729,census
+MI,mountpleasant,Mount Pleasant,43.596710,-84.775972,census
+MI,muskegon,Muskegon,43.226540,-86.257247,census
+MI,newbaltimore,New Baltimore,42.685306,-82.737649,census
+MI,newboston,New Boston,42.162541,-83.402989,nominatim
+MI,newberry,Newberry,46.353821,-85.509804,census
+MI,newport,Newport,42.002267,-83.308542,nominatim
+MI,niles,Niles,41.834539,-86.247851,census
+MI,ottawalake,Ottawa Lake,41.764152,-83.749387,nominatim
+MI,parma,Parma,42.265443,-84.548989,census
+MI,pawpaw,Paw Paw,42.214235,-85.892177,census
+MI,perry,Perry,42.832030,-84.220112,census
+MI,pinconning,Pinconning,43.857225,-83.964629,census
+MI,porthuron,Port Huron,42.993766,-82.433743,census
+MI,portland,Portland,42.869794,-84.898930,census
+MI,rapidriver,Rapid River,45.926394,-86.974284,census
+MI,redford,Redford,42.394788,-83.294018,census
+MI,reedcity,Reed City,43.872754,-85.507006,census
+MI,riverview,Riverview,42.173456,-83.198380,census
+MI,rockford,Rockford,43.136975,-85.554519,census
+MI,romulus,Romulus,42.223649,-83.366036,census
+MI,roseville,Roseville,42.507586,-82.936582,census
+MI,saginaw,Saginaw,43.419945,-83.950172,census
+MI,saintclair,Saint Clair,42.826530,-82.492433,census
+MI,saintignace,Saint Ignace,45.887164,-84.731707,census
+MI,saultsaintemarie,Sault Sainte Marie,46.476169,-84.370544,census
+MI,sawyer,Sawyer,41.885321,-86.589467,nominatim
+MI,scottville,Scottville,43.951101,-86.279816,census
+MI,smithscreek,Smiths Creek,42.913919,-82.603808,nominatim
+MI,stephenson,Stephenson,45.413734,-87.609107,census
+MI,taylor,Taylor,42.225283,-83.267691,census
+MI,tekonsha,Tekonsha,42.097365,-84.991924,census
+MI,threerivers,Three Rivers,41.945386,-85.629548,census
+MI,traversecity,Traverse City,44.754309,-85.603011,census
+MI,trenton,Trenton,42.140058,-83.192914,census
+MI,wakefield,Wakefield,46.476904,-89.933430,census
+MI,warren,Warren,42.492904,-83.025001,census
+MI,wayland,Wayland,42.673081,-85.641727,census
+MI,wellston,Wellston,44.222689,-85.968132,census
+MI,westbranch,West Branch,44.273789,-84.236589,census
+MI,whitepigeon,White Pigeon,41.795234,-85.650406,census
+MI,whitmorelake,Whitmore Lake,42.420281,-83.752134,census
+MI,wixom,Wixom,42.522781,-83.530188,census
+MI,wyoming,Wyoming,42.890317,-85.706733,census
+MN,adrian,Adrian,43.633560,-95.932804,census
+MN,albertlea,Albert Lea,43.654293,-93.364148,census
+MN,alden,Alden,43.667463,-93.569887,census
+MN,alexandria,Alexandria,45.877178,-95.376965,census
+MN,andover,Andover,45.252420,-93.337402,census
+MN,anoka,Anoka,45.214398,-93.391638,census
+MN,appleton,Appleton,45.199475,-96.022226,census
+MN,austin,Austin,43.672098,-92.977863,census
+MN,belleplaine,Belle Plaine,44.619780,-93.764595,census
+MN,bemidji,Bemidji,47.487034,-94.882690,census
+MN,blueearth,Blue Earth,43.640994,-94.100339,census
+MN,brainerd,Brainerd,46.355269,-94.198372,census
+MN,buffalo,Buffalo,45.179510,-93.863995,census
+MN,byron,Byron,44.038107,-92.641072,census
+MN,caledonia,Caledonia,43.634127,-91.500399,census
+MN,cambridge,Cambridge,45.560772,-93.227702,census
+MN,carlton,Carlton,46.655769,-92.430397,census
+MN,chatfield,Chatfield,43.844464,-92.182851,census
+MN,chisagocity,Chisago City,45.372274,-92.916665,census
+MN,circlepines,Circle Pines,45.143748,-93.147517,census
+MN,claracity,Clara City,44.957438,-95.367668,census
+MN,clearwater,Clearwater,45.409879,-94.044560,census
+MN,cloquet,Cloquet,46.725070,-92.501330,census
+MN,cohasset,Cohasset,47.242447,-93.664230,census
+MN,cokato,Cokato,45.076721,-94.187548,census
+MN,dundas,DUNDAS,44.427691,-93.203788,census
+MN,dakota,Dakota,43.911548,-91.361362,census
+MN,delano,Delano,45.038266,-93.793012,census
+MN,detroitlakes,Detroit Lakes,46.807582,-95.846612,census
+MN,duluth,Duluth,46.774458,-92.134135,census
+MN,elkriver,Elk River,45.332212,-93.566528,census
+MN,ellendale,Ellendale,43.872721,-93.299331,census
+MN,erskine,Erskine,47.663163,-96.016683,census
+MN,eyota,Eyota,43.988310,-92.232124,census
+MN,fairmont,Fairmont,43.644789,-94.464015,census
+MN,faribault,Faribault,44.299709,-93.278946,census
+MN,fergusfalls,Fergus Falls,46.285017,-96.076110,census
+MN,forestlake,Forest Lake,45.250831,-92.966920,census
+MN,gaylord,Gaylord,44.555770,-94.213222,census
+MN,glencoe,Glencoe,44.769566,-94.151027,census
+MN,glyndon,Glyndon,46.870987,-96.578411,census
+MN,hastings,Hastings,44.731780,-92.854512,census
+MN,heronlake,Heron Lake,43.798059,-95.319778,census
+MN,hinckley,Hinckley,46.013033,-92.912722,census
+MN,hugo,Hugo,45.164225,-92.960105,census
+MN,hutchinson,Hutchinson,44.885358,-94.376876,census
+MN,internationalfalls,International Falls,48.586353,-93.407743,census
+MN,invergroveheights,Inver Grove Heights,44.829015,-93.060072,census
+MN,isanti,Isanti,45.491545,-93.242818,census
+MN,ivanhoe,Ivanhoe,44.464282,-96.251729,census
+MN,jackson,Jackson,43.625680,-94.988585,census
+MN,janesville,Janesville,44.119846,-93.709698,census
+MN,kasson,Kasson,44.033174,-92.748578,census
+MN,kimball,Kimball,45.314330,-94.300807,census
+MN,lakecity,Lake City,44.445705,-92.280925,census
+MN,lakepark,Lake Park,46.883733,-96.097958,census
+MN,lakeville,Lakeville,44.676134,-93.251743,census
+MN,littlefalls,Little Falls,45.985557,-94.359676,census
+MN,luverne,Luverne,43.653542,-96.214185,census
+MN,mankato,Mankato,44.171122,-93.976380,census
+MN,melrose,Melrose,45.677008,-94.814774,census
+MN,milaca,Milaca,45.758035,-93.651565,census
+MN,minneapolis,Minneapolis,44.963324,-93.268320,census
+MN,minnesotacity,Minnesota City,44.092296,-91.749995,census
+MN,mooselake,Moose Lake,46.450299,-92.760955,census
+MN,mora,Mora,45.876981,-93.290284,census
+MN,motley,Motley,46.334754,-94.642772,census
+MN,mountainlake,Mountain Lake,43.940133,-94.927696,census
+MN,newprague,New Prague,44.545738,-93.575595,census
+MN,newulm,New Ulm,44.312067,-94.468896,census
+MN,newyorkmills,New York Mills,46.519630,-95.372780,census
+MN,northbranch,North Branch,45.509885,-92.955655,census
+MN,northfield,Northfield,44.455645,-93.170311,census
+MN,norwoodyoungamerica,Norwood Young America,44.772107,-93.917287,census
+MN,ogilvie,Ogilvie,45.829828,-93.423042,census
+MN,oronoco,Oronoco,44.158446,-92.539194,census
+MN,ortonville,Ortonville,45.302445,-96.442223,census
+MN,owatonna,Owatonna,44.091904,-93.231715,census
+MN,parkrapids,Park Rapids,46.916394,-95.057932,census
+MN,paynesville,Paynesville,45.378519,-94.721592,census
+MN,perham,Perham,46.599611,-95.577104,census
+MN,pillager,Pillager,46.330621,-94.477351,census
+MN,pinecity,Pine City,45.840980,-92.966492,census
+MN,pipestone,Pipestone,43.995916,-96.311080,census
+MN,plainview,Plainview,44.164687,-92.169190,census
+MN,princeton,Princeton,45.568215,-93.590254,census
+MN,randall,Randall,46.088667,-94.500718,census
+MN,redwing,Red Wing,44.581265,-92.605011,census
+MN,redwoodfalls,Redwood Falls,44.547125,-95.102637,census
+MN,rochester,Rochester,44.014299,-92.478592,census
+MN,rogers,Rogers,45.183850,-93.571669,census
+MN,roseau,Roseau,48.844462,-95.762434,census
+MN,rothsay,Rothsay,46.473091,-96.284242,census
+MN,rushcity,Rush City,45.687442,-92.965303,census
+MN,rushford,Rushford,43.813437,-91.753828,census
+MN,saintcharles,Saint Charles,43.968747,-92.059295,census
+MN,saintcloud,Saint Cloud,45.526658,-94.171007,census
+MN,saintjames,Saint James,43.983362,-94.625392,census
+MN,saintjoseph,Saint Joseph,45.565070,-94.302070,census
+MN,saintmichael,Saint Michael,45.199238,-93.689526,census
+MN,saintpaul,Saint Paul,44.948901,-93.104063,census
+MN,saintpeter,Saint Peter,44.329282,-93.967656,census
+MN,saukcentre,Sauk Centre,45.736472,-94.952729,census
+MN,saukrapids,Sauk Rapids,45.594724,-94.152747,census
+MN,savage,Savage,44.759057,-93.364213,census
+MN,shakopee,Shakopee,44.771906,-93.475699,census
+MN,sherburn,Sherburn,43.654900,-94.727489,census
+MN,slayton,Slayton,43.990229,-95.758371,census
+MN,sleepyeye,Sleepy Eye,44.298945,-94.723594,census
+MN,southsaintpaul,South Saint Paul,44.888027,-93.040497,census
+MN,stacy,Stacy,45.423044,-92.970320,census
+MN,stewart,Stewart,44.723772,-94.486595,census
+MN,stewartville,Stewartville,43.860790,-92.489986,census
+MN,stillwater,Stillwater,45.058606,-92.830408,census
+MN,thiefriverfalls,Thief River Falls,48.111241,-96.177562,census
+MN,truman,Truman,43.827872,-94.436569,census
+MN,twoharbors,Two Harbors,47.029954,-91.675744,census
+MN,waconia,Waconia,44.841530,-93.790092,census
+MN,waitepark,Waite Park,45.520868,-94.242982,census
+MN,wanamingo,Wanamingo,44.302775,-92.787281,census
+MN,willmar,Willmar,45.121029,-95.058734,census
+MN,windom,Windom,43.873552,-95.119136,census
+MN,worthington,Worthington,43.628733,-95.599702,census
+MN,zumbrota,Zumbrota,44.295165,-92.672870,census
+MO,alexandria,Alexandria,40.359890,-91.459391,census
+MO,aurora,Aurora,36.967436,-93.718596,census
+MO,barnhart,Barnhart,38.336604,-90.403095,census
+MO,batescity,Bates City,39.003936,-94.063391,census
+MO,bethany,Bethany,40.268164,-94.029822,census
+MO,bevier,Bevier,39.751433,-92.563880,census
+MO,bloomsdale,Bloomsdale,38.014442,-90.220352,census
+MO,boisdarc,Bois D Arc,37.256438,-93.507696,nominatim
+MO,bolivar,Bolivar,37.606697,-93.416709,census
+MO,boonville,Boonville,38.961439,-92.746203,census
+MO,bowlinggreen,Bowling Green,39.344774,-91.202488,census
+MO,bridgeton,Bridgeton,38.773317,-90.416997,census
+MO,brookfield,Brookfield,39.785329,-93.077967,census
+MO,cabool,Cabool,37.126482,-92.103217,census
+MO,california,California,38.630306,-92.567079,census
+MO,cameron,Cameron,39.744499,-94.232324,census
+MO,canton,Canton,40.129859,-91.525843,census
+MO,cardwell,Cardwell,36.047480,-90.290905,census
+MO,carthage,Carthage,37.150605,-94.327868,census
+MO,center,Center,39.509438,-91.529335,census
+MO,charleston,Charleston,36.916934,-89.333912,census
+MO,chillicothe,Chillicothe,39.796079,-93.549957,census
+MO,clinton,Clinton,38.371172,-93.768142,census
+MO,collins,Collins,37.889607,-93.621824,census
+MO,columbia,Columbia,38.947290,-92.326387,census
+MO,concordia,Concordia,38.987513,-93.569227,census
+MO,cuba,Cuba,38.067096,-91.405733,census
+MO,dearborn,Dearborn,39.525142,-94.771972,census
+MO,deerfield,Deerfield,37.838652,-94.507702,census
+MO,dexter,Dexter,36.792821,-89.962969,census
+MO,eagleville,Eagleville,40.468725,-93.985963,census
+MO,eldon,Eldon,38.351151,-92.576678,census
+MO,ellsinore,Ellsinore,36.932839,-90.747672,census
+MO,eolia,Eolia,39.237890,-91.013166,census
+MO,fairgrove,Fair Grove,37.383321,-93.152154,census
+MO,faucett,Faucett,39.600244,-94.797470,census
+MO,fenton,Fenton,38.528547,-90.450674,census
+MO,forestcity,Forest City,39.982950,-95.188310,census
+MO,foristell,Foristell,38.814393,-90.958962,census
+MO,fredericktown,Fredericktown,37.562953,-90.303512,census
+MO,fulton,Fulton,38.855146,-91.950802,census
+MO,gallatin,Gallatin,39.910352,-93.964011,census
+MO,glasgow,Glasgow,39.228504,-92.837742,census
+MO,grainvalley,Grain Valley,39.014988,-94.216371,census
+MO,grandview,Grandview,38.881359,-94.522744,census
+MO,hamilton,Hamilton,39.743535,-94.002400,census
+MO,hannibal,Hannibal,39.710208,-91.394044,census
+MO,harrisonville,Harrisonville,38.650159,-94.350483,census
+MO,hayti,Hayti,36.232528,-89.747362,census
+MO,hazelwood,Hazelwood,38.794706,-90.396002,census
+MO,herculaneum,Herculaneum,38.257558,-90.393130,census
+MO,higginsville,Higginsville,39.065719,-93.726814,census
+MO,holt,Holt,39.454209,-94.338511,census
+MO,jackson,Jackson,37.379922,-89.654073,census
+MO,jamestown,Jamestown,38.769237,-92.483904,census
+MO,jasper,Jasper,37.335665,-94.302795,census
+MO,jeffersoncity,Jefferson City,38.567461,-92.175254,census
+MO,jonesburg,Jonesburg,38.856376,-91.303157,census
+MO,joplin,Joplin,37.075218,-94.501259,census
+MO,kansascity,Kansas City,39.125155,-94.550313,census
+MO,kearney,Kearney,39.355111,-94.358580,census
+MO,kingcity,King City,40.050567,-94.525167,census
+MO,kingdomcity,Kingdom City,38.947306,-91.935419,census
+MO,koshkonong,Koshkonong,36.597444,-91.645953,census
+MO,laplata,La Plata,40.023952,-92.490779,census
+MO,laddonia,Laddonia,39.242798,-91.642566,census
+MO,lamar,Lamar,37.493918,-94.278428,census
+MO,lancaster,Lancaster,40.526323,-92.531732,census
+MO,lathrop,Lathrop,39.561848,-94.319853,census
+MO,lebanon,Lebanon,37.672131,-92.659670,census
+MO,liberty,Liberty,39.241270,-94.419445,census
+MO,louisiana,Louisiana,39.441456,-91.062033,census
+MO,lowrycity,Lowry City,38.140018,-93.726769,census
+MO,macon,Macon,39.742230,-92.470551,census
+MO,maltabend,Malta Bend,39.193986,-93.363500,census
+MO,mansfield,Mansfield,37.109843,-92.580955,census
+MO,marston,Marston,36.517177,-89.605831,census
+MO,maryville,Maryville,40.342515,-94.870048,census
+MO,matthews,Matthews,36.756800,-89.567477,census
+MO,mexico,Mexico,39.162169,-91.872770,census
+MO,milan,Milan,40.203239,-93.124004,census
+MO,mineralpoint,Mineral Point,37.945577,-90.724632,census
+MO,moberly,Moberly,39.418112,-92.436544,census
+MO,monett,Monett,36.921470,-93.927108,census
+MO,moundcity,Mound City,40.136503,-95.233739,census
+MO,mountvernon,Mount Vernon,37.104812,-93.818669,census
+MO,mountainview,Mountain View,36.993719,-91.701863,census
+MO,neelyville,Neelyville,36.556292,-90.513676,census
+MO,nelson,Nelson,38.994503,-93.030816,census
+MO,neosho,Neosho,36.845458,-94.376438,census
+MO,nevada,Nevada,37.844908,-94.350321,census
+MO,newflorence,New Florence,38.908466,-91.454789,census
+MO,newlondon,New London,39.584202,-91.398899,census
+MO,newmadrid,New Madrid,36.586409,-89.551222,census
+MO,newburg,Newburg,37.915584,-91.900374,census
+MO,norwood,Norwood,37.107192,-92.418931,census
+MO,oakgrove,Oak Grove,39.007033,-94.128441,census
+MO,owensville,Owensville,38.348438,-91.497361,census
+MO,ozark,Ozark,37.033600,-93.218044,census
+MO,pacific,Pacific,38.479724,-90.749453,census
+MO,palmyra,Palmyra,39.797780,-91.526515,census
+MO,parkhills,Park Hills,37.816979,-90.499893,census
+MO,peculiar,Peculiar,38.730826,-94.468597,census
+MO,perryville,Perryville,37.726330,-89.876493,census
+MO,pevely,Pevely,38.288089,-90.400038,census
+MO,plattecity,Platte City,39.359733,-94.756317,census
+MO,poplarbluff,Poplar Bluff,36.763259,-90.413953,census
+MO,purdy,Purdy,36.818772,-93.920574,census
+MO,queencity,Queen City,40.411775,-92.566678,census
+MO,qulin,Qulin,36.595255,-90.246295,census
+MO,republic,Republic,37.168552,-93.413061,census
+MO,richhill,Rich Hill,38.095871,-94.363462,census
+MO,richland,Richland,37.861142,-92.399744,census
+MO,ridgedale,Ridgedale,36.503954,-93.223792,nominatim
+MO,rockport,Rock Port,40.410911,-95.533087,census
+MO,rogersville,Rogersville,37.114847,-93.074782,census
+MO,rolla,Rolla,37.945940,-91.761202,census
+MO,saintcharles,Saint Charles,38.795702,-90.515364,census
+MO,saintjames,Saint James,38.002356,-91.613372,census
+MO,saintjoseph,Saint Joseph,39.759460,-94.821143,census
+MO,saintlouis,Saint Louis,38.635699,-90.244582,census
+MO,saintpeters,Saint Peters,38.783520,-90.605075,census
+MO,saintrobert,Saint Robert,37.825332,-92.151981,census
+MO,saintegenevieve,Sainte Genevieve,37.975019,-90.049982,census
+MO,salem,Salem,37.639568,-91.534860,census
+MO,sarcoxie,Sarcoxie,37.068571,-94.126920,census
+MO,savannah,Savannah,39.938789,-94.828049,census
+MO,scottcity,Scott City,37.224530,-89.537647,census
+MO,sedalia,Sedalia,38.705239,-93.235819,census
+MO,seymour,Seymour,37.147424,-92.768837,census
+MO,shelbina,Shelbina,39.693022,-92.039652,census
+MO,sikeston,Sikeston,36.883729,-89.587199,census
+MO,slater,Slater,39.223279,-93.065347,census
+MO,springfield,Springfield,37.194157,-93.292642,census
+MO,steele,Steele,36.094790,-89.862102,census
+MO,strafford,Strafford,37.268882,-93.118041,census
+MO,sullivan,Sullivan,38.212787,-91.163645,census
+MO,tarkio,Tarkio,40.442988,-95.383516,census
+MO,taylor,Taylor,39.903783,-92.205892,census
+MO,trenton,Trenton,40.081255,-93.602387,census
+MO,unionville,Unionville,40.475708,-93.004416,census
+MO,villaridge,Villa Ridge,38.465699,-90.882348,census
+MO,warrensburg,Warrensburg,38.762381,-93.725337,census
+MO,warrenton,Warrenton,38.819056,-91.137933,census
+MO,wayland,Wayland,40.396301,-91.575443,census
+MO,waynesville,Waynesville,37.819430,-92.219262,census
+MO,westplains,West Plains,36.737430,-91.867957,census
+MO,willowsprings,Willow Springs,36.986752,-91.961551,census
+MO,windsor,Windsor,38.532265,-93.522945,census
+MO,winston,Winston,39.869946,-94.141744,census
+MS,batesville,Batesville,34.320982,-89.924878,census
+MS,beaumont,Beaumont,31.167543,-88.928356,census
+MS,belden,Belden,34.310383,-88.788389,nominatim
+MS,biloxi,Biloxi,30.426663,-88.935762,census
+MS,brookhaven,Brookhaven,31.580567,-90.443386,census
+MS,buckatunna,Buckatunna,31.553199,-88.534283,census
+MS,byhalia,Byhalia,34.869188,-89.689993,census
+MS,byram,Byram,32.192137,-90.286965,census
+MS,canton,Canton,32.598419,-90.032191,census
+MS,carthage,Carthage,32.744227,-89.533452,census
+MS,cleveland,Cleveland,33.744008,-90.728476,census
+MS,coldwater,Coldwater,34.690376,-89.975517,census
+MS,collins,Collins,31.648272,-89.567581,census
+MS,columbia,Columbia,31.258593,-89.818669,census
+MS,columbus,Columbus,33.508208,-88.407128,census
+MS,como,Como,34.513561,-89.939947,census
+MS,corinth,Corinth,34.948353,-88.513618,census
+MS,ecru,Ecru,34.347992,-89.025632,census
+MS,ellisville,Ellisville,31.597277,-89.210269,census
+MS,florence,Florence,32.155615,-90.122454,census
+MS,flowood,Flowood,32.336101,-90.072874,census
+MS,forest,Forest,32.359838,-89.475908,census
+MS,greenville,Greenville,33.383461,-91.052314,census
+MS,greenwood,Greenwood,33.512460,-90.198963,census
+MS,grenada,Grenada,33.781445,-89.811547,census
+MS,gulfport,Gulfport,30.419487,-89.069022,census
+MS,guntown,Guntown,34.444829,-88.666279,census
+MS,hattiesburg,Hattiesburg,31.307305,-89.317434,census
+MS,heidelberg,Heidelberg,31.890513,-88.990218,census
+MS,hollysprings,Holly Springs,34.778017,-89.445819,census
+MS,houston,Houston,33.896187,-89.003490,census
+MS,indianola,Indianola,33.448896,-90.643752,census
+MS,jackson,Jackson,32.315834,-90.212850,census
+MS,kosciusko,Kosciusko,33.058169,-89.589364,census
+MS,lake,Lake,32.329992,-89.314350,census
+MS,lauderdale,Lauderdale,32.510394,-88.526366,census
+MS,laurel,Laurel,31.691221,-89.148290,census
+MS,lawrence,Lawrence,32.325144,-89.232839,nominatim
+MS,leland,Leland,33.404834,-90.890925,census
+MS,louisville,Louisville,33.122934,-89.054879,census
+MS,lucedale,Lucedale,30.931213,-88.595896,census
+MS,lyon,Lyon,34.216925,-90.543195,census
+MS,madison,Madison,32.473884,-90.130865,census
+MS,magee,Magee,31.873006,-89.734001,census
+MS,mathiston,Mathiston,33.538877,-89.125890,census
+MS,mccomb,McComb,31.244474,-90.471593,census
+MS,mccomb,Mccomb,31.244474,-90.471593,census
+MS,meridian,Meridian,32.384170,-88.689448,census
+MS,morton,Morton,32.345528,-89.659145,census
+MS,mosspoint,Moss Point,30.425914,-88.532733,census
+MS,mountpleasant,Mount Pleasant,34.953977,-89.525599,census
+MS,natchez,Natchez,31.542438,-91.385649,census
+MS,newalbany,New Albany,34.492286,-89.021720,census
+MS,newaugusta,New Augusta,31.203377,-89.029338,census
+MS,newton,Newton,32.330112,-89.147528,census
+MS,oakland,Oakland,34.057581,-89.913225,census
+MS,oceansprings,Ocean Springs,30.402704,-88.788647,census
+MS,okolona,Okolona,34.005061,-88.747692,census
+MS,olivebranch,Olive Branch,34.955752,-89.841153,census
+MS,oxford,Oxford,34.351262,-89.536981,census
+MS,pearl,Pearl,32.272456,-90.091827,census
+MS,pelahatchie,Pelahatchie,32.320903,-89.807951,census
+MS,picayune,Picayune,30.530820,-89.670628,census
+MS,pickens,Pickens,32.891320,-89.968775,census
+MS,poplarville,Poplarville,30.839699,-89.530092,census
+MS,purvis,Purvis,31.146366,-89.406281,census
+MS,redbanks,Red Banks,34.834689,-89.563407,census
+MS,richland,Richland,32.230413,-90.159622,census
+MS,saltillo,Saltillo,34.380293,-88.696217,census
+MS,sandersville,Sandersville,31.784016,-89.039758,census
+MS,scooba,Scooba,32.830179,-88.477118,census
+MS,senatobia,Senatobia,34.608650,-89.980994,census
+MS,shannon,Shannon,34.114416,-88.693131,census
+MS,shelby,Shelby,33.950528,-90.765091,census
+MS,sherman,Sherman,34.361170,-88.838744,census
+MS,terry,Terry,32.106057,-90.292595,census
+MS,tillatoba,Tillatoba,33.985086,-89.896060,census
+MS,tishomingo,Tishomingo,34.638284,-88.229144,census
+MS,toomsuba,Toomsuba,32.430282,-88.507088,census
+MS,tunica,Tunica,34.688137,-90.380937,census
+MS,tupelo,Tupelo,34.270604,-88.732455,census
+MS,vicksburg,Vicksburg,32.322004,-90.881557,census
+MS,walnut,Walnut,34.949671,-88.924455,census
+MS,watervalley,Water Valley,34.161990,-89.630120,census
+MS,westpoint,West Point,33.606236,-88.657568,census
+MS,wiggins,Wiggins,30.856048,-89.138981,census
+MS,winona,Winona,33.490256,-89.729287,census
+MT,belgrade,Belgrade,45.778661,-111.177147,census
+MT,bigtimber,Big Timber,45.834782,-109.948266,census
+MT,billings,Billings,45.788538,-108.552475,census
+MT,boulder,Boulder,46.235840,-112.119749,census
+MT,butte,Butte,45.896232,-112.660071,census
+MT,chinook,Chinook,48.590128,-109.231820,census
+MT,columbiafalls,Columbia Falls,48.371476,-114.191834,census
+MT,columbus,Columbus,45.635966,-109.248784,census
+MT,conrad,Conrad,48.174083,-111.946593,census
+MT,deerlodge,Deer Lodge,46.398342,-112.733265,census
+MT,dillon,Dillon,45.217876,-112.634580,census
+MT,glendive,Glendive,47.106473,-104.710856,census
+MT,greatfalls,Great Falls,47.502518,-111.299970,census
+MT,hardin,Hardin,45.742231,-107.608237,census
+MT,helena,Helena,46.596556,-112.021765,census
+MT,laurel,Laurel,45.674007,-108.776789,census
+MT,lewistown,Lewistown,47.051380,-109.452399,census
+MT,livingston,Livingston,45.665629,-110.555706,census
+MT,lolo,Lolo,46.771857,-114.108453,census
+MT,milescity,Miles City,46.405823,-105.838944,census
+MT,milltown,Milltown,46.871295,-113.881719,nominatim
+MT,missoula,Missoula,46.874359,-114.026136,census
+MT,moore,Moore,46.974956,-109.695113,census
+MT,parkcity,Park City,45.630946,-108.925311,census
+MT,plentywood,Plentywood,48.776020,-104.557296,census
+MT,shelby,Shelby,48.502129,-111.862036,census
+MT,sidney,Sidney,47.715456,-104.167161,census
+MT,superior,Superior,47.195120,-114.901363,census
+MT,threeforks,Three Forks,45.889568,-111.552748,census
+MT,whitehall,Whitehall,45.870987,-112.097584,census
+NC,ahoskie,Ahoskie,36.284126,-76.990105,census
+NC,apex,Apex,35.725577,-78.879919,census
+NC,asheboro,Asheboro,35.713768,-79.813253,census
+NC,belhaven,Belhaven,35.542961,-76.623111,census
+NC,bethel,Bethel,35.807223,-77.376250,census
+NC,bladenboro,Bladenboro,34.540870,-78.794660,census
+NC,burgaw,Burgaw,34.551466,-77.923012,census
+NC,candler,Candler,35.544436,-82.683803,nominatim
+NC,candor,Candor,35.296389,-79.732521,census
+NC,charlotte,Charlotte,35.209045,-80.830990,census
+NC,chocowinity,Chocowinity,35.514640,-77.101470,census
+NC,clinton,Clinton,35.000430,-78.331540,census
+NC,colfax,Colfax,35.351028,-81.754419,census
+NC,columbia,Columbia,35.923406,-76.240480,census
+NC,conover,Conover,35.715216,-81.216825,census
+NC,creedmoor,Creedmoor,36.125026,-78.677955,census
+NC,delco,Delco,34.318818,-78.226661,census
+NC,denver,Denver,35.545552,-81.044706,census
+NC,dunn,Dunn,35.311635,-78.612962,census
+NC,durham,Durham,35.977928,-78.898109,census
+NC,edenton,Edenton,36.058565,-76.598979,census
+NC,elizabethcity,Elizabeth City,36.294216,-76.238162,census
+NC,elkin,Elkin,36.263365,-80.847106,census
+NC,evergreen,Evergreen,34.414860,-78.911375,census
+NC,farmville,Farmville,35.595026,-77.590618,census
+NC,fayetteville,Fayetteville,35.082766,-78.973515,census
+NC,flatrock,Flat Rock,35.266841,-82.451618,census
+NC,garner,Garner,35.689477,-78.614599,census
+NC,gastonia,Gastonia,35.248796,-81.186436,census
+NC,goldsboro,Goldsboro,35.378226,-77.971869,census
+NC,graham,Graham,36.056356,-79.389436,census
+NC,grantsboro,Grantsboro,35.144868,-76.844682,census
+NC,greensboro,Greensboro,36.094850,-79.823624,census
+NC,greenville,Greenville,35.596431,-77.375256,census
+NC,hamptonville,Hamptonville,36.098468,-80.760345,nominatim
+NC,harrisburg,Harrisburg,35.307549,-80.645617,census
+NC,hawriver,Haw River,36.091898,-79.358943,census
+NC,hendersonville,Hendersonville,35.323353,-82.455840,census
+NC,hertford,Hertford,36.176849,-76.466552,census
+NC,hickory,Hickory,35.739671,-81.320237,census
+NC,highpoint,High Point,35.990803,-79.992713,census
+NC,hopemills,Hope Mills,34.969195,-78.959887,census
+NC,jacksonville,Jacksonville,34.729730,-77.393661,census
+NC,jonesville,Jonesville,36.235280,-80.833680,census
+NC,kannapolis,Kannapolis,35.479281,-80.638032,census
+NC,kenly,Kenly,35.600767,-78.127935,census
+NC,kernersville,Kernersville,36.106171,-80.081895,census
+NC,kinston,Kinston,35.275099,-77.593368,census
+NC,leland,Leland,34.213736,-78.043181,census
+NC,lewistonwoodville,Lewiston Woodville,36.114886,-77.179554,census
+NC,lexington,Lexington,35.797180,-80.274285,census
+NC,lillington,Lillington,35.413080,-78.811703,census
+NC,linwood,Linwood,35.750694,-80.317831,nominatim
+NC,lumberton,Lumberton,34.630608,-79.018601,census
+NC,marion,Marion,35.676113,-82.001114,census
+NC,maxton,Maxton,34.736500,-79.352731,census
+NC,mcleansville,Mc Leansville,36.097555,-79.654748,census
+NC,mebane,Mebane,36.081679,-79.276742,census
+NC,midland,Midland,35.249167,-80.530075,census
+NC,mocksville,Mocksville,35.899716,-80.561095,census
+NC,monroe,Monroe,35.001591,-80.561277,census
+NC,moreheadcity,Morehead City,34.727891,-76.739088,census
+NC,mountairy,Mount Airy,36.508487,-80.614538,census
+NC,newbern,New Bern,35.096688,-77.072641,census
+NC,newport,Newport,34.770703,-76.879076,census
+NC,newton,Newton,35.662162,-81.232269,census
+NC,oakcity,Oak City,35.962519,-77.305093,census
+NC,pilotmountain,Pilot Mountain,36.383939,-80.474220,census
+NC,pinetops,Pinetops,35.791136,-77.637775,census
+NC,pleasanthill,Pleasant Hill,36.254037,-80.894621,census
+NC,plymouth,Plymouth,35.858537,-76.748202,census
+NC,princeton,Princeton,35.466721,-78.161601,census
+NC,raeford,Raeford,34.981303,-79.229567,census
+NC,raleigh,Raleigh,35.831868,-78.641042,census
+NC,reidsville,Reidsville,36.341304,-79.673826,census
+NC,richsquare,Rich Square,36.273942,-77.283906,census
+NC,richlands,Richlands,34.900157,-77.542825,census
+NC,riegelwood,Riegelwood,34.340103,-78.220362,census
+NC,rockymount,Rocky Mount,35.968514,-77.808294,census
+NC,rockypoint,Rocky Point,34.444048,-77.890907,census
+NC,ruralhall,Rural Hall,36.224504,-80.296908,census
+NC,saintpauls,Saint Pauls,34.809197,-78.976559,census
+NC,salisbury,Salisbury,35.666161,-80.492629,census
+NC,saluda,Saluda,35.237523,-82.346908,census
+NC,sanford,Sanford,35.493776,-79.176464,census
+NC,seaboard,Seaboard,36.490690,-77.441966,census
+NC,selma,Selma,35.539726,-78.291735,census
+NC,shelby,Shelby,35.290405,-81.545645,census
+NC,silercity,Siler City,35.727067,-79.463662,census
+NC,springhope,Spring Hope,35.944126,-78.108966,census
+NC,springlake,Spring Lake,35.184590,-78.994722,census
+NC,statesville,Statesville,35.785493,-80.872962,census
+NC,stedman,Stedman,35.013483,-78.700121,census
+NC,stokesdale,Stokesdale,36.228073,-79.977413,census
+NC,supply,Supply,34.017672,-78.267499,nominatim
+NC,swansboro,Swansboro,34.693583,-77.134274,census
+NC,tarheel,Tar Heel,34.733896,-78.790896,census
+NC,troutman,Troutman,35.696962,-80.884971,census
+NC,uniongrove,Union Grove,36.008677,-80.854370,census
+NC,vanceboro,Vanceboro,35.303057,-77.156700,census
+NC,wade,Wade,35.163402,-78.739673,census
+NC,wadesboro,Wadesboro,34.963829,-80.074694,census
+NC,wakeforest,Wake Forest,35.964409,-78.513320,census
+NC,warsaw,Warsaw,34.999578,-78.092726,census
+NC,waynesville,Waynesville,35.485663,-82.999206,census
+NC,whitakers,Whitakers,36.105704,-77.712972,census
+NC,whiteville,Whiteville,34.330456,-78.701435,census
+NC,whitsett,Whitsett,36.079180,-79.572345,census
+NC,wilkesboro,Wilkesboro,36.142425,-81.176895,census
+NC,williamston,Williamston,35.846539,-77.066078,census
+NC,wilmington,Wilmington,34.209225,-77.885767,census
+NC,wilson,Wilson,35.731488,-77.930750,census
+NC,windsor,Windsor,35.993046,-76.939899,census
+NC,winnabow,Winnabow,34.149337,-78.093605,nominatim
+NC,winstonsalem,Winston Salem,36.102863,-80.260829,census
+NC,winton,Winton,36.389448,-76.934729,census
+NC,youngsville,Youngsville,36.035072,-78.481652,census
+ND,alexander,Alexander,47.838058,-103.643203,census
+ND,beach,Beach,46.918747,-104.005446,census
+ND,belfield,Belfield,46.886789,-103.195481,census
+ND,bismarck,Bismarck,46.814583,-100.770089,census
+ND,bowman,Bowman,46.184324,-103.402946,census
+ND,carpio,Carpio,48.443445,-101.716317,census
+ND,carrington,Carrington,47.452851,-99.131033,census
+ND,casselton,Casselton,46.896365,-97.212604,census
+ND,devilslake,Devils Lake,48.112578,-98.874762,census
+ND,dickinson,Dickinson,46.892780,-102.795960,census
+ND,drayton,Drayton,48.562060,-97.179496,census
+ND,dunseith,Dunseith,48.813033,-100.062233,census
+ND,fargo,Fargo,46.864700,-96.829080,census
+ND,fessenden,Fessenden,47.649308,-99.627008,census
+ND,grandforks,Grand Forks,47.919595,-97.087328,census
+ND,grassybutte,Grassy Butte,47.392514,-103.247966,nominatim
+ND,hankinson,Hankinson,46.073987,-96.891008,census
+ND,harwood,Harwood,46.977008,-96.881035,census
+ND,jamestown,Jamestown,46.905851,-98.693579,census
+ND,kenmare,Kenmare,48.672812,-102.072030,census
+ND,killdeer,Killdeer,47.368751,-102.746201,census
+ND,leeds,Leeds,48.287207,-99.434292,census
+ND,mandan,Mandan,46.829484,-100.887060,census
+ND,minot,Minot,48.236125,-101.277533,census
+ND,newsalem,New Salem,46.843050,-101.417941,census
+ND,newtown,New Town,47.989075,-102.488305,census
+ND,oakes,Oakes,46.139704,-98.087123,census
+ND,pembina,Pembina,48.967087,-97.246861,census
+ND,richardton,Richardton,46.881347,-102.333179,census
+ND,rugby,Rugby,48.365422,-99.990223,census
+ND,stanley,Stanley,48.313784,-102.397321,census
+ND,steele,Steele,46.856801,-99.918125,census
+ND,sterling,Sterling,46.851260,-100.267087,census
+ND,tioga,Tioga,48.394617,-102.943490,census
+ND,towercity,Tower City,46.926308,-97.676035,census
+ND,valleycity,Valley City,46.922573,-98.004137,census
+ND,wahpeton,Wahpeton,46.272083,-96.612203,census
+ND,watfordcity,Watford City,47.801492,-103.266731,census
+ND,westfargo,West Fargo,46.856380,-96.904809,census
+ND,williston,Williston,48.189496,-103.649117,census
+ND,wilton,Wilton,47.157997,-100.783985,census
+NE,alda,Alda,40.866567,-98.468050,census
+NE,alliance,Alliance,42.102567,-102.876188,census
+NE,alma,Alma,40.103565,-99.365693,census
+NE,aurora,Aurora,40.864656,-98.008069,census
+NE,beatrice,Beatrice,40.273281,-96.745954,census
+NE,bennet,Bennet,40.681727,-96.503932,census
+NE,bigsprings,Big Springs,41.060902,-102.074466,census
+NE,brokenbow,Broken Bow,41.405188,-99.640758,census
+NE,burwell,Burwell,41.780044,-99.134214,census
+NE,cairo,Cairo,41.004776,-98.600552,census
+NE,cambridge,Cambridge,40.284302,-100.165800,census
+NE,centralcity,Central City,41.113043,-98.000335,census
+NE,chadron,Chadron,42.825975,-103.002478,census
+NE,columbus,Columbus,41.437066,-97.357351,census
+NE,cozad,Cozad,40.861301,-99.986366,census
+NE,crete,Crete,40.624769,-96.952498,census
+NE,doniphan,Doniphan,40.774306,-98.371263,census
+NE,eagle,Eagle,40.815943,-96.432585,census
+NE,elgin,Elgin,41.983115,-98.082773,census
+NE,elmcreek,Elm Creek,40.720084,-99.375590,census
+NE,fairmont,Fairmont,40.633554,-97.584954,census
+NE,fallscity,Falls City,40.062208,-95.599013,census
+NE,fremont,Fremont,41.439842,-96.487000,census
+NE,geneva,Geneva,40.530692,-97.597135,census
+NE,genoa,Genoa,41.445874,-97.733273,census
+NE,gibbon,Gibbon,40.745932,-98.845848,census
+NE,gordon,Gordon,42.806378,-102.204002,census
+NE,gothenburg,Gothenburg,40.924676,-100.153929,census
+NE,grandisland,Grand Island,40.921352,-98.358559,census
+NE,greenwood,Greenwood,40.961687,-96.443043,census
+NE,gretna,Gretna,41.127917,-96.196863,census
+NE,hastings,Hastings,40.596264,-98.390320,census
+NE,hebron,Hebron,40.168769,-97.585984,census
+NE,henderson,Henderson,40.780250,-97.812209,census
+NE,hershey,Hershey,41.160187,-100.998528,census
+NE,holdrege,Holdrege,40.439441,-99.377037,census
+NE,jackson,Jackson,42.448167,-96.571302,census
+NE,laurel,Laurel,42.428614,-97.096363,census
+NE,lexington,Lexington,40.777453,-99.746755,census
+NE,lincoln,Lincoln,40.810284,-96.674856,census
+NE,milford,Milford,40.772568,-97.054119,census
+NE,norfolk,Norfolk,42.028216,-97.427807,census
+NE,northplatte,North Platte,41.124960,-100.750359,census
+NE,ogallala,Ogallala,41.129595,-101.720677,census
+NE,omaha,Omaha,41.262705,-96.053475,census
+NE,oneill,Oneill,42.461533,-98.646955,census
+NE,ord,Ord,41.602781,-98.919257,census
+NE,overton,Overton,40.740570,-99.537410,census
+NE,palmyra,Palmyra,40.705701,-96.392119,census
+NE,plainview,Plainview,42.353346,-97.787145,census
+NE,roca,Roca,40.658469,-96.661397,census
+NE,saintpaul,Saint Paul,41.213669,-98.459446,census
+NE,schuyler,Schuyler,41.450134,-97.061591,census
+NE,scottsbluff,Scottsbluff,41.868088,-103.662035,census
+NE,seward,Seward,40.909211,-97.096095,census
+NE,shelby,Shelby,41.194247,-97.426267,census
+NE,sidney,Sidney,41.133633,-102.969540,census
+NE,southsiouxcity,South Sioux City,42.462124,-96.412965,census
+NE,superior,Superior,40.021734,-98.061836,census
+NE,syracuse,Syracuse,40.663504,-96.182733,census
+NE,tecumseh,Tecumseh,40.371817,-96.188706,census
+NE,trenton,Trenton,40.174733,-101.013573,census
+NE,valentine,Valentine,42.875511,-100.547067,census
+NE,valley,Valley,41.317001,-96.362256,census
+NE,waco,Waco,40.897000,-97.461747,census
+NE,wahoo,Wahoo,41.217120,-96.617844,census
+NE,wayne,Wayne,42.237481,-97.008862,census
+NE,westpoint,West Point,41.837741,-96.705918,census
+NE,wisner,Wisner,41.989686,-96.914926,census
+NE,woodriver,Wood River,40.819572,-98.604176,census
+NE,york,York,40.869389,-97.592739,census
+NH,auburn,Auburn,42.997059,-71.365806,census
+NH,barrington,Barrington,43.215566,-71.038980,census
+NH,bow,Bow,43.133177,-71.537242,census
+NH,candia,Candia,43.056895,-71.340635,census
+NH,concord,Concord,43.232493,-71.561252,census
+NH,enfield,Enfield,43.643800,-72.146872,census
+NH,epping,Epping,43.034896,-71.098414,census
+NH,gorham,Gorham,44.393447,-71.198500,census
+NH,greenland,Greenland,43.039732,-70.845622,census
+NH,hudson,Hudson,42.763811,-71.432010,census
+NH,lebanon,Lebanon,43.635428,-72.253837,census
+NH,londonderry,Londonderry,42.853398,-71.362425,census
+NH,merrimack,Merrimack,42.852034,-71.519876,census
+NH,newhampton,New Hampton,43.610629,-71.652754,census
+NH,northwood,Northwood,43.211856,-71.223393,census
+NH,portsmouth,Portsmouth,43.060594,-70.780349,census
+NH,raymond,Raymond,43.035577,-71.175454,census
+NH,walpole,Walpole,43.078344,-72.424804,census
+NH,warner,Warner,43.284261,-71.824059,census
+NH,westchesterfield,West Chesterfield,42.904248,-72.515645,nominatim
+NJ,avenel,Avenel,40.584334,-74.271626,census
+NJ,bloomsbury,Bloomsbury,40.656886,-75.076225,census
+NJ,bordentown,Bordentown,40.149693,-74.707679,census
+NJ,boundbrook,Bound Brook,40.567749,-74.537250,census
+NJ,buddlake,Budd Lake,40.873494,-74.736828,census
+NJ,burlington,Burlington,40.078824,-74.852483,census
+NJ,carlstadt,Carlstadt,40.826431,-74.062335,census
+NJ,carteret,Carteret,40.583790,-74.227457,census
+NJ,cherryhill,Cherry Hill,39.904611,-74.997000,census
+NJ,clementon,Clementon,39.802681,-74.983763,census
+NJ,clinton,Clinton,40.636794,-74.915205,census
+NJ,columbia,Columbia,40.925868,-75.094062,census
+NJ,cranbury,Cranbury,40.313450,-74.520233,census
+NJ,delaware,Delaware,40.892819,-75.069436,census
+NJ,eastbrunswick,East Brunswick,40.426249,-74.418244,census
+NJ,eastrutherford,East Rutherford,40.817097,-74.085024,census
+NJ,edison,Edison,40.504396,-74.348843,census
+NJ,elizabeth,Elizabeth,40.666367,-74.193503,census
+NJ,elizabethport,Elizabethport,40.650103,-74.187089,nominatim
+NJ,fairfield,Fairfield,39.372316,-75.238721,census
+NJ,flemington,Flemington,40.508641,-74.859869,census
+NJ,franklinville,Franklinville,39.618004,-75.072981,census
+NJ,hampton,Hampton,40.704570,-74.971525,census
+NJ,hillsborough,Hillsborough,40.508074,-74.652880,census
+NJ,jerseycity,Jersey City,40.711417,-74.064760,census
+NJ,kearny,Kearny,40.752332,-74.123093,census
+NJ,ledgewood,Ledgewood,40.883268,-74.668029,census
+NJ,linden,Linden,40.627337,-74.236310,census
+NJ,mahwah,Mahwah,41.082067,-74.183061,census
+NJ,monmouthjunction,Monmouth Junction,40.376068,-74.557923,census
+NJ,monroetownship,Monroe Township,39.660224,-74.969195,census
+NJ,montague,Montague,41.280958,-74.730511,census
+NJ,mountholly,Mount Holly,39.995336,-74.786473,census
+NJ,mountlaurel,Mount Laurel,39.948992,-74.900247,census
+NJ,newark,Newark,40.724220,-74.172574,census
+NJ,newfield,Newfield,39.551041,-75.010217,census
+NJ,northbergen,North Bergen,40.793644,-74.025027,census
+NJ,northbrunswick,North Brunswick,40.450392,-74.479416,census
+NJ,palisadespark,Palisades Park,40.847017,-73.997061,census
+NJ,palmyra,Palmyra,40.003099,-75.035889,census
+NJ,paulsboro,Paulsboro,39.839975,-75.239960,census
+NJ,pennsgrove,Penns Grove,39.727704,-75.469035,census
+NJ,pennsauken,Pennsauken,39.968368,-75.057851,census
+NJ,perthamboy,Perth Amboy,40.520160,-74.271331,census
+NJ,phillipsburg,Phillipsburg,40.691974,-75.179006,census
+NJ,richwood,Richwood,39.716021,-75.172451,census
+NJ,ridgefield,Ridgefield,40.832677,-74.014088,census
+NJ,ringoes,Ringoes,40.430883,-74.871795,census
+NJ,riverton,Riverton,40.011135,-75.014128,census
+NJ,roebling,Roebling,40.117217,-74.777844,census
+NJ,rosenhayn,Rosenhayn,39.478674,-75.137962,census
+NJ,secaucus,Secaucus,40.781958,-74.067649,census
+NJ,southamboy,South Amboy,40.486391,-74.278762,census
+NJ,southplainfield,South Plainfield,40.574413,-74.414800,census
+NJ,thorofare,Thorofare,39.854728,-75.198685,census
+NJ,trenton,Trenton,40.223841,-74.763624,census
+NJ,vineland,Vineland,39.465007,-74.997115,census
+NJ,woodbridge,Woodbridge,40.552857,-74.286939,census
+NM,alamogordo,Alamogordo,32.883619,-105.963607,census
+NM,albuquerque,Albuquerque,35.104780,-106.646809,census
+NM,algodones,Algodones,35.370711,-106.488878,census
+NM,artesia,Artesia,32.852173,-104.424570,census
+NM,aztec,Aztec,36.815898,-107.970312,census
+NM,belen,Belen,34.766572,-106.808512,census
+NM,bernalillo,Bernalillo,35.312363,-106.554104,census
+NM,carlsbad,Carlsbad,32.400790,-104.241012,census
+NM,carrizozo,Carrizozo,33.643341,-105.841132,census
+NM,casablanca,Casa Blanca,35.046318,-107.471394,nominatim
+NM,clayton,Clayton,36.446033,-103.148863,census
+NM,clinescorners,Clines Corners,35.009498,-105.669180,nominatim
+NM,clovis,Clovis,34.438569,-103.194194,census
+NM,deming,Deming,32.263076,-107.752490,census
+NM,eunice,Eunice,32.436147,-103.149043,census
+NM,farmington,Farmington,36.753833,-108.180530,census
+NM,floravista,Flora Vista,36.803059,-108.090194,census
+NM,gallup,Gallup,35.513753,-108.743733,census
+NM,hatch,Hatch,32.673119,-107.161993,census
+NM,hobbs,Hobbs,32.729089,-103.160588,census
+NM,jal,Jal,32.114838,-103.189996,census
+NM,jamestown,Jamestown,35.469295,-108.439555,census
+NM,lascruces,Las Cruces,32.326444,-106.789695,census
+NM,lasvegas,Las Vegas,35.604818,-105.217023,census
+NM,lemitar,Lemitar,34.155034,-106.912241,census
+NM,logan,Logan,35.355482,-103.453020,census
+NM,lordsburg,Lordsburg,32.343777,-108.702120,census
+NM,loslunas,Los Lunas,34.800870,-106.788691,census
+NM,loving,Loving,32.286235,-104.097756,census
+NM,lovington,Lovington,32.944466,-103.349225,census
+NM,melrose,Melrose,34.429478,-103.629365,census
+NM,milan,Milan,35.196782,-107.892371,census
+NM,moriarty,Moriarty,35.003368,-106.044427,census
+NM,portales,Portales,34.177289,-103.355084,census
+NM,puebloofacoma,Pueblo Of Acoma,35.047500,-107.583900,nominatim
+NM,raton,Raton,36.884966,-104.439572,census
+NM,roswell,Roswell,33.373442,-104.529393,census
+NM,sanjon,San Jon,35.111299,-103.336299,census
+NM,santarosa,Santa Rosa,34.936051,-104.675021,census
+NM,santateresa,Santa Teresa,31.871360,-106.673424,census
+NM,springer,Springer,36.365411,-104.600218,census
+NM,tatum,Tatum,33.255394,-103.310822,census
+NM,texico,Texico,34.389212,-103.050682,census
+NM,tinnie,Tinnie,33.370556,-105.226367,nominatim
+NM,tucumcari,Tucumcari,35.170291,-103.705046,census
+NM,tularosa,Tularosa,33.075001,-106.017299,census
+NM,vado,Vado,32.127881,-106.657073,census
+NM,vaughn,Vaughn,34.607206,-105.212594,census
+NV,battlemountain,Battle Mountain,40.628371,-116.948553,census
+NV,carlin,Carlin,40.719013,-116.108045,census
+NV,carsoncity,Carson City,39.153060,-119.747368,census
+NV,elko,Elko,40.838111,-115.767809,census
+NV,ely,Ely,39.264928,-114.870868,census
+NV,fallon,Fallon,39.473663,-118.777865,census
+NV,fernley,Fernley,39.564770,-119.189433,census
+NV,gardnerville,Gardnerville,38.939000,-119.736879,census
+NV,hawthorne,Hawthorne,38.525267,-118.626031,census
+NV,henderson,Henderson,36.008958,-115.026800,census
+NV,imlay,Imlay,40.658106,-118.144098,census
+NV,indiansprings,Indian Springs,36.571844,-115.720313,census
+NV,jackpot,Jackpot,41.979455,-114.664598,census
+NV,jean,Jean,35.778857,-115.324382,nominatim
+NV,lasvegas,Las Vegas,36.233499,-115.264037,census
+NV,lovelock,Lovelock,40.178738,-118.477442,census
+NV,mcdermitt,MC DERMITT,41.990328,-117.720796,census
+NV,mesquite,Mesquite,36.811120,-114.125652,census
+NV,minden,Minden,38.964576,-119.766621,census
+NV,moapa,Moapa,36.667365,-114.584977,nominatim
+NV,northlasvegas,North Las Vegas,36.289865,-115.089181,census
+NV,reno,Reno,39.549097,-119.849907,census
+NV,searchlight,Searchlight,35.455431,-114.920426,census
+NV,sparks,Sparks,39.574341,-119.715154,census
+NV,tonopah,Tonopah,38.082160,-117.224586,census
+NV,wells,Wells,41.113155,-114.953537,census
+NV,westwendover,West Wendover,40.740253,-114.078633,census
+NV,winnemucca,Winnemucca,40.964432,-117.724582,census
+NV,yerington,Yerington,38.955475,-119.110115,census
+NY,albany,Albany,42.665745,-73.798353,census
+NY,apalachin,Apalachin,42.063844,-76.156757,census
+NY,avon,Avon,42.912842,-77.746490,census
+NY,bath,Bath,42.336093,-77.316860,census
+NY,belmont,Belmont,42.220105,-78.030794,census
+NY,bergen,Bergen,43.082601,-77.942458,census
+NY,binghamton,Binghamton,42.101331,-75.909369,census
+NY,brewerton,Brewerton,43.232432,-76.144820,census
+NY,bronx,Bronx,40.848711,-73.852939,census
+NY,buffalo,Buffalo,42.892492,-78.859686,census
+NY,campbell,Campbell,42.235043,-77.193694,census
+NY,canaan,Canaan,42.403004,-73.456777,census
+NY,canajoharie,Canajoharie,42.899080,-74.567869,census
+NY,canastota,Canastota,43.084149,-75.755495,census
+NY,castlecreek,Castle Creek,42.227575,-75.918253,nominatim
+NY,castletononhudson,Castleton On Hudson,42.536568,-73.747924,census
+NY,cayuta,Cayuta,42.271993,-76.684886,census
+NY,centralsquare,Central Square,43.285986,-76.141879,census
+NY,champlain,Champlain,44.988281,-73.432429,census
+NY,cliftonpark,Clifton Park,42.858993,-73.822974,census
+NY,copiague,Copiague,40.670358,-73.392761,census
+NY,corfu,Corfu,42.961163,-78.402610,census
+NY,dansville,Dansville,42.562482,-77.696927,census
+NY,eastsyracuse,East Syracuse,43.063823,-76.069789,census
+NY,elmira,Elmira,42.093388,-76.809610,census
+NY,fortann,Fort Ann,43.415731,-73.490513,census
+NY,fortedward,Fort Edward,43.268618,-73.582617,census
+NY,fultonville,Fultonville,42.946229,-74.369778,census
+NY,gansevoort,Gansevoort,43.196205,-73.651397,nominatim
+NY,glenmont,Glenmont,42.604802,-73.769566,nominatim
+NY,harpursville,Harpursville,42.178412,-75.624630,nominatim
+NY,henrietta,Henrietta,43.054316,-77.640078,census
+NY,hogansburg,Hogansburg,44.973936,-74.663242,nominatim
+NY,horseheads,Horseheads,42.168632,-76.829658,census
+NY,irving,Irving,42.567559,-79.112817,nominatim
+NY,islandia,Islandia,40.806862,-73.171084,census
+NY,jamestown,Jamestown,42.097603,-79.236135,census
+NY,jordan,Jordan,43.067069,-76.472920,census
+NY,lafayette,La Fayette,42.907651,-76.103328,census
+NY,lancaster,Lancaster,42.900600,-78.668775,census
+NY,lewis,Lewis,44.318369,-73.581246,census
+NY,limestone,Limestone,42.017267,-78.631327,census
+NY,liverpool,Liverpool,43.105566,-76.209664,census
+NY,livingston,Livingston,42.138944,-73.797118,census
+NY,mcgraw,Mc Graw,42.593765,-76.097502,census
+NY,medford,Medford,40.821979,-72.985918,census
+NY,montezuma,Montezuma,43.013147,-76.698035,census
+NY,montgomery,Montgomery,41.521266,-74.238661,census
+NY,newhampton,New Hampton,41.409866,-74.411744,nominatim
+NY,newburgh,Newburgh,41.503249,-74.019640,census
+NY,niagarafalls,Niagara Falls,43.092841,-79.014743,census
+NY,nichols,Nichols,42.020017,-76.370402,census
+NY,oneonta,Oneonta,42.454818,-75.066884,census
+NY,otego,Otego,42.392799,-75.180071,census
+NY,paintedpost,Painted Post,42.163762,-77.092384,census
+NY,parish,Parish,43.405802,-76.126370,census
+NY,peru,Peru,44.579326,-73.533292,census
+NY,phelps,Phelps,42.958057,-77.062121,census
+NY,plattsburgh,Plattsburgh,44.692025,-73.458276,census
+NY,pulaski,Pulaski,43.565504,-76.126035,census
+NY,queensbury,Queensbury,43.368207,-73.673872,census
+NY,randolph,Randolph,42.162290,-78.979690,census
+NY,redcreek,Red Creek,43.247903,-76.722852,census
+NY,ripley,Ripley,42.265686,-79.712302,census
+NY,rochester,Rochester,43.169927,-77.616891,census
+NY,rome,Rome,43.226002,-75.489523,census
+NY,salamanca,Salamanca,42.164734,-78.741263,census
+NY,sanborn,Sanborn,43.145054,-78.877748,census
+NY,sangerfield,Sangerfield,42.891607,-75.380220,census
+NY,schenectady,Schenectady,42.802641,-73.927200,census
+NY,senecafalls,Seneca Falls,42.911607,-76.797058,census
+NY,syracuse,Syracuse,43.040998,-76.143554,census
+NY,ticonderoga,Ticonderoga,43.842344,-73.423035,census
+NY,tully,Tully,42.798186,-76.110237,census
+NY,utica,Utica,43.096382,-75.225983,census
+NY,waterloo,Waterloo,42.904586,-76.859023,census
+NY,watertown,Watertown,43.973292,-75.910039,census
+NY,weedsport,Weedsport,43.048124,-76.563607,census
+NY,westcoxsackie,West Coxsackie,42.360640,-73.816792,nominatim
+NY,wolcott,Wolcott,43.222785,-76.812133,census
+NY,yorkshire,Yorkshire,42.523364,-78.475525,census
+OH,akron,Akron,41.080456,-81.521429,census
+OH,alvada,Alvada,41.050332,-83.401869,nominatim
+OH,amherst,Amherst,41.405329,-82.231725,census
+OH,anna,Anna,40.395364,-84.175659,census
+OH,ashland,Ashland,40.867068,-82.315152,census
+OH,ashville,Ashville,39.724340,-82.957472,census
+OH,austinburg,Austinburg,41.769168,-80.855605,census
+OH,avon,Avon,41.445100,-82.005109,census
+OH,barberton,Barberton,41.006903,-81.604390,census
+OH,beaverdam,Beaverdam,40.832487,-83.973383,census
+OH,bedford,Bedford,41.392123,-81.534680,census
+OH,bellefontaine,Bellefontaine,40.362702,-83.762989,census
+OH,bellville,Bellville,40.617729,-82.513147,census
+OH,belmont,Belmont,40.027979,-81.040933,census
+OH,berea,Berea,41.370548,-81.861757,census
+OH,bidwell,Bidwell,38.920936,-82.285388,census
+OH,bradner,Bradner,41.323884,-83.436366,census
+OH,broadviewheights,Broadview Heights,41.318156,-81.679262,census
+OH,brookpark,Brookpark,41.404309,-81.820342,census
+OH,brookville,Brookville,39.839007,-84.416278,census
+OH,bucyrus,Bucyrus,40.805119,-82.971632,census
+OH,burbank,Burbank,40.986232,-81.994840,census
+OH,caldwell,Caldwell,39.746354,-81.512976,census
+OH,cambridge,Cambridge,40.020933,-81.585468,census
+OH,canton,Canton,40.807650,-81.367228,census
+OH,carey,Carey,40.945814,-83.386095,census
+OH,carroll,Carroll,39.802585,-82.706178,census
+OH,carrollton,Carrollton,40.578747,-81.090820,census
+OH,chillicothe,Chillicothe,39.340502,-82.996102,census
+OH,cincinnati,Cincinnati,39.140183,-84.505829,census
+OH,circleville,Circleville,39.601152,-82.932515,census
+OH,cleveland,Cleveland,41.478462,-81.679435,census
+OH,clyde,Clyde,41.303585,-82.979425,census
+OH,columbus,Columbus,39.983938,-82.984882,census
+OH,conneaut,Conneaut,41.927299,-80.568382,census
+OH,coolville,Coolville,39.216237,-81.799648,census
+OH,coshocton,Coshocton,40.261752,-81.847292,census
+OH,dalton,Dalton,40.799562,-81.703719,census
+OH,dayton,Dayton,39.784743,-84.199632,census
+OH,delaware,Delaware,40.286476,-83.074864,census
+OH,delphos,Delphos,40.846581,-84.336474,census
+OH,delta,Delta,41.579283,-84.020862,census
+OH,diamond,Diamond,41.098946,-81.022871,nominatim
+OH,dover,Dover,40.530048,-81.481028,census
+OH,eaton,Eaton,39.750107,-84.634469,census
+OH,edon,Edon,41.556168,-84.769373,census
+OH,elyria,Elyria,41.372778,-82.108009,census
+OH,etna,Etna,39.955172,-82.686083,census
+OH,fairborn,Fairborn,39.799578,-84.008482,census
+OH,findlay,Findlay,41.047364,-83.638093,census
+OH,franklin,Franklin,39.554951,-84.295728,census
+OH,fremont,Fremont,41.353019,-83.115590,census
+OH,galion,Galion,40.738216,-82.781327,census
+OH,gallipolis,Gallipolis,38.820082,-82.190972,census
+OH,geneva,Geneva,41.855268,-80.951280,census
+OH,genoa,Genoa,41.518631,-83.364531,census
+OH,girard,Girard,41.165648,-80.696089,census
+OH,grafton,Grafton,41.284140,-82.029968,census
+OH,greenville,Greenville,40.104708,-84.621450,census
+OH,groveport,Groveport,39.857337,-82.891442,census
+OH,hannibal,Hannibal,39.671769,-80.874105,census
+OH,harrison,Harrison,39.256580,-84.786202,census
+OH,hebron,Hebron,39.965248,-82.486506,census
+OH,holland,Holland,41.619253,-83.708216,census
+OH,hubbard,Hubbard,41.158121,-80.564651,census
+OH,ironton,Ironton,38.532596,-82.678090,census
+OH,jackson,Jackson,39.044460,-82.644658,census
+OH,jeffersonville,Jeffersonville,39.653439,-83.551562,census
+OH,kent,Kent,41.147561,-81.361965,census
+OH,kingsville,Kingsville,41.882032,-80.674965,census
+OH,lancaster,Lancaster,39.725228,-82.605246,census
+OH,lebanon,Lebanon,39.424229,-84.217998,census
+OH,lima,Lima,40.740679,-84.112091,census
+OH,lockbourne,Lockbourne,39.808900,-82.987294,census
+OH,london,London,39.892845,-83.438875,census
+OH,lorecity,Lore City,39.983203,-81.460077,census
+OH,lowellville,Lowellville,41.037167,-80.542180,census
+OH,madison,Madison,41.772258,-81.052983,census
+OH,malvern,Malvern,40.689494,-81.180409,census
+OH,mansfield,Mansfield,40.766720,-82.530820,census
+OH,mantua,Mantua,41.281952,-81.222399,census
+OH,marengo,Marengo,40.400820,-82.810994,census
+OH,marietta,Marietta,39.423166,-81.446426,census
+OH,marion,Marion,40.596746,-83.123185,census
+OH,mason,Mason,39.360722,-84.295867,census
+OH,massillon,Massillon,40.784483,-81.525216,census
+OH,maumee,Maumee,41.571125,-83.666250,census
+OH,mendon,Mendon,40.672717,-84.517854,census
+OH,middletown,Middletown,39.502952,-84.364893,census
+OH,millbury,Millbury,41.564731,-83.425516,census
+OH,millersport,Millersport,39.896382,-82.541954,census
+OH,monroe,Monroe,39.445990,-84.365772,census
+OH,monroeville,Monroeville,41.243843,-82.702575,census
+OH,montpelier,Montpelier,41.584246,-84.591569,census
+OH,mounteaton,Mount Eaton,40.694805,-81.702164,census
+OH,mountgilead,Mount Gilead,40.554047,-82.827904,census
+OH,napoleon,Napoleon,41.397969,-84.124984,census
+OH,newcarlisle,New Carlisle,39.944443,-84.027667,census
+OH,newconcord,New Concord,39.993659,-81.738064,census
+OH,newparis,New Paris,39.856678,-84.791916,census
+OH,newphiladelphia,New Philadelphia,40.486484,-81.440151,census
+OH,newspringfield,New Springfield,40.917919,-80.600673,census
+OH,newcomerstown,Newcomerstown,40.275264,-81.596034,census
+OH,newtonfalls,Newton Falls,41.192553,-80.967979,census
+OH,northbaltimore,North Baltimore,41.179755,-83.668259,census
+OH,northcanton,North Canton,40.874146,-81.397134,census
+OH,northjackson,North Jackson,41.100127,-80.857174,nominatim
+OH,northlima,North Lima,40.947372,-80.664007,census
+OH,norwalk,Norwalk,41.244573,-82.608950,census
+OH,oregon,Oregon,41.655956,-83.438325,census
+OH,orrville,Orrville,40.848267,-81.776894,census
+OH,parkman,Parkman,41.372206,-81.055012,census
+OH,paulding,Paulding,41.142663,-84.582657,census
+OH,perrysburg,Perrysburg,41.538986,-83.644132,census
+OH,portclinton,Port Clinton,41.509718,-82.938339,census
+OH,quakercity,Quaker City,39.969656,-81.297357,census
+OH,ravenna,Ravenna,41.161567,-81.242058,census
+OH,richfield,Richfield,41.233132,-81.643941,census
+OH,rittman,Rittman,40.973373,-81.784583,census
+OH,rockbridge,Rockbridge,39.586228,-82.526229,census
+OH,rossford,Rossford,41.577572,-83.572178,census
+OH,sandusky,Sandusky,41.455885,-82.714436,census
+OH,sardinia,Sardinia,39.007113,-83.802101,census
+OH,seville,Seville,41.020726,-81.867136,census
+OH,shelby,Shelby,40.885138,-82.658308,census
+OH,sidney,Sidney,40.289527,-84.166729,census
+OH,southvienna,South Vienna,39.929321,-83.613934,census
+OH,springfield,Springfield,39.928908,-83.794241,census
+OH,steubenville,Steubenville,40.366310,-80.657061,census
+OH,strasburg,Strasburg,40.600595,-81.529351,census
+OH,sunbury,Sunbury,40.249405,-82.880199,census
+OH,tiffin,Tiffin,41.114910,-83.180468,census
+OH,tippcity,Tipp City,39.964474,-84.186380,census
+OH,toledo,Toledo,41.664071,-83.581861,census
+OH,troy,Troy,40.041012,-84.222355,census
+OH,twinsburg,Twinsburg,41.322594,-81.443123,census
+OH,uppersandusky,Upper Sandusky,40.830669,-83.270709,census
+OH,vandalia,Vandalia,39.878977,-84.192224,census
+OH,wadsworth,Wadsworth,41.027436,-81.732205,census
+OH,wapakoneta,Wapakoneta,40.565229,-84.190695,census
+OH,warren,Warren,41.239564,-80.816015,census
+OH,waterville,Waterville,41.501971,-83.736852,census
+OH,wauseon,Wauseon,41.553441,-84.140136,census
+OH,waverly,Waverly,39.125970,-82.983687,census
+OH,westunity,West Unity,41.588977,-84.430295,census
+OH,willard,Willard,41.051941,-82.723533,census
+OH,willoughby,Willoughby,41.645285,-81.414353,census
+OH,wilmington,Wilmington,39.429125,-83.816172,census
+OH,wooster,Wooster,40.819060,-81.931557,census
+OH,youngstown,Youngstown,41.099095,-80.645902,census
+OH,zanesville,Zanesville,39.955993,-82.013469,census
+OK,ada,Ada,34.767914,-96.669114,census
+OK,afton,Afton,36.696535,-94.957463,census
+OK,allen,Allen,34.877628,-96.412889,census
+OK,altus,Altus,34.657061,-99.309046,census
+OK,alva,Alva,36.789566,-98.664877,census
+OK,anadarko,Anadarko,35.065296,-98.244469,census
+OK,ardmore,Ardmore,34.196507,-97.131848,census
+OK,arnett,Arnett,36.134487,-99.772706,census
+OK,atoka,Atoka,34.386353,-96.131101,census
+OK,bartlesville,Bartlesville,36.737668,-95.948454,census
+OK,bigcabin,Big Cabin,36.537602,-95.229368,census
+OK,billings,Billings,36.537595,-97.441749,census
+OK,blackwell,Blackwell,36.801341,-97.300871,census
+OK,boisecity,Boise City,36.731336,-102.509522,census
+OK,braman,Braman,36.923644,-97.335815,census
+OK,brokenarrow,Broken Arrow,36.036529,-95.780996,census
+OK,brokenbow,Broken Bow,34.028862,-94.741357,census
+OK,chandler,CHANDLER,35.712784,-96.836198,census
+OK,calera,Calera,33.930829,-96.429060,census
+OK,calumet,Calumet,35.601385,-98.124786,census
+OK,checotah,Checotah,35.482436,-95.522818,census
+OK,cherokee,Cherokee,36.750694,-98.357667,census
+OK,chickasha,Chickasha,35.040543,-97.947173,census
+OK,choctaw,Choctaw,35.484983,-97.269942,census
+OK,chouteau,Chouteau,36.189507,-95.338902,census
+OK,clinton,Clinton,35.507101,-98.970503,census
+OK,copan,Copan,36.900473,-95.925291,census
+OK,davis,Davis,34.429427,-97.174438,census
+OK,dewey,Dewey,36.790402,-95.933712,census
+OK,drumright,Drumright,35.989923,-96.597424,census
+OK,duncan,Duncan,34.481607,-97.960537,census
+OK,durant,Durant,33.995153,-96.392540,census
+OK,edmond,Edmond,35.673807,-97.413076,census
+OK,elreno,El Reno,35.541833,-97.961268,census
+OK,elkcity,Elk City,35.389612,-99.428749,census
+OK,enid,Enid,36.406702,-97.869861,census
+OK,erick,Erick,35.215604,-99.868683,census
+OK,eufaula,Eufaula,35.292114,-95.586425,census
+OK,geary,Geary,35.637076,-98.316976,census
+OK,grant,Grant,33.936486,-95.517868,census
+OK,guthrie,Guthrie,35.876512,-97.408657,census
+OK,guymon,Guymon,36.690101,-101.477046,census
+OK,heavener,Heavener,34.891965,-94.607790,census
+OK,hennessey,Hennessey,36.105811,-97.898615,census
+OK,henryetta,Henryetta,35.441655,-95.986416,census
+OK,hinton,Hinton,35.493227,-98.354723,census
+OK,hooker,Hooker,36.861360,-101.216256,census
+OK,hugo,Hugo,34.011584,-95.512179,census
+OK,idabel,Idabel,33.907406,-94.822174,census
+OK,kingfisher,Kingfisher,35.844726,-97.939308,census
+OK,kiowa,Kiowa,34.723294,-95.902895,census
+OK,lawton,Lawton,34.617172,-98.421400,census
+OK,lindsay,Lindsay,34.840485,-97.609851,census
+OK,madill,Madill,34.087080,-96.774665,census
+OK,marietta,Marietta,33.936172,-97.124716,census
+OK,marlow,Marlow,34.631114,-97.956659,census
+OK,mcalester,McAlester,34.926128,-95.773619,census
+OK,muldrow,Muldrow,35.403420,-94.597523,census
+OK,muskogee,Muskogee,35.743797,-95.356405,census
+OK,newcastle,Newcastle,35.242395,-97.595336,census
+OK,newkirk,Newkirk,36.881797,-97.055292,census
+OK,ninnekah,Ninnekah,34.964011,-97.944707,census
+OK,norman,Norman,35.240569,-97.345299,census
+OK,nowata,Nowata,36.699265,-95.637465,census
+OK,okemah,Okemah,35.429269,-96.300309,census
+OK,oklahomacity,Oklahoma City,35.467079,-97.513657,census
+OK,okmulgee,Okmulgee,35.625162,-95.954032,census
+OK,oologah,Oologah,36.443778,-95.708911,census
+OK,paulsvalley,Pauls Valley,34.710206,-97.224027,census
+OK,pawnee,Pawnee,36.351480,-96.800504,census
+OK,perkins,Perkins,35.979763,-97.031290,census
+OK,perry,Perry,36.280149,-97.308190,census
+OK,poteau,Poteau,35.066650,-94.610269,census
+OK,pryor,Pryor,36.308428,-95.316914,nominatim
+OK,randlett,Randlett,34.177347,-98.463921,census
+OK,redrock,Red Rock,36.460071,-97.179608,census
+OK,roland,Roland,35.413179,-94.508525,census
+OK,southcoffeyville,S Coffeyville,36.992089,-95.621838,census
+OK,sapulpa,Sapulpa,36.004206,-96.123275,census
+OK,sayre,Sayre,35.295653,-99.628239,census
+OK,seiling,Seiling,36.144651,-98.925437,census
+OK,seminole,Seminole,35.234772,-96.649329,census
+OK,shattuck,Shattuck,36.264970,-99.877431,census
+OK,shawnee,Shawnee,35.369413,-96.956408,census
+OK,springer,Springer,34.295620,-97.117450,census
+OK,stillwater,Stillwater,36.131496,-97.074464,census
+OK,stringtown,Stringtown,34.469600,-96.055521,census
+OK,stroud,Stroud,35.768875,-96.650070,census
+OK,texhoma,Texhoma,36.505405,-101.787387,census
+OK,thackerville,Thackerville,33.787525,-97.139180,census
+OK,thomas,Thomas,35.744773,-98.739686,census
+OK,tonkawa,Tonkawa,36.670589,-97.315028,census
+OK,tulsa,Tulsa,36.127949,-95.902316,census
+OK,tupelo,Tupelo,34.602685,-96.420791,census
+OK,unioncity,Union City,35.399523,-97.906705,census
+OK,valliant,Valliant,34.007542,-95.084904,census
+OK,vinita,Vinita,36.644152,-95.062183,census
+OK,walters,Walters,34.358433,-98.356883,census
+OK,warner,Warner,35.491693,-95.308945,census
+OK,watonga,Watonga,35.847503,-98.402734,census
+OK,watts,Watts,36.106512,-94.573885,census
+OK,waurika,Waurika,34.183747,-98.026293,census
+OK,weatherford,Weatherford,35.537395,-98.684345,census
+OK,webbersfalls,Webbers Falls,35.517003,-95.164221,census
+OK,welch,Welch,36.874408,-95.094399,census
+OK,woodward,Woodward,36.424832,-99.404726,census
+OK,wynnewood,Wynnewood,34.642789,-97.162467,census
+OK,yukon,Yukon,35.518409,-97.766172,census
+OR,albany,Albany,44.626928,-123.096741,census
+OR,aurora,Aurora,45.228317,-122.757227,census
+OR,bakercity,Baker City,44.774972,-117.831808,census
+OR,boardman,Boardman,45.836507,-119.692793,census
+OR,halsey,Halsey,44.382845,-123.109487,census
+OR,hermiston,Hermiston,45.832948,-119.285212,census
+OR,huntington,Huntington,44.350086,-117.266763,census
+OR,lagrande,La Grande,45.324471,-118.086891,census
+OR,madras,Madras,44.663897,-121.160438,census
+OR,ontario,Ontario,44.025336,-116.977368,census
+OR,pendleton,Pendleton,45.675545,-118.819498,census
+OR,portland,Portland,45.536951,-122.649971,census
+OR,salem,Salem,44.923900,-123.023007,census
+OR,stanfield,Stanfield,45.782187,-119.216064,census
+OR,troutdale,Troutdale,45.539220,-122.392673,census
+OR,umatilla,Umatilla,45.917612,-119.331979,census
+OR,wasco,Wasco,45.591657,-120.697464,census
+PA,alexandria,Alexandria,40.558438,-78.099883,census
+PA,allentown,Allentown,40.593648,-75.478393,census
+PA,altoona,Altoona,40.508052,-78.401114,census
+PA,annville,Annville,40.332505,-76.507684,census
+PA,ashland,Ashland,40.781106,-76.345046,census
+PA,avis,Avis,41.185691,-77.316486,census
+PA,baden,Baden,40.639695,-80.222537,census
+PA,bedford,Bedford,40.015115,-78.503017,census
+PA,bellefonte,Bellefonte,40.914213,-77.768197,census
+PA,bensalem,Bensalem,40.106196,-74.943689,census
+PA,bentleyville,Bentleyville,40.117846,-80.004420,census
+PA,bethel,Bethel,40.476483,-76.287970,census
+PA,blairsville,Blairsville,40.432490,-79.259881,census
+PA,blakeslee,Blakeslee,41.092513,-75.592668,nominatim
+PA,bloomsburg,Bloomsburg,41.002717,-76.456580,census
+PA,blossburg,Blossburg,41.679525,-77.068951,census
+PA,bowmansville,Bowmansville,40.201730,-76.021030,census
+PA,breezewood,Breezewood,39.999012,-78.240422,nominatim
+PA,brogue,Brogue,39.872355,-76.484639,nominatim
+PA,brookville,Brookville,41.161676,-79.082652,census
+PA,carlisle,Carlisle,40.199994,-77.204149,census
+PA,chambersburg,Chambersburg,39.931433,-77.655642,census
+PA,clairton,Clairton,40.296656,-79.889026,census
+PA,claysburg,Claysburg,40.291448,-78.451419,census
+PA,clearfield,Clearfield,41.021498,-78.439398,census
+PA,cochranton,Cochranton,41.519097,-80.046991,census
+PA,coopersburg,Coopersburg,40.510368,-75.391920,census
+PA,coudersport,Coudersport,41.775844,-78.016038,census
+PA,crescent,Crescent,40.555653,-80.228561,census
+PA,croydon,Croydon,40.090348,-74.896679,census
+PA,dalton,Dalton,41.537610,-75.738270,census
+PA,donegal,Donegal,40.112020,-79.380772,census
+PA,douglassville,Douglassville,40.259899,-75.724228,census
+PA,drums,Drums,41.018139,-75.994925,nominatim
+PA,dubois,Du Bois,41.122269,-78.756154,census
+PA,duncannon,Duncannon,40.395178,-77.027730,census
+PA,duncansville,Duncansville,40.426307,-78.430260,census
+PA,eastberlin,East Berlin,39.936829,-76.979459,census
+PA,eastearl,East Earl,40.110171,-76.025953,census
+PA,eastfreedom,East Freedom,40.355235,-78.430471,census
+PA,ebensburg,Ebensburg,40.488120,-78.726541,census
+PA,eightyfour,Eighty Four,40.177698,-80.130298,census
+PA,elverson,Elverson,40.153719,-75.830826,census
+PA,emlenton,Emlenton,41.180245,-79.708550,census
+PA,erie,Erie,42.116594,-80.073503,census
+PA,etters,Etters,40.154600,-76.798300,nominatim
+PA,everett,Everett,40.010867,-78.355903,census
+PA,fairlesshills,Fairless Hills,40.177667,-74.850960,census
+PA,fallscreek,Falls Creek,41.141959,-78.806947,census
+PA,fayetteville,Fayetteville,39.911433,-77.565100,census
+PA,feastervilletrevose,Feasterville Trevose,40.148406,-74.993473,nominatim
+PA,fleetwood,Fleetwood,40.456503,-75.821579,census
+PA,gap,Gap,39.989889,-76.021247,census
+PA,gettysburg,Gettysburg,39.830597,-77.234147,census
+PA,gouldsboro,Gouldsboro,41.245668,-75.441703,census
+PA,greencastle,Greencastle,39.790670,-77.726674,census
+PA,greentown,Greentown,41.321755,-75.305459,nominatim
+PA,hamburg,Hamburg,40.556225,-75.982357,census
+PA,harford,Harford,41.781996,-75.706221,census
+PA,harrisburg,Harrisburg,40.275891,-76.885020,census
+PA,harrisville,Harrisville,41.136407,-80.010746,census
+PA,hazleton,Hazleton,40.950470,-75.972509,census
+PA,hermitage,Hermitage,41.229552,-80.440704,census
+PA,hershey,Hershey,40.280010,-76.644328,census
+PA,jimthorpe,Jim Thorpe,40.857215,-75.776338,census
+PA,jonestown,Jonestown,40.412972,-76.480726,census
+PA,kane,Kane,41.663008,-78.809016,census
+PA,kingofprussia,King Of Prussia,40.096029,-75.379074,census
+PA,kutztown,Kutztown,40.521313,-75.777288,census
+PA,lakeariel,Lake Ariel,41.453975,-75.382681,nominatim
+PA,lamar,Lamar,41.010035,-77.523444,census
+PA,lancaster,Lancaster,40.042061,-76.300990,census
+PA,lawrenceville,Lawrenceville,41.996136,-77.130392,census
+PA,lebanon,Lebanon,40.341193,-76.422735,census
+PA,leesport,Leesport,40.444433,-75.967191,census
+PA,leola,Leola,40.092953,-76.188963,census
+PA,levittown,Levittown,40.152343,-74.852340,census
+PA,liberty,Liberty,40.321700,-79.863158,census
+PA,lockhaven,Lock Haven,41.137115,-77.453239,census
+PA,loganton,Loganton,41.034229,-77.302333,census
+PA,loretto,Loretto,40.508398,-78.635148,census
+PA,manheim,Manheim,40.163273,-76.395973,census
+PA,marietta,Marietta,40.057043,-76.551723,census
+PA,mckeesrocks,Mc Kees Rocks,40.469019,-80.063328,census
+PA,mechanicsburg,Mechanicsburg,40.211404,-77.005930,census
+PA,mercersburg,Mercersburg,39.831886,-77.902890,census
+PA,middleburycenter,Middlebury Center,41.843684,-77.274420,nominatim
+PA,middletown,Middletown,40.644006,-75.324584,census
+PA,mifflintown,Mifflintown,40.571174,-77.395140,census
+PA,mifflinville,Mifflinville,41.030711,-76.302779,census
+PA,milesburg,Milesburg,40.942383,-77.791686,census
+PA,millhall,Mill Hall,41.105235,-77.488485,census
+PA,milroy,Milroy,40.719360,-77.589990,census
+PA,milton,Milton,41.002297,-76.851007,census
+PA,monaca,Monaca,40.683423,-80.273427,census
+PA,monroeton,Monroeton,41.712575,-76.474665,nominatim
+PA,monroeville,Monroeville,40.426324,-79.761379,census
+PA,morrisville,Morrisville,40.207644,-74.780269,census
+PA,mountmorris,Mount Morris,39.733250,-80.081989,census
+PA,mountaintop,Mountain Top,41.135302,-75.904430,census
+PA,mountville,Mountville,40.040745,-76.434924,census
+PA,muncy,Muncy,41.202161,-76.785507,census
+PA,myerstown,Myerstown,40.372139,-76.305579,census
+PA,nantyglo,Nanty Glo,40.470561,-78.834011,census
+PA,natronaheights,Natrona Heights,40.623705,-79.726152,census
+PA,newalexandria,New Alexandria,40.394456,-79.417524,census
+PA,newcumberland,New Cumberland,40.228765,-76.878291,census
+PA,newmilford,New Milford,41.876143,-75.726561,census
+PA,newstanton,New Stanton,40.222332,-79.608800,census
+PA,newburg,Newburg,40.839436,-78.684958,census
+PA,northeast,North East,42.213367,-79.833351,census
+PA,orwigsburg,Orwigsburg,40.654167,-76.103989,census
+PA,perryopolis,Perryopolis,40.086831,-79.752596,census
+PA,philadelphia,Philadelphia,40.009376,-75.133346,census
+PA,pinegrove,Pine Grove,40.553414,-76.386016,census
+PA,pittsburgh,Pittsburgh,40.439936,-79.975676,census
+PA,pittston,Pittston,41.327920,-75.785684,census
+PA,plainfield,Plainfield,40.201172,-77.283279,census
+PA,portersville,Portersville,40.924332,-80.146883,census
+PA,reedsville,Reedsville,40.664911,-77.593006,census
+PA,ronks,Ronks,40.028441,-76.176080,census
+PA,saintthomas,Saint Thomas,39.925436,-77.805123,census
+PA,sayre,Sayre,41.985722,-76.520848,census
+PA,sharonhill,Sharon Hill,39.907433,-75.267787,census
+PA,shippensburg,Shippensburg,40.048733,-77.523193,census
+PA,shippenville,Shippenville,41.250993,-79.462626,census
+PA,shoemakersville,Shoemakersville,40.499901,-75.969774,census
+PA,slipperyrock,Slippery Rock,41.069487,-80.057929,census
+PA,smithton,Smithton,40.153808,-79.741667,census
+PA,snowshoe,Snow Shoe,41.027650,-77.949720,census
+PA,somerset,Somerset,40.005030,-79.077855,census
+PA,stockertown,Stockertown,40.754917,-75.262935,census
+PA,strasburg,Strasburg,39.984516,-76.186183,census
+PA,tafton,Tafton,41.404534,-75.182953,nominatim
+PA,tamaqua,Tamaqua,40.804055,-75.926617,census
+PA,towanda,Towanda,41.770945,-76.446503,census
+PA,troy,Troy,41.783315,-76.792222,census
+PA,tunkhannock,Tunkhannock,41.541084,-75.949058,census
+PA,uniontown,Uniontown,39.899302,-79.724529,census
+PA,verona,Verona,40.505672,-79.841947,census
+PA,warren,Warren,41.842916,-79.143865,census
+PA,waterfall,Waterfall,40.127583,-78.062782,nominatim
+PA,wayne,Wayne,40.039604,-75.392660,census
+PA,waynesburg,Waynesburg,39.898255,-80.185537,census
+PA,whitehaven,White Haven,41.059700,-75.786946,census
+PA,wrightsville,Wrightsville,40.023875,-76.531207,census
+PA,wysox,Wysox,41.814540,-76.377646,census
+PA,york,York,39.964798,-76.731840,census
+PA,yorksprings,York Springs,40.009301,-77.115883,census
+RI,johnston,Johnston,41.827440,-71.519879,census
+RI,westgreenwich,West Greenwich,41.628605,-71.658874,census
+SC,abbeville,Abbeville,34.178544,-82.377687,census
+SC,aiken,Aiken,33.531594,-81.725073,census
+SC,anderson,Anderson,34.521487,-82.643517,census
+SC,aynor,Aynor,34.000230,-79.207117,census
+SC,batesburg,Batesburg,33.913324,-81.528058,census
+SC,beechisland,Beech Island,33.428596,-81.890318,census
+SC,bennettsville,Bennettsville,34.628218,-79.685958,census
+SC,bishopville,Bishopville,34.220070,-80.247370,census
+SC,blacksburg,Blacksburg,35.122089,-81.518119,census
+SC,blythewood,Blythewood,34.209247,-80.995293,census
+SC,bowman,Bowman,33.348302,-80.684293,census
+SC,branchville,Branchville,33.251712,-80.816078,census
+SC,campobello,Campobello,35.125755,-82.149364,census
+SC,cayce,Cayce,33.950498,-81.039806,census
+SC,charleston,Charleston,32.828017,-79.972896,census
+SC,chesnee,Chesnee,35.146247,-81.862978,census
+SC,clinton,Clinton,34.473887,-81.860899,census
+SC,columbia,Columbia,34.040519,-80.906099,census
+SC,conway,Conway,33.834533,-79.049173,census
+SC,cowpens,Cowpens,35.018617,-81.804121,census
+SC,darlington,Darlington,34.301383,-79.867174,census
+SC,dillon,Dillon,34.424406,-79.367561,census
+SC,duncan,Duncan,34.932426,-82.143688,census
+SC,elgin,Elgin,34.665791,-80.720931,census
+SC,enoree,Enoree,34.660485,-81.962520,census
+SC,fairplay,Fair Play,34.508090,-82.986838,census
+SC,florence,Florence,34.178923,-79.792217,census
+SC,fortmill,Fort Mill,35.005997,-80.940000,census
+SC,fountaininn,Fountain Inn,34.696650,-82.202129,census
+SC,gaffney,Gaffney,35.073558,-81.661532,census
+SC,gaston,Gaston,33.817968,-81.099749,census
+SC,georgetown,Georgetown,33.372432,-79.280793,census
+SC,gilbert,Gilbert,33.924111,-81.391042,census
+SC,graniteville,Graniteville,33.564682,-81.809231,census
+SC,greenville,Greenville,34.836902,-82.362997,census
+SC,greenwood,Greenwood,34.195397,-82.153665,census
+SC,greer,Greer,34.933286,-82.230803,census
+SC,hardeeville,Hardeeville,32.295308,-81.040983,census
+SC,harleyville,Harleyville,33.213065,-80.447784,census
+SC,hartsville,Hartsville,34.366003,-80.083261,census
+SC,hemingway,Hemingway,33.753319,-79.446261,census
+SC,honeapath,Honea Path,34.447619,-82.394957,census
+SC,inman,Inman,35.045786,-82.088485,census
+SC,jamestown,Jamestown,33.285876,-79.694592,census
+SC,johnsisland,Johns Island,32.702401,-80.048149,nominatim
+SC,ladson,Ladson,33.009482,-80.107993,census
+SC,lancaster,Lancaster,34.723916,-80.785701,census
+SC,latta,Latta,34.338940,-79.433564,census
+SC,laurens,Laurens,34.502686,-82.021413,census
+SC,leesville,Leesville,33.916532,-81.513437,nominatim
+SC,lexington,Lexington,33.992877,-81.221797,census
+SC,longs,Longs,33.938527,-78.733052,nominatim
+SC,loris,Loris,34.057476,-78.888420,census
+SC,lugoff,Lugoff,34.211948,-80.697601,census
+SC,manning,Manning,33.693323,-80.216761,census
+SC,marion,Marion,34.178658,-79.395659,census
+SC,monckscorner,Moncks Corner,33.199763,-79.986603,census
+SC,newberry,Newberry,34.279880,-81.600333,census
+SC,northaugusta,North Augusta,33.523303,-81.956566,census
+SC,northcharleston,North Charleston,32.917881,-80.065000,census
+SC,orangeburg,Orangeburg,33.493596,-80.866880,census
+SC,pageland,Pageland,34.770117,-80.385705,census
+SC,pelzer,Pelzer,34.642859,-82.460473,census
+SC,piedmont,Piedmont,34.705617,-82.466746,census
+SC,prosperity,Prosperity,34.213372,-81.528386,census
+SC,ravenel,Ravenel,32.776278,-80.231948,census
+SC,richburg,Richburg,34.716622,-81.019577,census
+SC,rockhill,Rock Hill,34.938216,-81.019177,census
+SC,roebuck,Roebuck,34.878987,-81.964442,census
+SC,roundo,Round O,32.937115,-80.540935,nominatim
+SC,saintgeorge,Saint George,33.186073,-80.579459,census
+SC,saintmatthews,Saint Matthews,33.664640,-80.778753,census
+SC,saintstephen,Saint Stephen,33.402629,-79.925194,census
+SC,simpsonville,Simpsonville,34.728538,-82.256377,census
+SC,societyhill,Society Hill,34.509815,-79.853535,census
+SC,spartanburg,Spartanburg,34.945627,-81.925944,census
+SC,summerton,Summerton,33.601475,-80.352648,census
+SC,summerville,Summerville,33.005836,-80.179306,census
+SC,sumter,Sumter,33.940848,-80.395543,census
+SC,timmonsville,Timmonsville,34.133127,-79.940961,census
+SC,townville,Townville,34.563714,-82.898477,nominatim
+SC,travelersrest,Travelers Rest,34.960031,-82.445009,census
+SC,trenton,Trenton,33.740557,-81.840937,census
+SC,walterboro,Walterboro,32.901334,-80.676234,census
+SC,westcolumbia,West Columbia,33.990130,-81.099354,census
+SC,williston,Williston,33.401663,-81.421899,census
+SC,winnsboro,Winnsboro,34.368598,-81.091378,census
+SC,yemassee,Yemassee,32.678312,-80.847883,census
+SD,aberdeen,Aberdeen,45.464678,-98.468104,census
+SD,bellefourche,Belle Fourche,44.663798,-103.859143,census
+SD,beresford,Beresford,43.079646,-96.780224,census
+SD,blunt,Blunt,44.515940,-99.988556,census
+SD,boxelder,Box Elder,44.110941,-103.081066,census
+SD,brandon,Brandon,43.592908,-96.583769,census
+SD,brookings,Brookings,44.303364,-96.787339,census
+SD,burbank,Burbank,42.746080,-96.832718,census
+SD,chamberlain,Chamberlain,43.798718,-99.329604,census
+SD,colman,Colman,43.983473,-96.814745,census
+SD,elkpoint,Elk Point,42.681224,-96.680480,census
+SD,fortpierre,Fort Pierre,44.366596,-100.382329,census
+SD,freeman,Freeman,43.347525,-97.430791,census
+SD,harrisburg,Harrisburg,43.434258,-96.712429,census
+SD,hartford,Hartford,43.621459,-96.934870,census
+SD,hermosa,Hermosa,43.840434,-103.189707,census
+SD,hotsprings,Hot Springs,43.419530,-103.465089,census
+SD,huron,Huron,44.362341,-98.209571,census
+SD,kadoka,Kadoka,43.828613,-101.501241,census
+SD,kimball,Kimball,43.746962,-98.956559,census
+SD,lennox,Lennox,43.349369,-96.894066,census
+SD,milbank,Milbank,45.219432,-96.633696,census
+SD,mitchell,Mitchell,43.727072,-98.042192,census
+SD,murdo,Murdo,43.889361,-100.714156,census
+SD,newunderwood,New Underwood,44.098584,-102.840319,census
+SD,northsiouxcity,North Sioux City,42.535885,-96.494717,census
+SD,piedmont,Piedmont,44.217739,-103.375634,census
+SD,pierre,Pierre,44.375163,-100.319996,census
+SD,plankinton,Plankinton,43.715421,-98.483616,census
+SD,rapidcity,Rapid City,44.071071,-103.217924,census
+SD,selby,Selby,45.505730,-100.032904,census
+SD,siouxfalls,Sioux Falls,43.540696,-96.731962,census
+SD,spencer,Spencer,43.727466,-97.591110,census
+SD,summit,Summit,45.305573,-97.039106,census
+SD,tea,Tea,43.455626,-96.823997,census
+SD,vivian,Vivian,43.927267,-100.301123,census
+SD,volga,Volga,44.321832,-96.922207,census
+SD,watertown,Watertown,44.909188,-97.155685,census
+SD,winfred,Winfred,43.998795,-97.361614,census
+SD,wolsey,Wolsey,44.410763,-98.473892,census
+SD,yankton,Yankton,42.889751,-97.392687,census
+TN,antioch,Antioch,36.060060,-86.672219,nominatim
+TN,ardmore,Ardmore,35.004441,-86.850713,census
+TN,athens,Athens,35.456809,-84.604522,census
+TN,baxter,Baxter,36.153678,-85.634922,census
+TN,bristol,Bristol,36.558549,-82.217001,census
+TN,bullsgap,Bulls Gap,36.261636,-83.078843,census
+TN,cedargrove,Cedar Grove,36.251720,-86.527772,nominatim
+TN,charleston,Charleston,35.285693,-84.760797,census
+TN,chattanooga,Chattanooga,35.065958,-85.248386,census
+TN,christiana,Christiana,35.719269,-86.412922,census
+TN,clarksville,Clarksville,36.566430,-87.345216,census
+TN,cleveland,Cleveland,35.180044,-84.871288,census
+TN,clinton,Clinton,36.097338,-84.128945,census
+TN,columbia,Columbia,35.625616,-87.044232,census
+TN,cookeville,Cookeville,36.146926,-85.512653,census
+TN,cornersville,Cornersville,35.363623,-86.857845,census
+TN,crossplains,Cross Plains,36.541247,-86.676636,census
+TN,crossville,Crossville,35.953422,-85.030249,census
+TN,crump,Crump,35.224859,-88.330789,census
+TN,cumberlandcity,Cumberland City,36.379739,-87.639869,census
+TN,dandridge,Dandridge,36.030124,-83.429831,census
+TN,dayton,Dayton,35.495406,-85.008652,census
+TN,denmark,Denmark,35.532855,-89.003952,nominatim
+TN,dickson,Dickson,36.063320,-87.368842,census
+TN,dyersburg,Dyersburg,36.046823,-89.377970,census
+TN,fairview,Fairview,35.982389,-87.127020,census
+TN,fayetteville,Fayetteville,35.150178,-86.562298,census
+TN,franklin,Franklin,35.914025,-86.852161,census
+TN,goodlettsville,Goodlettsville,36.333030,-86.704229,census
+TN,gordonsville,Gordonsville,36.186129,-85.931490,census
+TN,greeneville,Greeneville,36.168016,-82.819669,census
+TN,hartford,Hartford,35.816765,-83.143207,nominatim
+TN,heiskell,Heiskell,36.081816,-84.053982,nominatim
+TN,hillsboro,Hillsboro,35.404432,-85.954094,census
+TN,holladay,Holladay,35.871950,-88.144936,census
+TN,hurricanemills,Hurricane Mills,35.971174,-87.781969,nominatim
+TN,jackson,Jackson,35.654170,-88.835335,census
+TN,jasper,Jasper,35.068255,-85.621162,census
+TN,joelton,Joelton,36.313108,-86.865277,nominatim
+TN,kingsport,Kingsport,36.519370,-82.543393,census
+TN,kingston,Kingston,35.872669,-84.504486,census
+TN,kingstonsprings,Kingston Springs,36.081868,-87.108965,census
+TN,knoxville,Knoxville,35.970680,-83.949270,census
+TN,kodak,Kodak,35.974532,-83.626840,nominatim
+TN,lavergne,La Vergne,36.022237,-86.559384,census
+TN,lawrenceburg,Lawrenceburg,35.249713,-87.332502,census
+TN,lebanon,Lebanon,36.199381,-86.344634,census
+TN,lenoircity,Lenoir City,35.815836,-84.283015,census
+TN,loudon,Loudon,35.737244,-84.362102,census
+TN,manchester,Manchester,35.464125,-86.072895,census
+TN,maryville,Maryville,35.747810,-83.980234,census
+TN,mason,Mason,35.412826,-89.541212,census
+TN,mcdonald,Mc Donald,35.108782,-84.985289,census
+TN,memphis,Memphis,35.109164,-89.968511,census
+TN,monteagle,Monteagle,35.235845,-85.850242,census
+TN,morrison,Morrison,35.607118,-85.907448,census
+TN,morristown,Morristown,36.204351,-83.300032,census
+TN,mosheim,Mosheim,36.195903,-82.966679,census
+TN,mountjuliet,Mount Juliet,36.199200,-86.509489,census
+TN,murfreesboro,Murfreesboro,35.853915,-86.421224,census
+TN,nashville,Nashville,36.171800,-86.785002,census
+TN,newport,Newport,35.961624,-83.197624,census
+TN,niota,Niota,35.517166,-84.549854,census
+TN,paris,Paris,36.292739,-88.308057,census
+TN,pioneer,Pioneer,36.417580,-84.314099,nominatim
+TN,pleasantview,Pleasant View,36.389266,-87.045493,census
+TN,portland,Portland,36.597486,-86.526621,census
+TN,pulaski,Pulaski,35.193299,-87.033583,census
+TN,ramer,Ramer,35.071873,-88.614889,census
+TN,ripley,Ripley,35.746081,-89.534107,census
+TN,selmer,Selmer,35.170593,-88.595102,census
+TN,smyrna,Smyrna,35.969019,-86.528617,census
+TN,stanton,Stanton,35.461332,-89.401373,census
+TN,sweetwater,Sweetwater,35.602623,-84.473378,census
+TN,tazewell,Tazewell,36.462502,-83.567034,census
+TN,unicoi,Unicoi,36.221771,-82.329224,census
+TN,unioncity,Union City,36.427088,-89.047720,census
+TN,whitehouse,White House,36.464899,-86.668477,census
+TN,whitepine,White Pine,36.101255,-83.285661,census
+TN,wildersville,Wildersville,35.776654,-88.356143,census
+TX,abbott,Abbott,31.885139,-97.074106,census
+TX,abilene,Abilene,32.454514,-99.738147,census
+TX,aledo,Aledo,32.698254,-97.608384,census
+TX,alice,Alice,27.755616,-98.065812,census
+TX,alvarado,Alvarado,32.409379,-97.210786,census
+TX,alvord,Alvord,33.356968,-97.696026,census
+TX,amarillo,Amarillo,35.198064,-101.833107,census
+TX,anahuac,Anahuac,29.765163,-94.678502,census
+TX,andrews,Andrews,32.321336,-102.551846,census
+TX,anna,Anna,33.348167,-96.553452,census
+TX,anthony,Anthony,31.986731,-106.598634,census
+TX,asherton,Asherton,28.446118,-99.760322,census
+TX,aspermont,Aspermont,33.140921,-100.224867,census
+TX,aubrey,Aubrey,33.308550,-96.979088,census
+TX,austin,Austin,30.298622,-97.754134,census
+TX,azle,Azle,32.895547,-97.539230,census
+TX,baird,Baird,32.396067,-99.395993,census
+TX,ballinger,Ballinger,31.739146,-99.955413,census
+TX,bangs,Bangs,31.716130,-99.130320,census
+TX,bastrop,Bastrop,30.111100,-97.318152,census
+TX,beaumont,Beaumont,30.084912,-94.145330,census
+TX,beeville,Beeville,28.405244,-97.748931,census
+TX,belton,Belton,31.052345,-97.479542,census
+TX,benjamin,Benjamin,33.583606,-99.792932,census
+TX,biglake,Big Lake,31.194112,-101.453406,census
+TX,bigspring,Big Spring,32.238341,-101.485739,census
+TX,blanco,Blanco,30.098594,-98.417106,census
+TX,bogata,Bogata,33.469793,-95.213550,census
+TX,borger,Borger,35.659435,-101.402360,census
+TX,bowie,Bowie,33.556959,-97.846101,census
+TX,brady,Brady,31.115378,-99.345935,census
+TX,breckenridge,Breckenridge,32.756751,-98.912985,census
+TX,brenham,Brenham,30.158160,-96.395616,census
+TX,bridgeport,Bridgeport,33.210449,-97.772466,census
+TX,bronte,Bronte,31.886052,-100.295123,census
+TX,brownfield,Brownfield,33.175514,-102.273429,census
+TX,brownsville,Brownsville,25.995689,-97.450848,census
+TX,brownwood,Brownwood,31.712856,-98.977053,census
+TX,bryan,Bryan,30.666016,-96.381049,census
+TX,buda,Buda,30.080402,-97.855700,census
+TX,buffalo,Buffalo,31.458905,-96.066163,census
+TX,buna,Buna,30.442708,-93.960657,census
+TX,burnet,Burnet,30.750600,-98.238227,census
+TX,caddomills,Caddo Mills,33.074543,-96.226924,census
+TX,caldwell,Caldwell,30.529807,-96.699724,census
+TX,cameron,Cameron,30.860768,-96.976198,census
+TX,canadian,Canadian,35.909678,-100.383880,census
+TX,canton,Canton,32.554245,-95.863534,census
+TX,canutillo,Canutillo,31.918485,-106.601062,census
+TX,canyon,Canyon,34.990291,-101.918951,census
+TX,carrizosprings,Carrizo Springs,28.525843,-99.859255,census
+TX,carrollton,Carrollton,32.989386,-96.899940,census
+TX,carthage,Carthage,32.152046,-94.337111,census
+TX,castroville,Castroville,29.359864,-98.854749,census
+TX,catarina,Catarina,28.350178,-99.615258,census
+TX,cedarcreek,Cedar Creek,30.082341,-97.511120,census
+TX,centerville,Centerville,31.258315,-95.979399,census
+TX,chappellhill,Chappell Hill,30.141529,-96.256719,nominatim
+TX,childress,Childress,34.435452,-100.282382,census
+TX,chillicothe,Chillicothe,34.255741,-99.514142,census
+TX,cisco,Cisco,32.387425,-98.981920,census
+TX,clarendon,Clarendon,34.936913,-100.892111,census
+TX,claude,Claude,35.107367,-101.362882,census
+TX,clifton,Clifton,31.782037,-97.581879,census
+TX,clint,Clint,31.590195,-106.228679,census
+TX,clyde,Clyde,32.405586,-99.503918,census
+TX,coleman,Coleman,31.831378,-99.422201,census
+TX,coloradocity,Colorado City,32.399486,-100.858304,census
+TX,comanche,Comanche,31.900484,-98.604364,census
+TX,combes,Combes,26.246514,-97.726766,census
+TX,comfort,Comfort,29.972311,-98.904698,census
+TX,converse,Converse,29.512488,-98.304625,census
+TX,corpuschristi,Corpus Christi,27.754252,-97.173385,census
+TX,corrigan,Corrigan,30.998810,-94.827488,census
+TX,corsicana,Corsicana,32.082404,-96.466700,census
+TX,cotulla,Cotulla,28.436376,-99.236711,census
+TX,crane,Crane,31.391782,-102.350269,census
+TX,crossplains,Cross Plains,32.127068,-99.165775,census
+TX,crowell,Crowell,33.983561,-99.724374,census
+TX,cuero,Cuero,29.102727,-97.287092,census
+TX,daingerfield,Daingerfield,33.030488,-94.725880,census
+TX,dalhart,Dalhart,36.057423,-102.512212,census
+TX,dallas,Dallas,32.793333,-96.766513,census
+TX,deleon,De Leon,32.111350,-98.535156,census
+TX,decatur,Decatur,33.225922,-97.586986,census
+TX,delrio,Del Rio,29.373045,-100.881851,census
+TX,denison,Denison,33.766936,-96.580667,census
+TX,denton,Denton,33.217449,-97.141346,census
+TX,denvercity,Denver City,32.967871,-102.832225,census
+TX,devine,Devine,29.145834,-98.904985,census
+TX,diboll,Diboll,31.188315,-94.782885,census
+TX,dilley,Dilley,28.667517,-99.176465,census
+TX,donna,Donna,26.161050,-98.038929,census
+TX,drippingsprings,Dripping Springs,30.195936,-98.093701,census
+TX,dublin,Dublin,32.087765,-98.338865,census
+TX,dumas,Dumas,35.862020,-101.964972,census
+TX,eaglepass,Eagle Pass,28.712803,-100.484812,census
+TX,early,Early,31.742153,-98.936602,census
+TX,eastland,Eastland,32.402156,-98.817671,census
+TX,eden,Eden,31.216246,-99.843965,census
+TX,edinburg,Edinburg,26.318285,-98.153449,census
+TX,elpaso,El Paso,31.847780,-106.431106,census
+TX,electra,Electra,34.032294,-98.920245,census
+TX,elgin,Elgin,30.354376,-97.391397,census
+TX,elmendorf,Elmendorf,29.253331,-98.323027,census
+TX,encinal,Encinal,28.040475,-99.354489,census
+TX,ennis,Ennis,32.325067,-96.633799,census
+TX,fabens,Fabens,31.513974,-106.145258,census
+TX,fairfield,Fairfield,31.717440,-96.170483,census
+TX,falfurrias,Falfurrias,27.224410,-98.145191,census
+TX,flatonia,Flatonia,29.689710,-97.105205,census
+TX,floresville,Floresville,29.146743,-98.165173,census
+TX,fortstockton,Fort Stockton,30.892574,-102.884210,census
+TX,fortworth,Fort Worth,32.781954,-97.348573,census
+TX,franklin,Franklin,31.025014,-96.487494,census
+TX,freer,Freer,27.882178,-98.617385,census
+TX,friona,Friona,34.639434,-102.723118,census
+TX,fritch,Fritch,35.643066,-101.596432,census
+TX,gainesville,Gainesville,33.638647,-97.148413,census
+TX,garland,Garland,32.909826,-96.630334,census
+TX,gatesville,Gatesville,31.438667,-97.746027,census
+TX,georgewest,George West,28.330000,-98.118304,census
+TX,georgetown,Georgetown,30.668136,-97.698744,census
+TX,giddings,Giddings,30.183667,-96.928029,census
+TX,glenrose,Glen Rose,32.246824,-97.748052,census
+TX,godley,Godley,32.458882,-97.532908,census
+TX,goldthwaite,Goldthwaite,31.450806,-98.573520,census
+TX,gonzales,Gonzales,29.512549,-97.447205,census
+TX,gordon,Gordon,32.545546,-98.367183,census
+TX,granbury,Granbury,32.432805,-97.775149,census
+TX,grandprairie,Grand Prairie,32.686108,-97.020804,census
+TX,haltomcity,Haltom City,32.817698,-97.271152,census
+TX,hamilton,Hamilton,31.700387,-98.119669,census
+TX,hamshire,Hamshire,29.854808,-94.320712,census
+TX,hankamer,Hankamer,29.858276,-94.626862,nominatim
+TX,harlingen,Harlingen,26.191204,-97.697383,census
+TX,harrold,Harrold,34.067570,-99.033091,census
+TX,haskell,Haskell,33.159775,-99.732032,census
+TX,haslet,Haslet,32.966518,-97.337825,census
+TX,hawley,Hawley,32.606696,-99.810163,census
+TX,hearne,Hearne,30.877062,-96.595217,census
+TX,hebbronville,Hebbronville,27.324984,-98.685665,census
+TX,henrietta,Henrietta,33.814307,-98.192773,census
+TX,hereford,Hereford,34.822603,-102.400159,census
+TX,hermleigh,Hermleigh,32.640775,-100.750485,census
+TX,hewitt,Hewitt,31.451248,-97.193315,census
+TX,hidalgo,Hidalgo,26.108943,-98.246160,census
+TX,hillsboro,Hillsboro,32.007831,-97.115652,census
+TX,hondo,Hondo,29.354242,-99.161846,census
+TX,hooks,Hooks,33.470695,-94.286542,census
+TX,horseshoebay,Horseshoe Bay,30.540758,-98.380570,census
+TX,huntsville,Huntsville,30.700542,-95.554890,census
+TX,hutchins,Hutchins,32.643392,-96.709833,census
+TX,hutto,Hutto,30.541624,-97.544249,census
+TX,idalou,Idalou,33.662400,-101.683697,census
+TX,ingleside,Ingleside,27.870608,-97.207906,census
+TX,iowapark,Iowa Park,33.962773,-98.680872,census
+TX,irving,Irving,32.857748,-96.970022,census
+TX,italy,Italy,32.186464,-96.885789,census
+TX,jacksboro,Jacksboro,33.225763,-98.159169,census
+TX,jacksonville,Jacksonville,31.959514,-95.265705,census
+TX,jarrell,Jarrell,30.810264,-97.615122,census
+TX,jasper,Jasper,30.922681,-93.993251,census
+TX,jefferson,Jefferson,32.763494,-94.350835,census
+TX,joaquin,Joaquin,31.965579,-94.048368,census
+TX,jourdanton,Jourdanton,28.914045,-98.540806,census
+TX,junction,Junction,30.490759,-99.773222,census
+TX,karnescity,Karnes City,28.885410,-97.900505,census
+TX,kemp,Kemp,32.437379,-96.226017,census
+TX,kermit,Kermit,31.853923,-103.092395,census
+TX,killeen,Killeen,31.077669,-97.731952,census
+TX,kingsville,Kingsville,27.509201,-97.861028,census
+TX,kosse,Kosse,31.307383,-96.629361,census
+TX,kyle,Kyle,29.994118,-97.883322,census
+TX,laferia,La Feria,26.155307,-97.825027,census
+TX,lavernia,La Vernia,29.353106,-98.125777,census
+TX,lavilla,La Villa,26.296308,-97.926912,census
+TX,lamesa,Lamesa,32.733338,-101.953773,census
+TX,lampasas,Lampasas,31.064037,-98.182783,census
+TX,laredo,Laredo,27.560379,-99.489181,census
+TX,leakey,Leakey,29.725365,-99.763068,census
+TX,lenorah,Lenorah,32.304560,-101.876248,nominatim
+TX,liberty,Liberty,30.038834,-94.788803,census
+TX,libertyhill,Liberty Hill,30.663377,-97.905506,census
+TX,lindale,Lindale,32.494132,-95.407344,census
+TX,littlefield,Littlefield,33.919183,-102.334804,census
+TX,livingston,Livingston,30.710043,-94.937930,census
+TX,llano,Llano,30.751007,-98.676524,census
+TX,longview,Longview,32.520234,-94.761114,census
+TX,lorena,Lorena,31.383111,-97.210204,census
+TX,lott,Lott,31.206257,-97.033576,census
+TX,lubbock,Lubbock,33.561901,-101.888883,census
+TX,lufkin,Lufkin,31.322904,-94.729026,census
+TX,luling,Luling,29.681747,-97.646696,census
+TX,lumberton,Lumberton,30.254992,-94.207963,census
+TX,lytle,Lytle,29.234619,-98.793675,census
+TX,madisonville,Madisonville,30.954018,-95.909285,census
+TX,marblefalls,Marble Falls,30.560168,-98.277286,census
+TX,marion,Marion,29.572568,-98.142941,census
+TX,marlin,Marlin,31.308039,-96.893180,census
+TX,marshall,Marshall,32.539159,-94.353173,census
+TX,mason,Mason,30.747713,-99.228603,census
+TX,mathis,Mathis,28.090918,-97.817048,census
+TX,maxwell,Maxwell,29.881897,-97.795642,nominatim
+TX,mcallen,Mcallen,26.224966,-98.246083,census
+TX,memphis,Memphis,34.726734,-100.541655,census
+TX,mentone,Mentone,31.707438,-103.598875,census
+TX,mercedes,Mercedes,26.153818,-97.912907,census
+TX,meridian,Meridian,31.926600,-97.649091,census
+TX,merkel,Merkel,32.469731,-100.011096,census
+TX,mesquite,Mesquite,32.759550,-96.584164,census
+TX,mexia,Mexia,31.680693,-96.483203,census
+TX,midland,Midland,32.024642,-102.113467,census
+TX,midlothian,Midlothian,32.469436,-96.990670,census
+TX,milford,Milford,32.121506,-96.950010,census
+TX,millsap,Millsap,32.749910,-98.011469,census
+TX,mineralwells,Mineral Wells,32.823483,-98.078798,census
+TX,mission,Mission,26.204060,-98.325221,census
+TX,monahans,Monahans,31.655721,-103.083694,census
+TX,moore,Moore,29.057906,-99.005800,census
+TX,morton,Morton,33.724820,-102.759210,census
+TX,mountenterprise,Mount Enterprise,31.911639,-94.682767,census
+TX,mountpleasant,Mount Pleasant,33.158236,-94.974468,census
+TX,mountvernon,Mount Vernon,33.177431,-95.224447,census
+TX,muleshoe,Muleshoe,34.229179,-102.728380,census
+TX,nacogdoches,Nacogdoches,31.612364,-94.652046,census
+TX,natalia,Natalia,29.185467,-98.852054,census
+TX,navasota,Navasota,30.386399,-96.090734,census
+TX,nederland,Nederland,29.969288,-94.001714,census
+TX,newboston,New Boston,33.461110,-94.419096,census
+TX,newbraunfels,New Braunfels,29.699306,-98.115127,census
+TX,newdeal,New Deal,33.732334,-101.844475,census
+TX,nixon,Nixon,29.269670,-97.765876,census
+TX,odem,Odem,27.946241,-97.587518,census
+TX,odessa,Odessa,31.880461,-102.345314,census
+TX,odonnell,Odonnell,32.965202,-101.830842,census
+TX,olmito,Olmito,26.027593,-97.540059,census
+TX,orange,Orange,30.123528,-93.754548,census
+TX,orangegrove,Orange Grove,27.956203,-97.938553,census
+TX,orla,Orla,31.825015,-103.909010,nominatim
+TX,ozona,Ozona,30.707399,-101.206059,census
+TX,paige,Paige,30.212944,-97.125841,census
+TX,palmer,Palmer,32.425136,-96.667109,census
+TX,pampa,Pampa,35.547852,-100.965032,census
+TX,panhandle,Panhandle,35.346300,-101.380508,census
+TX,paris,Paris,33.668929,-95.546616,census
+TX,pearsall,Pearsall,28.892921,-99.097169,census
+TX,pecos,Pecos,31.425414,-103.495289,nominatim
+TX,perryton,Perryton,36.392868,-100.797656,census
+TX,pflugerville,Pflugerville,30.447765,-97.602116,census
+TX,pharr,Pharr,26.163436,-98.193890,census
+TX,plains,Plains,33.188330,-102.821478,census
+TX,plainview,Plainview,34.191119,-101.723501,census
+TX,pleasanton,Pleasanton,28.964207,-98.495690,census
+TX,post,Post,33.190910,-101.381519,census
+TX,prairiehill,Prairie Hill,30.248824,-96.377187,nominatim
+TX,premont,Premont,27.358516,-98.124430,census
+TX,pyote,Pyote,31.538066,-103.122483,census
+TX,quanah,Quanah,34.295366,-99.742889,census
+TX,queencity,Queen City,33.150196,-94.153230,census
+TX,ranger,Ranger,32.469491,-98.675740,census
+TX,rankin,Rankin,31.225360,-101.939438,census
+TX,redoak,Red Oak,32.509552,-96.783980,census
+TX,refugio,Refugio,28.307445,-97.274981,census
+TX,rhome,Rhome,33.078895,-97.493199,census
+TX,rice,Rice,32.239260,-96.497380,census
+TX,riograndecity,Rio Grande City,26.380999,-98.821478,census
+TX,riviera,Riviera,27.299534,-97.798090,census
+TX,roanoke,Roanoke,33.014743,-97.229034,census
+TX,roansprairie,Roans Prairie,30.583655,-95.943324,nominatim
+TX,robertlee,Robert Lee,31.895705,-100.485006,census
+TX,robstown,Robstown,27.793971,-97.669163,census
+TX,rockport,Rockport,28.047649,-97.049971,census
+TX,rockwall,Rockwall,32.918056,-96.438050,census
+TX,ropesville,Ropesville,33.413336,-102.155104,census
+TX,roscoe,Roscoe,32.441934,-100.532231,census
+TX,roundmountain,Round Mountain,30.394346,-98.361174,census
+TX,roysecity,Royse City,32.975927,-96.314662,census
+TX,salado,Salado,30.948383,-97.528337,census
+TX,sanangelo,San Angelo,31.441078,-100.450499,census
+TX,sanantonio,San Antonio,29.462809,-98.524635,census
+TX,sanaugustine,San Augustine,31.529899,-94.110894,census
+TX,sanmarcos,San Marcos,29.873610,-97.936725,census
+TX,sanger,Sanger,33.382098,-97.165412,census
+TX,santaanna,Santa Anna,31.736914,-99.325425,census
+TX,santo,Santo,32.605585,-98.213845,census
+TX,schertz,Schertz,29.563327,-98.250866,census
+TX,seagoville,Seagoville,32.653383,-96.545058,census
+TX,seguin,Seguin,29.590227,-97.968607,census
+TX,seminole,Seminole,32.722204,-102.649814,census
+TX,seymour,Seymour,33.595233,-99.258469,census
+TX,shamrock,Shamrock,35.215401,-100.246085,census
+TX,sierrablanca,Sierra Blanca,31.183426,-105.339540,census
+TX,silverton,Silverton,34.471372,-101.304049,census
+TX,sinton,Sinton,28.037188,-97.501457,census
+TX,slaton,Slaton,33.445473,-101.650918,census
+TX,smyer,Smyer,33.587382,-102.163501,census
+TX,snyder,Snyder,32.713561,-100.911902,census
+TX,sonora,Sonora,30.570654,-100.641768,census
+TX,sourlake,Sour Lake,30.137746,-94.404277,census
+TX,springtown,Springtown,32.969300,-97.680424,census
+TX,spur,Spur,33.476582,-100.850215,census
+TX,stamford,Stamford,33.046193,-99.597021,census
+TX,stanton,Stanton,32.131695,-101.792457,census
+TX,stephenville,Stephenville,32.214544,-98.219885,census
+TX,sterlingcity,Sterling City,31.839175,-100.985878,census
+TX,stockdale,Stockdale,29.235974,-97.963888,census
+TX,stratford,Stratford,36.337568,-102.076030,census
+TX,sudan,Sudan,34.066414,-102.524194,census
+TX,sulphursprings,Sulphur Springs,33.143108,-95.614702,census
+TX,sweetwater,Sweetwater,32.469389,-100.408651,census
+TX,teague,Teague,31.629487,-96.280818,census
+TX,temple,Temple,31.104936,-97.388512,census
+TX,tenaha,Tenaha,31.943709,-94.245706,census
+TX,terrell,Terrell,32.725827,-96.298003,census
+TX,texarkana,Texarkana,33.449204,-94.085008,census
+TX,texline,Texline,36.376494,-103.018876,census
+TX,threerivers,Three Rivers,28.466853,-98.177947,census
+TX,tilden,Tilden,28.459855,-98.548677,census
+TX,timpson,Timpson,31.906912,-94.397056,census
+TX,trenton,Trenton,33.426257,-96.344594,census
+TX,trinity,Trinity,30.944452,-95.373563,census
+TX,troy,Troy,31.193982,-97.300358,census
+TX,tulia,Tulia,34.537864,-101.774434,census
+TX,tuscola,Tuscola,32.211560,-99.798256,census
+TX,tye,Tye,32.452218,-99.866537,census
+TX,uvalde,Uvalde,29.215184,-99.777215,census
+TX,vanhorn,Van Horn,31.040672,-104.834154,census
+TX,vega,Vega,35.245302,-102.429247,census
+TX,vernon,Vernon,34.147664,-99.300427,census
+TX,vidor,Vidor,30.128139,-93.991733,census
+TX,vonormy,Von Ormy,29.277391,-98.657373,census
+TX,waco,Waco,31.557994,-97.189750,census
+TX,wall,Wall,31.374346,-100.303660,nominatim
+TX,waxahachie,Waxahachie,32.402480,-96.844493,census
+TX,weatherford,Weatherford,32.753190,-97.771944,census
+TX,weslaco,Weslaco,26.160549,-97.987654,census
+TX,whitedeer,White Deer,35.433397,-101.175846,census
+TX,whitesboro,Whitesboro,33.659580,-96.903694,census
+TX,whitney,Whitney,31.952447,-97.319770,census
+TX,wichitafalls,Wichita Falls,33.906654,-98.525848,census
+TX,wickett,Wickett,31.567325,-103.005948,census
+TX,wilmer,Wilmer,32.599015,-96.681585,census
+TX,winfield,Winfield,33.165434,-95.111225,census
+TX,wink,Wink,31.754497,-103.154117,census
+TX,winnie,Winnie,29.816716,-94.380673,census
+TX,winters,Winters,31.949127,-99.959308,census
+TX,wolfforth,Wolfforth,33.509016,-102.005082,census
+TX,woodville,Woodville,30.774433,-94.422454,census
+TX,woodway,Woodway,31.498334,-97.230789,census
+TX,wylie,Wylie,33.029144,-96.527041,census
+UT,americanfork,American Fork,40.377877,-111.795074,census
+UT,beaver,Beaver,38.275872,-112.638098,census
+UT,brighamcity,Brigham City,41.505904,-112.051418,census
+UT,castledale,Castle Dale,39.221661,-111.022676,census
+UT,cedarcity,Cedar City,37.683818,-113.095540,census
+UT,clearfield,Clearfield,41.097012,-112.017920,census
+UT,corinne,Corinne,41.551464,-112.125015,census
+UT,draper,Draper,40.497150,-111.864636,census
+UT,fillmore,Fillmore,38.964264,-112.338679,census
+UT,greenriver,Green River,38.993460,-110.173424,census
+UT,gunnison,Gunnison,39.156930,-111.813516,census
+UT,helper,Helper,39.689628,-110.859599,census
+UT,logan,Logan,41.740256,-111.841764,census
+UT,magna,Magna,40.703163,-112.081648,nominatim
+UT,moab,Moab,38.570085,-109.547813,census
+UT,mona,Mona,39.811804,-111.841529,census
+UT,monticello,Monticello,37.868534,-109.336200,census
+UT,myton,Myton,40.193265,-110.062512,census
+UT,nephi,Nephi,39.704697,-111.833350,census
+UT,northsaltlake,North Salt Lake,40.847116,-111.918780,census
+UT,ogden,Ogden,41.228391,-111.968147,census
+UT,orem,Orem,40.298065,-111.699445,census
+UT,parkcity,Park City,40.657328,-111.493756,census
+UT,parowan,Parowan,37.832579,-112.829623,census
+UT,plymouth,Plymouth,41.873587,-112.146778,census
+UT,richfield,Richfield,38.761311,-112.092861,census
+UT,riverton,Riverton,40.517634,-111.963515,census
+UT,roosevelt,Roosevelt,40.287727,-109.987983,census
+UT,salina,SALINA,38.938839,-111.865209,census
+UT,saintgeorge,Saint George,37.077006,-113.576534,census
+UT,salina,Salina,38.938839,-111.865209,census
+UT,saltlakecity,Salt Lake City,40.776928,-111.930991,census
+UT,santaquin,Santaquin,39.969893,-111.794431,census
+UT,scipio,Scipio,39.249080,-112.104411,census
+UT,snowville,Snowville,41.972822,-112.716407,census
+UT,springville,Springville,40.164273,-111.619525,census
+UT,tooele,Tooele,40.539396,-112.307843,census
+UT,tremonton,Tremonton,41.718352,-112.187837,census
+UT,vernal,Vernal,40.451701,-109.538007,census
+UT,washington,Washington,37.126676,-113.487759,census
+UT,wellington,Wellington,39.535860,-110.734374,census
+UT,wellsville,Wellsville,41.623416,-111.942094,census
+UT,wendover,Wendover,40.724025,-114.025097,census
+UT,westjordan,West Jordan,40.602666,-112.001255,census
+UT,willard,Willard,41.403172,-112.042539,census
+UT,woodscross,Woods Cross,40.873190,-111.917773,census
+VA,ameliacourthouse,Amelia Court House,37.335858,-77.986639,census
+VA,ashland,Ashland,37.760417,-77.472414,census
+VA,atkins,Atkins,36.866981,-81.398577,census
+VA,austinville,Austinville,36.851018,-80.914507,census
+VA,bassett,Bassett,36.761517,-79.986551,census
+VA,bastian,Bastian,37.153528,-81.152495,census
+VA,bealeton,Bealeton,38.583015,-77.778763,census
+VA,blairs,Blairs,36.699268,-79.378910,census
+VA,bland,Bland,37.099492,-81.115765,census
+VA,bracey,Bracey,36.581233,-78.113798,census
+VA,bristol,Bristol,36.616954,-82.157564,census
+VA,broadway,Broadway,38.608485,-78.801366,census
+VA,capecharles,Cape Charles,37.249726,-76.014156,census
+VA,chantilly,Chantilly,38.889180,-77.442088,census
+VA,charlottesville,Charlottesville,38.037658,-78.485381,census
+VA,chesapeake,Chesapeake,36.679376,-76.301788,census
+VA,chester,Chester,37.352045,-77.433695,census
+VA,chesterfield,Chesterfield,37.377793,-77.504670,nominatim
+VA,christiansburg,Christiansburg,37.140663,-80.404512,census
+VA,clearbrook,Clear Brook,39.256491,-78.096111,nominatim
+VA,colonialheights,Colonial Heights,37.261685,-77.396804,census
+VA,covington,Covington,37.781060,-79.985434,census
+VA,crossjunction,Cross Junction,39.320378,-78.293338,nominatim
+VA,culpeper,Culpeper,38.470292,-77.999764,census
+VA,danville,Danville,36.583334,-79.408071,census
+VA,disputanta,Disputanta,37.123551,-77.224856,census
+VA,doswell,Doswell,37.860140,-77.464149,nominatim
+VA,drewryville,Drewryville,36.735948,-77.311206,census
+VA,dublin,Dublin,37.105503,-80.689700,census
+VA,duffield,Duffield,36.719629,-82.795967,census
+VA,elliston,Elliston,37.223009,-80.215723,census
+VA,emporia,Emporia,36.696182,-77.535975,census
+VA,fairfax,Fairfax,38.853183,-77.299025,census
+VA,fancygap,Fancy Gap,36.671304,-80.701083,census
+VA,franklin,Franklin,36.684014,-76.941396,census
+VA,fredericksburg,Fredericksburg,38.299272,-77.486658,census
+VA,frontroyal,Front Royal,38.924952,-78.183426,census
+VA,gladespring,Glade Spring,36.789944,-81.772253,census
+VA,gladstone,Gladstone,37.546809,-78.849462,nominatim
+VA,gordonsville,Gordonsville,38.135552,-78.187406,census
+VA,gumspring,Gum Spring,37.775526,-77.896811,nominatim
+VA,hampton,Hampton,37.047961,-76.297293,census
+VA,harrisonburg,Harrisonburg,38.436255,-78.873303,census
+VA,henrico,Henrico,37.629476,-77.518903,nominatim
+VA,hillsville,Hillsville,36.761614,-80.736704,census
+VA,hopewell,Hopewell,37.291010,-77.298944,census
+VA,keysville,Keysville,37.038989,-78.480437,census
+VA,kinggeorge,King George,38.279436,-77.184308,census
+VA,lambsburg,Lambsburg,36.585408,-80.761182,nominatim
+VA,lanexa,Lanexa,37.423757,-76.901075,nominatim
+VA,leesburg,Leesburg,39.106396,-77.559195,census
+VA,lexington,Lexington,37.782332,-79.444320,census
+VA,lorton,Lorton,38.698722,-77.216649,census
+VA,lynchburg,Lynchburg,37.399016,-79.195458,census
+VA,madisonheights,Madison Heights,37.450301,-79.108210,census
+VA,manassas,Manassas,38.746808,-77.482633,census
+VA,martinsville,Martinsville,36.683527,-79.863647,census
+VA,maxmeadows,Max Meadows,36.978941,-80.961796,census
+VA,meadowview,Meadowview,36.763746,-81.883540,census
+VA,midlothian,Midlothian,37.484382,-77.649577,census
+VA,montvale,Montvale,37.385171,-79.725502,census
+VA,mountcrawford,Mount Crawford,38.360875,-78.941035,census
+VA,mountjackson,Mount Jackson,38.738878,-78.650918,census
+VA,newchurch,New Church,37.983247,-75.529065,census
+VA,newportnews,Newport News,37.076136,-76.521980,census
+VA,norfolk,Norfolk,36.923015,-76.244641,census
+VA,orange,Orange,38.247845,-78.113187,census
+VA,petersburg,Petersburg,37.204730,-77.392368,census
+VA,portsmouth,Portsmouth,36.859339,-76.356973,census
+VA,pound,Pound,37.126086,-82.607340,census
+VA,powhatan,Powhatan,37.542121,-77.927083,census
+VA,providenceforge,Providence Forge,37.442426,-77.043958,nominatim
+VA,quinton,Quinton,37.532789,-77.115445,nominatim
+VA,raphine,Raphine,37.937355,-79.232810,nominatim
+VA,richmond,Richmond,37.531399,-77.476009,census
+VA,ridgeway,Ridgeway,36.578174,-79.858290,census
+VA,roanoke,Roanoke,37.278458,-79.958174,census
+VA,rockville,Rockville,37.725978,-77.678324,nominatim
+VA,rockymount,Rocky Mount,37.004398,-79.884762,census
+VA,rosedale,Rosedale,36.959278,-81.931235,nominatim
+VA,ruckersville,Ruckersville,38.228054,-78.377478,census
+VA,ruralretreat,Rural Retreat,36.905132,-81.277250,census
+VA,rustburg,Rustburg,37.272189,-79.100105,census
+VA,rutherglen,Ruther Glen,37.940875,-77.461865,nominatim
+VA,salem,Salem,37.285333,-80.055241,census
+VA,sandston,Sandston,37.513062,-77.313008,census
+VA,skippers,Skippers,36.611817,-77.546646,nominatim
+VA,southboston,South Boston,36.711825,-78.913354,census
+VA,southhill,South Hill,36.725662,-78.128886,census
+VA,springfield,Springfield,38.781571,-77.183921,census
+VA,staunton,Staunton,38.157978,-79.061876,census
+VA,sterling,Sterling,39.004733,-77.405368,census
+VA,stonycreek,Stony Creek,36.948010,-77.400067,census
+VA,suffolk,Suffolk,36.697157,-76.634781,census
+VA,tomsbrook,Toms Brook,38.946542,-78.440046,census
+VA,townsend,Townsend,37.184981,-75.958473,nominatim
+VA,troutville,Troutville,37.416654,-79.878096,census
+VA,troy,Troy,37.950974,-78.246393,nominatim
+VA,virginiabeach,Virginia Beach,36.779525,-76.029142,census
+VA,warfield,Warfield,36.895984,-77.818997,census
+VA,warrenton,Warrenton,38.717817,-77.797316,census
+VA,warsaw,Warsaw,37.960351,-76.760950,census
+VA,waynesboro,Waynesboro,38.067157,-78.901420,census
+VA,winchester,Winchester,39.173869,-78.176356,census
+VA,woodford,Woodford,38.113189,-77.408871,nominatim
+VA,wytheville,Wytheville,36.953385,-81.088438,census
+VT,alburgh,Alburgh,44.976728,-73.302570,census
+VT,bellowsfalls,Bellows Falls,43.134554,-72.459088,census
+VT,brattleboro,Brattleboro,42.861623,-72.559216,census
+VT,derby,Derby,44.951696,-72.136303,census
+VT,fairhaven,Fair Haven,43.592783,-73.268898,census
+VT,ferrisburgh,Ferrisburgh,44.203133,-73.279196,census
+VT,montpelier,Montpelier,44.266448,-72.571524,census
+VT,rutland,Rutland,43.609670,-72.977788,census
+VT,saintalbans,Saint Albans,44.811538,-73.084462,census
+VT,saintjohnsbury,Saint Johnsbury,44.430445,-72.008582,census
+VT,springfield,Springfield,43.296641,-72.481870,census
+VT,swanton,Swanton,44.924538,-73.119353,census
+VT,wellsriver,Wells River,44.156476,-72.067979,census
+WA,arlington,Arlington,48.170372,-122.144553,census
+WA,bellingham,Bellingham,48.753442,-122.470179,census
+WA,blaine,Blaine,48.987190,-122.748770,census
+WA,castlerock,Castle Rock,46.271858,-122.903925,census
+WA,chehalis,Chehalis,46.664176,-122.965425,census
+WA,ellensburg,Ellensburg,47.000124,-120.549540,census
+WA,federalway,Federal Way,47.311596,-122.337757,census
+WA,ferndale,Ferndale,48.853366,-122.590232,census
+WA,george,George,47.083149,-119.861683,census
+WA,granger,Granger,46.345295,-120.192673,census
+WA,kalama,Kalama,46.017142,-122.841937,census
+WA,kent,Kent,47.387970,-122.212727,census
+WA,longview,Longview,46.145707,-122.964299,census
+WA,marysville,Marysville,48.080214,-122.154312,census
+WA,moseslake,Moses Lake,47.127850,-119.276384,census
+WA,northbend,North Bend,47.487967,-121.768786,census
+WA,olympia,Olympia,47.040604,-122.895000,census
+WA,omak,Omak,48.422338,-119.530623,census
+WA,pasco,Pasco,46.266113,-119.121426,census
+WA,prosser,Prosser,46.209022,-119.767753,census
+WA,ritzville,Ritzville,47.123041,-118.375332,census
+WA,rockisland,Rock Island,47.373167,-120.142076,census
+WA,seattle,Seattle,47.619335,-122.351538,census
+WA,spokane,Spokane,47.666935,-117.433322,census
+WA,sprague,Sprague,47.304889,-117.971290,census
+WA,sumner,Sumner,47.227215,-122.236264,census
+WA,sunnyside,Sunnyside,46.315712,-120.005762,census
+WA,tacoma,Tacoma,47.252199,-122.459832,census
+WA,thorp,Thorp,47.065483,-120.670837,census
+WA,toledo,Toledo,46.444721,-122.852230,census
+WA,toppenish,Toppenish,46.380242,-120.312583,census
+WA,tumwater,Tumwater,46.989463,-122.917277,census
+WA,wapato,Wapato,46.443632,-120.421507,census
+WA,wenatchee,Wenatchee,47.435985,-120.329266,census
+WA,yakima,Yakima,46.590938,-120.549400,census
+WI,abbotsford,Abbotsford,44.943486,-90.317339,census
+WI,adams,Adams,43.955240,-89.816548,census
+WI,altoona,Altoona,44.799963,-91.439585,census
+WI,amery,Amery,45.304590,-92.363356,census
+WI,antigo,Antigo,45.141269,-89.155225,census
+WI,appleton,Appleton,44.278873,-88.388284,census
+WI,arcadia,Arcadia,44.248575,-91.491545,census
+WI,ashland,Ashland,46.581760,-90.871898,census
+WI,baldwin,Baldwin,44.954482,-92.371588,census
+WI,baraboo,Baraboo,43.468072,-89.738387,census
+WI,barneveld,Barneveld,43.012213,-89.898168,census
+WI,barron,Barron,45.402192,-91.844350,census
+WI,bearcreek,Bear Creek,44.531318,-88.727536,census
+WI,beaverdam,Beaver Dam,43.468105,-88.830900,census
+WI,belgium,Belgium,43.501807,-87.847551,census
+WI,belleville,Belleville,42.864018,-89.539616,census
+WI,belmont,Belmont,42.737670,-90.334326,census
+WI,beloit,Beloit,42.523506,-89.017660,census
+WI,berlin,Berlin,43.969729,-88.950033,census
+WI,bigbend,Big Bend,42.883895,-88.203596,census
+WI,blackearth,Black Earth,43.134619,-89.747354,census
+WI,blackriverfalls,Black River Falls,44.298452,-90.842787,census
+WI,blair,Blair,44.327131,-91.299402,census
+WI,bloomer,Bloomer,45.102828,-91.491540,census
+WI,bonduel,Bonduel,44.737994,-88.451350,census
+WI,boscobel,Boscobel,43.147132,-90.705141,census
+WI,brillion,Brillion,44.173510,-88.067823,census
+WI,bristol,Bristol,42.532323,-88.009098,census
+WI,brodhead,Brodhead,42.616836,-89.375604,census
+WI,brownsville,Brownsville,43.614608,-88.495215,census
+WI,burlington,Burlington,42.675249,-88.271871,census
+WI,butler,Butler,43.108448,-88.072232,census
+WI,cadott,Cadott,44.949802,-91.153760,census
+WI,cameron,Cameron,45.403592,-91.739750,census
+WI,campdouglas,Camp Douglas,43.919721,-90.269703,census
+WI,cedargrove,Cedar Grove,43.568247,-87.822969,census
+WI,chilton,Chilton,44.030188,-88.161667,census
+WI,chippewafalls,Chippewa Falls,44.934653,-91.389165,census
+WI,clintonville,Clintonville,44.622120,-88.751714,census
+WI,colgate,Colgate,43.192830,-88.206774,nominatim
+WI,coloma,Coloma,44.038651,-89.531148,census
+WI,columbus,Columbus,43.336805,-89.029988,census
+WI,combinedlocks,Combined Locks,44.261995,-88.309534,census
+WI,cottagegrove,Cottage Grove,43.092222,-89.205337,census
+WI,crivitz,Crivitz,45.233350,-88.006947,census
+WI,cumberland,Cumberland,45.536073,-92.024753,census
+WI,curtiss,Curtiss,44.952767,-90.439585,census
+WI,darien,Darien,42.599001,-88.714273,census
+WI,darlington,Darlington,42.676355,-90.120520,census
+WI,deforest,De Forest,43.227335,-89.345702,census
+WI,depere,De Pere,44.430990,-88.079936,census
+WI,denmark,Denmark,44.349336,-87.831198,census
+WI,dodgeville,Dodgeville,42.966011,-90.129717,census
+WI,durand,Durand,44.622405,-91.960308,census
+WI,easttroy,East Troy,42.785184,-88.395573,census
+WI,eauclaire,Eau Claire,44.818343,-91.494769,census
+WI,edgar,Edgar,44.922851,-89.962611,census
+WI,edgerton,Edgerton,42.838947,-89.069571,census
+WI,elkhorn,Elkhorn,42.671601,-88.536256,census
+WI,endeavor,Endeavor,43.714386,-89.469166,census
+WI,fennimore,Fennimore,42.979388,-90.649170,census
+WI,fonddulac,Fond Du Lac,43.772182,-88.440264,census
+WI,fortatkinson,Fort Atkinson,42.923982,-88.845488,census
+WI,foxlake,Fox Lake,43.561568,-88.914752,census
+WI,franciscreek,Francis Creek,44.200532,-87.720911,census
+WI,franksville,Franksville,42.760019,-87.913413,nominatim
+WI,fremont,Fremont,44.259933,-88.870137,census
+WI,friendship,Friendship,43.971746,-89.820016,census
+WI,greenbay,Green Bay,44.521542,-87.986568,census
+WI,hartford,Hartford,43.322467,-88.377737,census
+WI,hartland,Hartland,43.102352,-88.335595,census
+WI,hayward,Hayward,46.006588,-91.489684,census
+WI,hixton,Hixton,44.383081,-91.014800,census
+WI,holmen,Holmen,43.970767,-91.265783,census
+WI,horicon,Horicon,43.445001,-88.640328,census
+WI,hortonville,Hortonville,44.335766,-88.636599,census
+WI,hudson,Hudson,44.963882,-92.730253,census
+WI,janesville,Janesville,42.684698,-89.013170,census
+WI,jefferson,Jefferson,43.003955,-88.808473,census
+WI,johnsoncreek,Johnson Creek,43.079053,-88.771069,census
+WI,kaukauna,Kaukauna,44.277748,-88.265130,census
+WI,kenosha,Kenosha,42.587526,-87.879996,census
+WI,kewaskum,Kewaskum,43.518028,-88.231528,census
+WI,kieler,Kieler,42.582306,-90.605183,census
+WI,lacrosse,La Crosse,43.824685,-91.224616,census
+WI,ladysmith,Ladysmith,45.460974,-91.097573,census
+WI,lakemills,Lake Mills,43.077639,-88.906411,census
+WI,larsen,Larsen,44.191650,-88.623999,nominatim
+WI,lena,Lena,44.953037,-88.047325,census
+WI,littlechute,Little Chute,44.291128,-88.320399,census
+WI,lomira,Lomira,43.594248,-88.443216,census
+WI,luxemburg,Luxemburg,44.544662,-87.706567,census
+WI,lyndonstation,Lyndon Station,43.708788,-89.893654,census
+WI,madison,Madison,43.087815,-89.429856,census
+WI,manitowoc,Manitowoc,44.097981,-87.678945,census
+WI,maribel,Maribel,44.278597,-87.802126,census
+WI,marinette,Marinette,45.086794,-87.632443,census
+WI,marshall,Marshall,43.170486,-89.062647,census
+WI,marshfield,Marshfield,44.663291,-90.171736,census
+WI,mauston,Mauston,43.799976,-90.079554,census
+WI,medford,Medford,45.135433,-90.343502,census
+WI,menasha,Menasha,44.212338,-88.427357,census
+WI,menomonie,Menomonie,44.889200,-91.909570,census
+WI,merrill,Merrill,45.180635,-89.700339,census
+WI,middleton,Middleton,43.106959,-89.506340,census
+WI,milton,Milton,42.774675,-88.939991,census
+WI,milwaukee,Milwaukee,43.063348,-87.966695,census
+WI,mondovi,Mondovi,44.570255,-91.666851,census
+WI,monroe,Monroe,42.603019,-89.637626,census
+WI,mounthoreb,Mount Horeb,43.005999,-89.731575,census
+WI,mukwonago,Mukwonago,42.852988,-88.320626,census
+WI,necedah,Necedah,44.022091,-90.075051,census
+WI,neenah,Neenah,44.164925,-88.479628,census
+WI,neillsville,Neillsville,44.560316,-90.590781,census
+WI,newberlin,New Berlin,42.972000,-88.129168,census
+WI,newholstein,New Holstein,43.949222,-88.094881,census
+WI,newlisbon,New Lisbon,43.875292,-90.162379,census
+WI,newlondon,New London,44.395910,-88.738610,census
+WI,newrichmond,New Richmond,45.124977,-92.547938,census
+WI,oakcreek,Oak Creek,42.878693,-87.898676,census
+WI,oakdale,Oakdale,43.962167,-90.379118,census
+WI,omro,Omro,44.038973,-88.736994,census
+WI,onalaska,Onalaska,43.889658,-91.204356,census
+WI,oostburg,Oostburg,43.624134,-87.788108,census
+WI,osceola,Osceola,45.319253,-92.695792,census
+WI,oshkosh,Oshkosh,44.023168,-88.562260,census
+WI,osseo,Osseo,44.579831,-91.213829,census
+WI,parkfalls,Park Falls,45.936339,-90.444272,census
+WI,peshtigo,Peshtigo,45.056922,-87.744077,census
+WI,pewaukee,Pewaukee,43.066141,-88.244465,census
+WI,phillips,Phillips,45.694035,-90.401420,census
+WI,plainfield,Plainfield,44.217499,-89.496926,census
+WI,platteville,Platteville,42.727923,-90.468103,census
+WI,plover,Plover,44.462020,-89.537971,census
+WI,plymouth,Plymouth,43.745274,-87.965322,census
+WI,portage,Portage,43.548951,-89.465866,census
+WI,poynette,Poynette,43.392165,-89.404787,census
+WI,prairieduchien,Prairie Du Chien,43.041618,-91.135408,census
+WI,prairiedusac,Prairie Du Sac,43.293928,-89.735231,census
+WI,prentice,Prentice,45.541224,-90.292805,census
+WI,pulaski,Pulaski,44.668206,-88.234279,census
+WI,redgranite,Redgranite,44.053283,-89.115869,census
+WI,reedsburg,Reedsburg,43.535051,-89.995509,census
+WI,rhinelander,Rhinelander,45.634283,-89.429947,census
+WI,ricelake,Rice Lake,45.481992,-91.745762,census
+WI,richfield,Richfield,43.239390,-88.234017,census
+WI,richlandcenter,Richland Center,43.340476,-90.383420,census
+WI,ripon,Ripon,43.843560,-88.837936,census
+WI,riverfalls,River Falls,44.860850,-92.625708,census
+WI,roberts,Roberts,44.973298,-92.550082,census
+WI,saintcroixfalls,Saint Croix Falls,45.411370,-92.624694,census
+WI,saukville,Saukville,43.388946,-87.943896,census
+WI,schofield,Schofield,44.913348,-89.621478,census
+WI,seymour,Seymour,44.514416,-88.327340,census
+WI,sheboygan,Sheboygan,43.738713,-87.731531,census
+WI,sheboyganfalls,Sheboygan Falls,43.729279,-87.826235,census
+WI,shullsburg,Shullsburg,42.573323,-90.234765,census
+WI,somerset,Somerset,45.125706,-92.672961,census
+WI,sparta,Sparta,43.938249,-90.812705,census
+WI,spencer,Spencer,44.753615,-90.298465,census
+WI,spooner,Spooner,45.825917,-91.886125,census
+WI,stanley,Stanley,44.959383,-90.943719,census
+WI,stevenspoint,Stevens Point,44.525300,-89.550377,census
+WI,sturgeonbay,Sturgeon Bay,44.822676,-87.369806,census
+WI,sturtevant,Sturtevant,42.698900,-87.901553,census
+WI,suamico,Suamico,44.626729,-88.033045,census
+WI,superior,Superior,46.692119,-92.080356,census
+WI,sussex,Sussex,43.134854,-88.226041,census
+WI,thorp,Thorp,44.957957,-90.802185,census
+WI,tomah,Tomah,43.988010,-90.501380,census
+WI,trego,Trego,45.905802,-91.831060,census
+WI,turtlelake,Turtle Lake,45.390622,-92.149832,census
+WI,tworivers,Two Rivers,44.156137,-87.577352,census
+WI,verona,Verona,42.991265,-89.539247,census
+WI,viroqua,Viroqua,43.560622,-90.886155,census
+WI,watertown,Watertown,43.189405,-88.728910,census
+WI,waukesha,Waukesha,43.009084,-88.245062,census
+WI,waupaca,Waupaca,44.350048,-89.070003,census
+WI,waupun,Waupun,43.631547,-88.737534,census
+WI,wausau,Wausau,44.961766,-89.646538,census
+WI,westbend,West Bend,43.417492,-88.181685,census
+WI,westsalem,West Salem,43.898534,-91.087453,census
+WI,whitewater,Whitewater,42.837439,-88.734282,census
+WI,wilson,Wilson,44.958611,-92.170494,census
+WI,windsor,Windsor,43.245704,-89.281518,census
+WI,winneconne,Winneconne,44.111314,-88.711977,census
+WI,wisconsindells,Wisconsin Dells,43.638365,-89.775760,census
+WI,wisconsinrapids,Wisconsin Rapids,44.392923,-89.826749,census
+WI,wittenberg,Wittenberg,44.826881,-89.166583,census
+WI,wonewoc,Wonewoc,43.653477,-90.224242,census
+WI,woodruff,Woodruff,45.894436,-89.691154,census
+WV,beckley,Beckley,37.773148,-81.161550,census
+WV,brucetonmills,Bruceton Mills,39.659396,-79.640606,census
+WV,buckhannon,Buckhannon,38.992734,-80.228243,census
+WV,charleston,Charleston,38.348692,-81.632324,census
+WV,chester,Chester,40.612924,-80.562730,census
+WV,elkins,Elkins,38.923719,-79.854260,census
+WV,ellenboro,Ellenboro,39.270009,-81.055655,census
+WV,fairmont,Fairmont,39.476877,-80.149089,census
+WV,fallingwaters,Falling Waters,39.563771,-77.887544,census
+WV,gassaway,Gassaway,38.666723,-80.770361,census
+WV,huntington,Huntington,38.410651,-82.434689,census
+WV,hurricane,Hurricane,38.427474,-82.018082,census
+WV,inwood,Inwood,39.353822,-78.055191,census
+WV,ivydale,Ivydale,38.310097,-81.704569,nominatim
+WV,janelew,Jane Lew,39.110783,-80.408009,census
+WV,kearneysville,Kearneysville,39.388156,-77.885552,nominatim
+WV,martinsburg,Martinsburg,39.457769,-77.978212,census
+WV,mineralwells,Mineral Wells,39.181198,-81.513616,census
+WV,moorefield,Moorefield,39.067419,-78.962411,census
+WV,morgantown,Morgantown,39.637487,-79.946856,census
+WV,mountnebo,Mount Nebo,39.602305,-79.707830,nominatim
+WV,newmartinsville,New Martinsville,39.645553,-80.862670,census
+WV,nitro,Nitro,38.411614,-81.807811,census
+WV,parkersburg,Parkersburg,39.261278,-81.543350,census
+WV,richwood,Richwood,38.222444,-80.537959,census
+WV,ripley,Ripley,38.821616,-81.709312,census
+WV,sutton,Sutton,38.667772,-80.713461,census
+WV,teays,Teays,38.441757,-81.952912,nominatim
+WV,valleygrove,Valley Grove,40.086261,-80.577049,census
+WV,westunion,West Union,39.296785,-80.776020,census
+WY,alpine,Alpine,43.160393,-111.014752,census
+WY,buffalo,Buffalo,44.338545,-106.715344,census
+WY,burns,Burns,41.190871,-104.359035,census
+WY,casper,Casper,42.842120,-106.321282,census
+WY,cheyenne,Cheyenne,41.128702,-104.790778,census
+WY,cokeville,Cokeville,42.079237,-110.951898,census
+WY,douglas,Douglas,42.754773,-105.397802,census
+WY,evanston,Evanston,41.260088,-110.963739,census
+WY,evansville,Evansville,42.875985,-106.267750,census
+WY,fortbridger,Fort Bridger,41.318335,-110.389387,census
+WY,gillette,Gillette,44.272580,-105.498936,census
+WY,greenriver,Green River,41.512922,-109.470796,census
+WY,laramie,Laramie,41.305955,-105.608637,census
+WY,littleamerica,Little America,41.549363,-109.884876,census
+WY,lovell,Lovell,44.835801,-108.391889,census
+WY,lusk,Lusk,42.761259,-104.458403,census
+WY,lyman,Lyman,41.327540,-110.297449,census
+WY,midwest,Midwest,43.410768,-106.277289,census
+WY,mills,Mills,42.849882,-106.390830,census
+WY,moorcroft,Moorcroft,44.264483,-104.947564,census
+WY,newcastle,Newcastle,43.850271,-104.196487,census
+WY,pinebluffs,Pine Bluffs,41.180212,-104.074782,census
+WY,rawlins,Rawlins,41.785130,-107.224653,census
+WY,riverton,Riverton,43.026256,-108.381303,census
+WY,rocksprings,Rock Springs,41.594705,-109.220921,census
+WY,sheridan,Sheridan,44.796219,-106.964166,census
+WY,sinclair,Sinclair,41.776084,-107.119940,census
+WY,thayne,Thayne,42.919886,-110.995255,census
+WY,thermopolis,Thermopolis,43.647615,-108.214538,census
+WY,torrington,Torrington,42.065050,-104.173528,census
+WY,wamsutter,Wamsutter,41.667977,-107.979142,census
+WY,wheatland,Wheatland,42.051706,-104.959472,census
+WY,worland,Worland,44.020402,-107.961653,census
+WY,wright,Wright,43.749153,-105.494834,census
