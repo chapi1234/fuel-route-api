@@ -109,3 +109,11 @@ LOGGING = {
     "handlers": {"console": {"class": "logging.StreamHandler"}},
     "root": {"handlers": ["console"], "level": os.environ.get("LOG_LEVEL", "INFO")},
 }
+
+# External services. Routing makes one call per request; see routing/providers.py.
+ORS_API_KEY = os.environ.get("ORS_API_KEY", "")
+ORS_BASE_URL = os.environ.get("ORS_BASE_URL", "https://api.openrouteservice.org")
+OSRM_BASE_URL = os.environ.get("OSRM_BASE_URL", "https://router.project-osrm.org")
+GEOCODER_URL = os.environ.get("GEOCODER_URL", "https://nominatim.openstreetmap.org/search")
+HTTP_TIMEOUT_SECONDS = float(os.environ.get("HTTP_TIMEOUT_SECONDS", "20"))
+HTTP_USER_AGENT = "fuel-route-api/1.0 (+https://github.com/chapi1234/fuel-route-api)"
