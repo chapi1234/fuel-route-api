@@ -1,0 +1,570 @@
+{
+  "info": {
+    "_postman_id": "6b1f3f8e-6a2d-4a8e-9a8f-2f6a1c5d7e01",
+    "name": "Fuel Route API",
+    "description": "Plan a US trip and the cheapest fuel stops along it. Start the server with `uv run python manage.py runserver`, then send the requests in order.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/health",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "health"
+          ]
+        },
+        "description": ""
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"200 OK\", () => pm.response.to.have.status(200));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plan a trip",
+      "item": [
+        {
+          "name": "Denver, CO → Chicago, IL",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "About 1,000 miles: the full starting tank covers the first 500.",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"Denver, CO\",\n  \"finish\": \"Chicago, IL\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"201 Created\", () => pm.response.to.have.status(201));",
+                  "const body = pm.response.json();",
+                  "pm.collectionVariables.set(\"planId\", body.id);",
+                  "pm.collectionVariables.set(\"mapUrl\", body.map_url);",
+                  "pm.test(\"At most one routing call\", () => pm.expect(body.meta.external_api_calls.routing).to.be.at.most(1));",
+                  "pm.test(\"Gallons bought + starting tank = trip gallons\", () => {",
+                  "  const s = body.summary;",
+                  "  pm.expect(s.gallons_purchased + s.starting_tank_gallons_used).to.be.closeTo(s.trip_gallons, 0.05);",
+                  "});",
+                  "console.log(`Fuel: $${body.summary.total_fuel_cost} over ${body.summary.number_of_stops} stops. Map: ${body.map_url}`);"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Los Angeles, CA → New York, NY",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "Cross-country: several fuel stops.",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"Los Angeles, CA\",\n  \"finish\": \"New York, NY\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"201 Created\", () => pm.response.to.have.status(201));",
+                  "const body = pm.response.json();",
+                  "pm.collectionVariables.set(\"planId\", body.id);",
+                  "pm.collectionVariables.set(\"mapUrl\", body.map_url);",
+                  "pm.test(\"At most one routing call\", () => pm.expect(body.meta.external_api_calls.routing).to.be.at.most(1));",
+                  "pm.test(\"Gallons bought + starting tank = trip gallons\", () => {",
+                  "  const s = body.summary;",
+                  "  pm.expect(s.gallons_purchased + s.starting_tank_gallons_used).to.be.closeTo(s.trip_gallons, 0.05);",
+                  "});",
+                  "console.log(`Fuel: $${body.summary.total_fuel_cost} over ${body.summary.number_of_stops} stops. Map: ${body.map_url}`);"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dallas, TX → Houston, TX (no stop needed)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "Shorter than one tank: no fuel stops, $0 spent.",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"Dallas, TX\",\n  \"finish\": \"Houston, TX\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"201 Created\", () => pm.response.to.have.status(201));",
+                  "const body = pm.response.json();",
+                  "pm.collectionVariables.set(\"planId\", body.id);",
+                  "pm.collectionVariables.set(\"mapUrl\", body.map_url);",
+                  "pm.test(\"At most one routing call\", () => pm.expect(body.meta.external_api_calls.routing).to.be.at.most(1));",
+                  "pm.test(\"Gallons bought + starting tank = trip gallons\", () => {",
+                  "  const s = body.summary;",
+                  "  pm.expect(s.gallons_purchased + s.starting_tank_gallons_used).to.be.closeTo(s.trip_gallons, 0.05);",
+                  "});",
+                  "console.log(`Fuel: $${body.summary.total_fuel_cost} over ${body.summary.number_of_stops} stops. Map: ${body.map_url}`);"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Cheapest possible bill (stop_cost = 0)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "stop_cost 0 minimises the fuel bill alone, even if that means extra small top-ups.",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"Los Angeles, CA\",\n  \"finish\": \"New York, NY\",\n  \"stop_cost\": 0\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"201 Created\", () => pm.response.to.have.status(201));",
+                  "const body = pm.response.json();",
+                  "pm.collectionVariables.set(\"planId\", body.id);",
+                  "pm.collectionVariables.set(\"mapUrl\", body.map_url);",
+                  "pm.test(\"At most one routing call\", () => pm.expect(body.meta.external_api_calls.routing).to.be.at.most(1));",
+                  "pm.test(\"Gallons bought + starting tank = trip gallons\", () => {",
+                  "  const s = body.summary;",
+                  "  pm.expect(s.gallons_purchased + s.starting_tank_gallons_used).to.be.closeTo(s.trip_gallons, 0.05);",
+                  "});",
+                  "console.log(`Fuel: $${body.summary.total_fuel_cost} over ${body.summary.number_of_stops} stops. Map: ${body.map_url}`);"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Coordinates as input",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "San Antonio to Memphis given as lat,lon.",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"29.4241,-98.4936\",\n  \"finish\": \"35.1495,-90.0490\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"201 Created\", () => pm.response.to.have.status(201));",
+                  "const body = pm.response.json();",
+                  "pm.collectionVariables.set(\"planId\", body.id);",
+                  "pm.collectionVariables.set(\"mapUrl\", body.map_url);",
+                  "pm.test(\"At most one routing call\", () => pm.expect(body.meta.external_api_calls.routing).to.be.at.most(1));",
+                  "pm.test(\"Gallons bought + starting tank = trip gallons\", () => {",
+                  "  const s = body.summary;",
+                  "  pm.expect(s.gallons_purchased + s.starting_tank_gallons_used).to.be.closeTo(s.trip_gallons, 0.05);",
+                  "});",
+                  "console.log(`Fuel: $${body.summary.total_fuel_cost} over ${body.summary.number_of_stops} stops. Map: ${body.map_url}`);"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Street address (uses the geocoder)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "A full address is not in the offline place list, so it costs one geocoding call.",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"350 5th Ave, New York, NY 10118\",\n  \"finish\": \"Miami, FL\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"201 Created\", () => pm.response.to.have.status(201));",
+                  "const body = pm.response.json();",
+                  "pm.collectionVariables.set(\"planId\", body.id);",
+                  "pm.collectionVariables.set(\"mapUrl\", body.map_url);",
+                  "pm.test(\"At most one routing call\", () => pm.expect(body.meta.external_api_calls.routing).to.be.at.most(1));",
+                  "pm.test(\"Gallons bought + starting tank = trip gallons\", () => {",
+                  "  const s = body.summary;",
+                  "  pm.expect(s.gallons_purchased + s.starting_tank_gallons_used).to.be.closeTo(s.trip_gallons, 0.05);",
+                  "});",
+                  "console.log(`Fuel: $${body.summary.total_fuel_cost} over ${body.summary.number_of_stops} stops. Map: ${body.map_url}`);"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saved plans",
+      "item": [
+        {
+          "name": "Get the last plan",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans/{{planId}}",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans",
+                "{{planId}}"
+              ]
+            },
+            "description": ""
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"200 OK\", () => pm.response.to.have.status(200));"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Open the last plan's map (HTML)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans/{{planId}}/map",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans",
+                "{{planId}}",
+                "map"
+              ]
+            },
+            "description": "Returns an HTML page; open {{mapUrl}} in a browser for the interactive map."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Errors",
+      "item": [
+        {
+          "name": "Missing finish → 400",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"Denver, CO\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"400 Bad Request\", () => pm.response.to.have.status(400));"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Outside the USA → 422",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"43.6532,-79.3832\",\n  \"finish\": \"Chicago, IL\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"422\", () => pm.response.to.have.status(422));",
+                  "pm.test(\"outside_usa\", () => pm.expect(pm.response.json().error).to.eql(\"outside_usa\"));"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Unknown place → 404",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/trip-plans",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "trip-plans"
+              ]
+            },
+            "description": "",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start\": \"Qwertyuiopville Zzzz\",\n  \"finish\": \"Chicago, IL\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"404\", () => pm.response.to.have.status(404));"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://127.0.0.1:8000"
+    },
+    {
+      "key": "planId",
+      "value": ""
+    },
+    {
+      "key": "mapUrl",
+      "value": ""
+    }
+  ]
+}
